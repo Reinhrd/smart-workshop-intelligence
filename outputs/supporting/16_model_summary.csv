@@ -1,0 +1,7 @@
+metric,value
+N episodes,6455.0
+R2,0.8805256564768187
+Adj R2,0.8803402524676269
+Residual sigma log-days,0.20814356927035224
+Median actual gap days,78.0
+Median predicted gap days,75.10977017673876

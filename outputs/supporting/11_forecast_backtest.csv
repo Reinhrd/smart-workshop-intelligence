@@ -1,0 +1,3 @@
+model,test_mape_last_12_weeks,notes
+Naive rolling 4-week mean,0.10565894453808866,baseline
+SARIMAX exogenous,0.1016230754601256,"features: payday, pre-Lebaran, Lebaran holiday; order=(1,1,1), seasonal=(1,0,0,52)"

@@ -1,0 +1,11 @@
+check,value,status,notes
+Missing service_id,0,PASS,
+Duplicate service_id,0,PASS,
+Orphan car_id in service,0,PASS,
+Negative/zero price rows,0,PASS,
+Negative/zero qty rows,0,PASS,
+Missing phone master cars,0,PASS,
+Phone not starting 0 after dtype text,0,PASS,Pastikan pipeline WA selalu read dtype string.
+Service date after current date,0,PASS,
+Service date before 2022-01-01,0,PASS,
+Duplicated rows exact service table,0,PASS,

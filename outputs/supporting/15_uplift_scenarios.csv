@@ -1,0 +1,4 @@
+scenario,target_count,assumed_conversion,avg_oil_plus_crosssell_value,estimated_incremental_revenue
+Top 100 due-reminder WA,100,0.18,1263892.696552994,22750068.53795389
+Top 250 due-reminder WA,250,0.18,1263892.696552994,56875171.34488473
+All High/Critical due-reminder WA,16,0.18,1263892.696552994,3640010.9660726227

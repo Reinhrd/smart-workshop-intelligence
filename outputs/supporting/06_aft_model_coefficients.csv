@@ -1,0 +1,13 @@
+feature,coef_log_days,hazard_direction,p_value
+log_km_per_bulan,-0.9276206341969064,shorter interval,0.0
+segmen_pemakaian_asli_Light Commuter,0.21282463645191793,longer interval,4.0781322750966975e-50
+log_interval_oli_km,1.0962002461478222,longer interval,4.0482311251382975e-08
+segmen_pemakaian_asli_Weekend Warrior,-0.05009254549680586,shorter interval,6.328874745475523e-07
+const,0.12940357748272657,longer interval,0.0015004915586731486
+penggerak_FWD,-0.033863896361287546,shorter interval,0.026942327382579963
+bahan_bakar_Hybrid,0.019388154023191773,longer interval,0.21372079274368194
+tahun,0.0008320775292182999,longer interval,0.3729366524968464
+penggerak_RWD,-0.01098599903850167,shorter interval,0.39154715643346394
+jenis_oli_Mineral,0.09441261293193887,longer interval,0.5295166470079404
+bahan_bakar_Diesel,0.030875013438254773,longer interval,0.7387336225422778
+jenis_oli_Semi-Sintetik,0.01726745330804745,longer interval,0.7801808586206582
