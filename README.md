@@ -94,6 +94,17 @@ Raw service data
 | `10_weekly_demand_forecast.csv`             | 8-week workshop demand forecast                                         |
 | `14_customer_value_risk.csv`                | Customer value and churn-risk proxy scoring                             |
 | PNG plots                                   | Presentation-ready visualizations                                       |
+![Revenue by Service Category](outputs/plots/plot_revenue_by_category.png)
+
+![Oil Reminder Alert Tier Distribution](outputs/plots/plot_alert_tiers.png)
+
+![Personalized Service Interval Signal](outputs/plots/plot_oil_interval_by_segment.png)
+
+![Customer Vehicle Cluster Profile](outputs/plots/plot_cluster_profile.png)
+
+![Top Market Basket Rules by Lift](outputs/plots/plot_top_basket_rules.png)
+
+![Weekly Workshop Demand Forecast](outputs/plots/plot_weekly_forecast.png)
 
 ## Key Business Findings
 
