@@ -40,7 +40,7 @@ This means the reminder system has two roles:
 
 ## 2. Oil Reminder Alert Tier Distribution
 
-![Oil Reminder Alert Tier Distribution](outputs/plots/plot_alert_tiers.png)
+![Oil Reminder Alert Tier Distribution](plot_alert_tiers.png)
 
 The alert tier distribution shows that most vehicles are still in the **Monitor** category. A smaller group is classified as **Warm Reminder**, and only a small number of vehicles are classified as **High Priority**. No vehicle falls into the **Critical** category.
 
@@ -86,7 +86,7 @@ This output turns a simple oil reminder into a prioritization engine.
 
 ## 3. Personalized Service Interval Signal
 
-![Personalized Service Interval Signal](outputs/plots/plot_oil_interval_by_segment.png)
+![Personalized Service Interval Signal](plot_oil_interval_by_segment.png)
 
 The personalized service interval plot shows that oil change behavior differs strongly across usage segments.
 
@@ -134,7 +134,7 @@ Behavior-based service intelligence
 
 ## 4. Customer/Vehicle Cluster Profile
 
-![Customer Vehicle Cluster Profile](outputs/plots/plot_cluster_profile.png)
+![Customer Vehicle Cluster Profile](plot_cluster_profile.png)
 
 The cluster profile compares customer/vehicle groups using average monthly mileage and average yearly revenue.
 
@@ -181,7 +181,7 @@ Which type of customer should receive more attention?
 
 ## 5. Top Market Basket Rules by Lift
 
-![Top Market Basket Rules by Lift](outputs/plots/plot_top_basket_rules.png)
+![Top Market Basket Rules by Lift](plot_top_basket_rules.png)
 
 The market basket plot shows which service items tend to appear together in the same visit.
 
@@ -238,7 +238,7 @@ This is why the project uses market basket analysis not only as a statistical ou
 
 ## 6. Weekly Workshop Demand Forecast
 
-![Weekly Workshop Demand Forecast](outputs/plots/plot_weekly_forecast.png)
+![Weekly Workshop Demand Forecast](plot_weekly_forecast.png)
 
 The weekly forecast shows actual weekly visits and predicted visits for the next 8 weeks. The forecast range is approximately **42 to 47 visits per week**, with a 95% prediction interval around the forecast.
 
