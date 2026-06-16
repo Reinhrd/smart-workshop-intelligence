@@ -1,0 +1,621 @@
+customer_id,nama_pemilik,no_telepon,alamat,kecamatan,kota,kode_pos,car_id,nopol,model,varian,tahun,bahan_bakar,penggerak,transmisi,jenis_oli,interval_oli_km,segmen_pemakaian_asli,km_per_bulan
+CUST0001,Wahyu Nugroho,081272752813,"Komp. Cemara Asri Blok F23, Jl. William Iskandar",Medan Selayang,Medan,20131,CAR0001,BK 4071 NU,Innova Zenix,2.0 HV,2020,Hybrid,FWD,CVT,Full-Sintetik,10000,Heavy Daily,2942.7
+CUST0002,Pranata Sembiring,085226429339,Jl. Kapten Muslim No. 101,Medan Marelan,Medan,20255,CAR0002,BK 9685 MP,Avanza,1.5 G,2024,Bensin,FWD,AT,Semi-Sintetik,7000,Light Commuter,1042.1
+CUST0003,Rizky Tarigan,083815748723,Jl. Pancing No. 158,Medan Maimun,Medan,20151,CAR0003,BK 3366 VM,Avanza,1.3 E,2016,Bensin,RWD,MT,Semi-Sintetik,7000,Weekend Warrior,1415.4
+CUST0004,Tiur Ginting,083871008004,Jl. Brigjen Katamso No. 91,Medan Denai,Medan,20227,CAR0004,BK 4948 BS,Innova Zenix,2.0 HV,2021,Hybrid,FWD,CVT,Full-Sintetik,10000,Light Commuter,586.0
+CUST0005,Togar Manurung,089677024299,Jl. Adam Malik No. 82,Medan Deli,Medan,20241,CAR0005,BK 3675 YE,Avanza,1.5 G,2023,Bensin,FWD,AT,Semi-Sintetik,7000,Weekend Warrior,1696.2
+CUST0006,Taufik Ginting,081371775280,"Komp. Citra Garden Blok E28, Jl. Gajah Mada",Medan Area,Medan,20214,CAR0006,BK 8999 KS,Avanza,1.5 Veloz,2021,Bensin,FWD,MT,Full-Sintetik,9500,Light Commuter,747.9
+CUST0007,Dewi Wirawan,081338107909,Jl. Dr. Mansyur No. 201,Medan Marelan,Medan,20255,CAR0007,BK 3213 SK,Fortuner,2.8 GR 4x4,2024,Diesel,4x4,AT,Full-Sintetik,6000,Weekend Warrior,1758.0
+CUST0008,Ratna Damanik,081384932798,Jl. Gatot Subroto No. 199,Medan Tuntungan,Medan,20135,CAR0008,BK 6181 XJ,Avanza,1.5 G,2018,Bensin,FWD,MT,Semi-Sintetik,7000,Light Commuter,644.1
+CUST0009,Sari Nugroho,081151295549,Jl. Sisingamangaraja No. 35,Medan Petisah,Medan,20111,CAR0009,BK 4359 HY,Avanza,1.5 Veloz,2023,Bensin,FWD,AT,Full-Sintetik,9500,Heavy Daily,2968.9
+CUST0010,Hendra Nugroho,081117127884,Jl. Kapten Muslim No. 141,Medan Amplas,Medan,20148,CAR0010,BK 9914 KT,Innova Reborn,2.4 V Diesel,2021,Diesel,RWD,AT,Full-Sintetik,6000,Light Commuter,1249.0
+CUST0011,Ferry Santoso,082249309843,"Perumahan J City Blok G25, Jl. Pancing",Medan Kota,Medan,20212,CAR0011,BK 6535 JJ,Avanza,1.5 Veloz,2020,Bensin,FWD,AT,Full-Sintetik,9500,Weekend Warrior,1822.4
+CUST0012,Agus Batubara,082249086956,"Komp. Tasbih Blok F29, Jl. Karya Wisata",Medan Helvetia,Medan,20124,CAR0012,BK 9916 KG,Avanza,1.3 E,2018,Bensin,RWD,AT,Semi-Sintetik,7000,Heavy Daily,2352.3
+CUST0013,Wati Hutapea,082212041955,"Komp. Cemara Asri Blok E14, Jl. Sutomo",Medan Selayang,Medan,20131,CAR0013,BK 1788 FK,Rush,1.5 S TRD,2018,Bensin,RWD,AT,Semi-Sintetik,7000,Weekend Warrior,1976.6
+CUST0014,Surya Sembiring,082354605014,"Komp. Tasbih Blok C20, Jl. Adam Malik",Medan Sunggal,Medan,20128,CAR0014,BK 7030 VL,Avanza,1.5 G,2021,Bensin,FWD,MT,Semi-Sintetik,7000,Light Commuter,679.1
+CUST0015,Reza Lubis,082296564296,Jl. SM Raja No. 175,Medan Denai,Medan,20227,CAR0015,BK 7788 XW,Innova Reborn,2.4 V Diesel,2021,Diesel,RWD,AT,Full-Sintetik,6000,Weekend Warrior,1990.8
+CUST0016,Agus Maulana,085133497451,Jl. Cemara No. 184,Medan Barat,Medan,20231,CAR0016,BK 5276 DR,Innova Reborn,2.0 G Bensin,2021,Bensin,RWD,AT,Semi-Sintetik,7000,Weekend Warrior,1431.4
+CUST0017,Rina Ginting,082328217493,"Komp. Citra Garden Blok D6, Jl. HM Yamin",Medan Denai,Medan,20227,CAR0017,BK 8193 WZ,Rush,1.5 S TRD,2023,Bensin,RWD,AT,Semi-Sintetik,7000,Weekend Warrior,877.7
+CUST0018,Juliana Setiawan,085237776645,"Komp. Tasbih Blok E19, Jl. Karya Wisata",Medan Baru,Medan,20153,CAR0018,BK 9161 LP,Innova Reborn,2.4 V Diesel,2018,Diesel,RWD,AT,Full-Sintetik,6000,Weekend Warrior,2069.2
+CUST0019,Dedi Sembiring,082139686944,"Komp. Tasbih Blok B18, Jl. Marelan Raya",Medan Tuntungan,Medan,20135,CAR0019,BK 7521 ZV,Corolla Cross,1.8 HV,2020,Hybrid,FWD,CVT,Full-Sintetik,10000,Light Commuter,1113.3
+CUST0020,Dedi Daulay,081150224121,Jl. Jamin Ginting No. 74,Medan Kota,Medan,20212,CAR0020,BK 1130 CC,Avanza,1.5 G,2024,Bensin,FWD,AT,Semi-Sintetik,7000,Weekend Warrior,1501.7
+CUST0021,Wahyu Rahman,085380431584,"Komp. Cemara Asri Blok E15, Jl. Ringroad",Medan Area,Medan,20214,CAR0021,BK 1763 UM,Avanza,1.5 Veloz,2023,Bensin,FWD,AT,Full-Sintetik,9500,Light Commuter,504.5
+CUST0022,Gunawan Nugroho,082195833983,Jl. William Iskandar No. 212,Medan Area,Medan,20214,CAR0022,BK 3354 GG,Rush,1.5 S TRD,2020,Bensin,RWD,AT,Semi-Sintetik,7000,Light Commuter,1031.7
+CUST0023,Siti Batubara,085322623719,Jl. Krakatau No. 28,Medan Helvetia,Medan,20124,CAR0023,BK 1795 HF,Corolla Cross,1.8 HV,2020,Hybrid,FWD,CVT,Full-Sintetik,10000,Light Commuter,1052.7
+CUST0024,Mega Hutabarat,082394477917,"Komp. Citra Garden Blok G29, Jl. Setia Budi",Medan Petisah,Medan,20111,CAR0024,BK 6957 GR,Raize,1.0 Turbo,2018,Bensin,FWD,CVT,Full-Sintetik,9500,Light Commuter,787.9
+CUST0025,Iwan Situmorang,082284675139,Jl. Denai No. 79,Medan Petisah,Medan,20111,CAR0025,BK 8131 JM,Vios,1.5 G,2020,Bensin,FWD,CVT,Full-Sintetik,9500,Weekend Warrior,2040.1
+CUST0026,Gunawan Batubara,082199219423,"Komp. Tasbih Blok A9, Jl. AH Nasution",Medan Area,Medan,20214,CAR0026,BK 1764 MW,Innova Reborn,2.4 V Diesel,2022,Diesel,RWD,AT,Full-Sintetik,6000,Weekend Warrior,1184.1
+CUST0027,Surya Daulay,081377368609,Jl. Gajah Mada No. 223,Medan Polonia,Medan,20157,CAR0027,BK 9641 NC,Raize,1.0 Turbo,2017,Bensin,FWD,CVT,Full-Sintetik,9500,Weekend Warrior,1143.4
+CUST0028,Nurul Sinaga,082346914362,Jl. Iskandar Muda No. 184,Medan Selayang,Medan,20131,CAR0028,BK 8437 DC,Avanza,1.5 G,2016,Bensin,FWD,MT,Semi-Sintetik,7000,Light Commuter,864.5
+CUST0029,Erlina Sitorus,081221041608,Jl. Glugur No. 39,Medan Selayang,Medan,20131,CAR0029,BK 1138 GD,Innova Reborn,2.0 G Bensin,2021,Bensin,RWD,AT,Semi-Sintetik,7000,Light Commuter,704.6
+CUST0030,Maya Santoso,082135243792,Jl. Sutomo No. 80,Medan Labuhan,Medan,20252,CAR0030,BK 2416 LS,Avanza,1.5 G,2016,Bensin,FWD,MT,Semi-Sintetik,7000,Light Commuter,911.6
+CUST0031,Gunawan Siregar,081330663513,"Komp. Tasbih Blok G4, Jl. Gatot Subroto",Medan Barat,Medan,20231,CAR0031,BK 2237 XN,Innova Reborn,2.0 G Bensin,2024,Bensin,RWD,AT,Semi-Sintetik,7000,Heavy Daily,2837.1
+CUST0032,Hadi Wibowo,082187778236,"Komp. Cemara Asri Blok F24, Jl. Pasar Merah",Medan Polonia,Medan,20157,CAR0032,BK 3518 DS,Veloz,1.5 Q CVT,2016,Bensin,FWD,CVT,Full-Sintetik,9500,Light Commuter,1611.3
+CUST0033,Dewi Situmorang,089637082189,"Komp. Royal Sumatra Blok C28, Jl. SM Raja",Medan Johor,Medan,20144,CAR0033,BK 5934 TJ,Calya,1.2 G,2021,Bensin,FWD,MT,Mineral,4500,Heavy Daily,2415.6
+CUST0034,Fahmi Rahman,081263715996,"Komp. Tasbih Blok A21, Jl. Kapten Muslim",Medan Polonia,Medan,20157,CAR0034,BK 5282 KR,Hilux,2.4 D-Cab 4x4,2021,Diesel,4x4,AT,Full-Sintetik,6000,Heavy Daily,2480.0
+CUST0035,Maya Saragih,081393967644,Jl. Dr. Mansyur No. 117,Medan Sunggal,Medan,20128,CAR0035,BK 9870 AU,Avanza,1.5 Veloz,2023,Bensin,FWD,AT,Full-Sintetik,9500,Light Commuter,855.5
+CUST0036,Pranata Tanjung,083832548170,"Komp. Royal Sumatra Blok D23, Jl. Gajah Mada",Medan Sunggal,Medan,20128,CAR0036,BK 6472 AZ,Calya,1.2 G,2023,Bensin,FWD,MT,Mineral,4500,Heavy Daily,2580.7
+CUST0037,Ratna Suryadi,082247122069,"Komp. Citra Garden Blok A19, Jl. Bromo",Medan Labuhan,Medan,20252,CAR0037,BK 3549 NK,Yaris,1.5 S,2016,Bensin,FWD,CVT,Full-Sintetik,9500,Light Commuter,975.8
+CUST0038,Robby Tanjung,082199507713,Jl. HM Yamin No. 239,Medan Polonia,Medan,20157,CAR0038,BK 2978 JV,Veloz,1.5 Q CVT,2018,Bensin,FWD,CVT,Full-Sintetik,9500,Heavy Daily,3256.5
+CUST0039,Reza Lubis,082184213868,"Komp. Citra Garden Blok G27, Jl. Bromo",Medan Amplas,Medan,20148,CAR0039,BK 8986 SA,Avanza,1.3 E,2024,Bensin,RWD,MT,Semi-Sintetik,7000,Heavy Daily,2138.2
+CUST0040,Surya Ginting,081358621190,Jl. Sisingamangaraja No. 49,Medan Maimun,Medan,20151,CAR0040,BK 6580 SL,Agya,1.2 G,2019,Bensin,FWD,MT,Mineral,4500,Light Commuter,436.9
+CUST0041,Hadi Manurung,085145428453,"Komp. Citra Garden Blok F26, Jl. Menteng",Medan Tuntungan,Medan,20135,CAR0041,BK 6775 KE,Avanza,1.3 E,2021,Bensin,RWD,AT,Semi-Sintetik,7000,Light Commuter,1345.3
+CUST0042,Edy Batubara,082130523244,Jl. Karya Wisata No. 237,Medan Area,Medan,20214,CAR0042,BK 5706 YL,Veloz,1.5 Q CVT,2016,Bensin,FWD,CVT,Full-Sintetik,9500,Heavy Daily,1813.7
+CUST0043,Frans Tarigan,083819141839,Jl. Setia Budi No. 13,Medan Area,Medan,20214,CAR0043,BK 8473 YK,Corolla Cross,1.8 HV,2023,Hybrid,FWD,CVT,Full-Sintetik,10000,Weekend Warrior,1372.4
+CUST0044,Erlina Silalahi,083831589815,"Komp. Citra Garden Blok F19, Jl. HM Yamin",Medan Sunggal,Medan,20128,CAR0044,BK 8557 YY,Raize,1.0 Turbo,2018,Bensin,FWD,CVT,Full-Sintetik,9500,Heavy Daily,2200.9
+CUST0045,Boy Susanto,082256279701,Jl. Sekip No. 116,Medan Tuntungan,Medan,20135,CAR0045,BK 2290 TV,Avanza,1.5 G,2022,Bensin,FWD,MT,Semi-Sintetik,7000,Light Commuter,768.3
+CUST0046,Taufik Santoso,081349025300,"Komp. Tasbih Blok B10, Jl. Dr. Mansyur",Medan Tembung,Medan,20222,CAR0046,BK 8315 LX,Veloz,1.5 Q CVT,2016,Bensin,FWD,CVT,Full-Sintetik,9500,Heavy Daily,2810.0
+CUST0047,Bayu Situmorang,082171713118,"Perumahan J City Blok E27, Jl. Sutomo",Medan Perjuangan,Medan,20233,CAR0047,BK 8788 GJ,Raize,1.0 Turbo,2024,Bensin,FWD,CVT,Full-Sintetik,9500,Heavy Daily,2573.6
+CUST0048,Dimas Dalimunthe,083854026872,"Perumahan J City Blok D23, Jl. HM Yamin",Medan Sunggal,Medan,20128,CAR0048,BK 6943 UK,Raize,1.0 Turbo,2019,Bensin,FWD,CVT,Full-Sintetik,9500,Heavy Daily,2024.9
+CUST0049,Siti Simanjuntak,081172525529,Jl. Bromo No. 33,Medan Labuhan,Medan,20252,CAR0049,BK 3833 NF,Avanza,1.5 Veloz,2016,Bensin,FWD,MT,Full-Sintetik,9500,Weekend Warrior,1731.3
+CUST0050,Indah Purba,081257089422,Jl. Setia Budi No. 240,Medan Labuhan,Medan,20252,CAR0050,BK 8117 PF,Fortuner,2.8 GR 4x4,2021,Diesel,4x4,AT,Full-Sintetik,6000,Heavy Daily,2877.6
+CUST0051,Rendi Suryadi,085280429968,Jl. Denai No. 236,Medan Baru,Medan,20153,CAR0051,BK 6841 KM,Avanza,1.5 G,2021,Bensin,FWD,MT,Semi-Sintetik,7000,Light Commuter,1116.6
+CUST0052,Agus Susanto,081125092541,"Komp. Tasbih Blok E14, Jl. Karya Wisata",Medan Denai,Medan,20227,CAR0052,BK 8481 EE,Avanza,1.5 G,2019,Bensin,FWD,AT,Semi-Sintetik,7000,Light Commuter,432.0
+CUST0053,Erlina Silalahi,085354283121,Jl. AH Nasution No. 232,Medan Marelan,Medan,20255,CAR0053,BK 2027 KH,Fortuner,2.4 VRZ 4x2,2024,Diesel,RWD,AT,Full-Sintetik,6000,Light Commuter,1078.5
+CUST0054,Hendra Sembiring,082375584767,Jl. Sutomo No. 52,Medan Helvetia,Medan,20124,CAR0054,BK 9900 DY,Avanza,1.3 E,2025,Bensin,RWD,MT,Semi-Sintetik,7000,Heavy Daily,3698.5
+CUST0055,Rosma Panjaitan,081134348156,"Komp. Citra Garden Blok C5, Jl. William Iskandar",Medan Labuhan,Medan,20252,CAR0055,BK 9911 GY,Avanza,1.5 Veloz,2017,Bensin,FWD,AT,Full-Sintetik,9500,Light Commuter,580.3
+CUST0056,Surya Rahman,085276364449,"Komp. Tasbih Blok D28, Jl. Halat",Medan Deli,Medan,20241,CAR0056,BK 6661 YP,Rush,1.5 S TRD,2019,Bensin,RWD,AT,Semi-Sintetik,7000,Light Commuter,777.8
+CUST0057,Siti Gunawan,081343866866,Jl. Gatot Subroto No. 179,Medan Marelan,Medan,20255,CAR0057,BK 1492 SD,Avanza,1.3 E,2017,Bensin,RWD,AT,Semi-Sintetik,7000,Light Commuter,654.7
+CUST0058,Santi Rangkuti,082321042097,"Komp. Royal Sumatra Blok E16, Jl. Jamin Ginting",Medan Kota,Medan,20212,CAR0058,BK 2889 FA,Avanza,1.3 E,2016,Bensin,RWD,AT,Semi-Sintetik,7000,Light Commuter,635.9
+CUST0059,Yuni Tanjung,089651263838,"Komp. Royal Sumatra Blok D27, Jl. Gatot Subroto",Medan Selayang,Medan,20131,CAR0059,BK 5238 ZX,Rush,1.5 S TRD,2019,Bensin,RWD,AT,Semi-Sintetik,7000,Weekend Warrior,1628.4
+CUST0060,Tiur Nasution,083871593554,Jl. Sekip No. 11,Medan Polonia,Medan,20157,CAR0060,BK 1127 SC,Avanza,1.5 Veloz,2025,Bensin,FWD,MT,Full-Sintetik,9500,Light Commuter,1511.6
+CUST0061,Budi Hasibuan,081368506609,"Komp. Cemara Asri Blok G1, Jl. Marelan Raya",Medan Petisah,Medan,20111,CAR0061,BK 9504 WK,Avanza,1.5 G,2018,Bensin,FWD,MT,Semi-Sintetik,7000,Heavy Daily,2414.6
+CUST0062,Lestari Silalahi,082111319194,"Perumahan J City Blok A1, Jl. Marelan Raya",Medan Kota,Medan,20212,CAR0062,BK 4674 DF,Raize,1.0 Turbo,2018,Bensin,FWD,CVT,Full-Sintetik,9500,Light Commuter,955.3
+CUST0063,Hermanto Silalahi,089631463589,Jl. Ringroad No. 15,Medan Helvetia,Medan,20124,CAR0063,BK 6085 FN,Hilux,2.4 D-Cab 4x4,2022,Diesel,4x4,MT,Full-Sintetik,6000,Light Commuter,903.1
+CUST0064,Boy Effendi,085186147282,Jl. Sekip No. 112,Medan Kota,Medan,20212,CAR0064,BK 9821 EK,Avanza,1.3 E,2024,Bensin,RWD,MT,Semi-Sintetik,7000,Heavy Daily,3153.2
+CUST0065,Rendi Sembiring,085377055933,Jl. Iskandar Muda No. 212,Medan Area,Medan,20214,CAR0065,BK 7278 SP,Yaris Cross,1.5 HV,2019,Hybrid,FWD,CVT,Full-Sintetik,10000,Heavy Daily,2981.8
+CUST0066,Surya Santoso,082118997388,Jl. Menteng No. 187,Medan Sunggal,Medan,20128,CAR0066,BK 5914 VC,Avanza,1.5 Veloz,2020,Bensin,FWD,MT,Full-Sintetik,9500,Heavy Daily,2818.6
+CUST0067,Budi Nasution,082189565129,Jl. Adam Malik No. 44,Medan Tembung,Medan,20222,CAR0067,BK 8393 XL,Innova Zenix,2.0 HV,2016,Hybrid,FWD,CVT,Full-Sintetik,10000,Light Commuter,886.1
+CUST0068,Dewi Purba,085358868055,"Perumahan J City Blok E13, Jl. Kapten Muslim",Medan Polonia,Medan,20157,CAR0068,BK 6946 FH,Hilux,2.4 D-Cab 4x4,2021,Diesel,4x4,MT,Full-Sintetik,6000,Heavy Daily,3292.9
+CUST0069,Iwan Maulana,085262015837,Jl. Ringroad No. 162,Medan Area,Medan,20214,CAR0069,BK 2612 NM,Yaris Cross,1.5 HV,2018,Hybrid,FWD,CVT,Full-Sintetik,10000,Heavy Daily,3485.7
+CUST0070,Gunawan Manurung,085292225267,"Komp. Tasbih Blok A28, Jl. Setia Budi",Medan Barat,Medan,20231,CAR0070,BK 4555 KV,Avanza,1.5 Veloz,2020,Bensin,FWD,MT,Full-Sintetik,9500,Weekend Warrior,1102.1
+CUST0071,Pranata Saragih,085267119742,"Komp. Royal Sumatra Blok F7, Jl. AH Nasution",Medan Deli,Medan,20241,CAR0071,BK 2221 VS,Avanza,1.5 G,2018,Bensin,FWD,MT,Semi-Sintetik,7000,Heavy Daily,3720.5
+CUST0072,Joko Pohan,085252955266,"Komp. Tasbih Blok E11, Jl. Gajah Mada",Medan Amplas,Medan,20148,CAR0072,BK 6823 PK,Avanza,1.5 G,2018,Bensin,FWD,MT,Semi-Sintetik,7000,Light Commuter,1093.8
+CUST0073,Ayu Setiawan,081138453216,Jl. Krakatau No. 137,Medan Maimun,Medan,20151,CAR0073,BK 6165 BD,Veloz,1.5 Q CVT,2020,Bensin,FWD,CVT,Full-Sintetik,9500,Heavy Daily,2326.8
+CUST0074,Wahyu Saputra,085382737629,Jl. Glugur No. 32,Medan Deli,Medan,20241,CAR0074,BK 5211 NX,Avanza,1.5 Veloz,2017,Bensin,FWD,MT,Full-Sintetik,9500,Heavy Daily,2517.0
+CUST0075,Fahmi Silalahi,082138295673,Jl. Adam Malik No. 124,Medan Kota,Medan,20212,CAR0075,BK 1908 UU,Avanza,1.3 E,2025,Bensin,RWD,MT,Semi-Sintetik,7000,Light Commuter,737.6
+CUST0076,Rina Marpaung,081216983525,Jl. Krakatau No. 122,Medan Maimun,Medan,20151,CAR0076,BK 2335 RH,Avanza,1.5 G,2018,Bensin,FWD,AT,Semi-Sintetik,7000,Light Commuter,823.1
+CUST0077,Erlina Siregar,085284437354,Jl. Dr. Mansyur No. 93,Medan Selayang,Medan,20131,CAR0077,BK 3752 HX,Calya,1.2 G,2022,Bensin,FWD,MT,Mineral,4500,Heavy Daily,2853.9
+CUST0078,Surya Susanto,085255159624,"Komp. Cemara Asri Blok F13, Jl. Menteng",Medan Timur,Medan,20231,CAR0078,BK 5666 HH,Innova Reborn,2.4 V Diesel,2020,Diesel,RWD,AT,Full-Sintetik,6000,Weekend Warrior,1887.0
+CUST0079,Tiur Wibowo,089667674002,"Komp. Cemara Asri Blok F16, Jl. Marelan Raya",Medan Denai,Medan,20227,CAR0079,BK 3410 WP,Raize,1.0 Turbo,2019,Bensin,FWD,CVT,Full-Sintetik,9500,Heavy Daily,1774.5
+CUST0080,Maya Batubara,089696216003,"Perumahan J City Blok G19, Jl. Sekip",Medan Polonia,Medan,20157,CAR0080,BK 8183 PX,Rush,1.5 S TRD,2021,Bensin,RWD,AT,Semi-Sintetik,7000,Weekend Warrior,1578.6
+CUST0081,Indra Harahap,083877971371,"Komp. Royal Sumatra Blok G5, Jl. Cemara",Medan Timur,Medan,20231,CAR0081,BK 6041 VM,Avanza,1.5 G,2024,Bensin,FWD,MT,Semi-Sintetik,7000,Heavy Daily,4019.3
+CUST0082,Dedi Daulay,081266883095,"Komp. Tasbih Blok D29, Jl. Pancing",Medan Amplas,Medan,20148,CAR0082,BK 2288 MH,Rush,1.5 S TRD,2025,Bensin,RWD,AT,Semi-Sintetik,7000,Heavy Daily,2681.2
+CUST0083,Fahmi Sitorus,083885918686,Jl. Karya Wisata No. 162,Medan Area,Medan,20214,CAR0083,BK 6711 JA,Yaris,1.5 S,2016,Bensin,FWD,CVT,Full-Sintetik,9500,Heavy Daily,2593.8
+CUST0084,Rendi Setiawan,085276925855,Jl. Krakatau No. 232,Medan Marelan,Medan,20255,CAR0084,BK 1538 AC,Rush,1.5 S TRD,2021,Bensin,RWD,AT,Semi-Sintetik,7000,Light Commuter,1043.0
+CUST0085,Mega Rangkuti,085255424877,Jl. Pancing No. 147,Medan Polonia,Medan,20157,CAR0085,BK 4941 LL,Avanza,1.5 G,2022,Bensin,FWD,MT,Semi-Sintetik,7000,Heavy Daily,3053.2
+CUST0086,Edy Marpaung,085356521944,"Komp. Cemara Asri Blok G19, Jl. Adam Malik",Medan Sunggal,Medan,20128,CAR0086,BK 5057 FE,Fortuner,2.8 GR 4x4,2022,Diesel,4x4,AT,Full-Sintetik,6000,Light Commuter,945.4
+CUST0087,Indra Simanjuntak,082112236471,Jl. Pasar Merah No. 112,Medan Area,Medan,20214,CAR0087,BK 6748 AF,Fortuner,2.4 VRZ 4x2,2017,Diesel,RWD,AT,Full-Sintetik,6000,Light Commuter,845.1
+CUST0088,Indra Wibowo,082225327326,Jl. Kapten Muslim No. 178,Medan Labuhan,Medan,20252,CAR0088,BK 9657 ET,Raize,1.0 Turbo,2024,Bensin,FWD,CVT,Full-Sintetik,9500,Heavy Daily,1200.0
+CUST0089,Hermanto Nugroho,082391295635,Jl. Pancing No. 240,Medan Sunggal,Medan,20128,CAR0089,BK 6505 NZ,Innova Reborn,2.0 G Bensin,2019,Bensin,RWD,AT,Semi-Sintetik,7000,Heavy Daily,2746.7
+CUST0090,Fitri Tanaka,081355637590,Jl. Dr. Mansyur No. 162,Medan Amplas,Medan,20148,CAR0090,BK 7294 HM,Innova Reborn,2.4 V Diesel,2024,Diesel,RWD,AT,Full-Sintetik,6000,Light Commuter,789.7
+CUST0091,Rina Saputra,081335938392,Jl. Menteng No. 187,Medan Sunggal,Medan,20128,CAR0091,BK 9528 MF,Avanza,1.3 E,2017,Bensin,RWD,MT,Semi-Sintetik,7000,Light Commuter,458.8
+CUST0092,Reza Sembiring,085196685406,Jl. Menteng No. 215,Medan Denai,Medan,20227,CAR0092,BK 9926 MY,Innova Zenix,2.0 HV,2016,Hybrid,FWD,CVT,Full-Sintetik,10000,Light Commuter,942.7
+CUST0093,Agus Rahman,081281426847,"Komp. Cemara Asri Blok D24, Jl. Gajah Mada",Medan Barat,Medan,20231,CAR0093,BK 8255 WC,Avanza,1.3 E,2017,Bensin,RWD,MT,Semi-Sintetik,7000,Light Commuter,1219.1
+CUST0094,Rosma Wijaya,081214954353,Jl. Sisingamangaraja No. 92,Medan Polonia,Medan,20157,CAR0094,BK 1554 NL,Innova Reborn,2.4 V Diesel,2022,Diesel,RWD,AT,Full-Sintetik,6000,Light Commuter,1036.8
+CUST0095,Mega Nugroho,081287887658,Jl. Adam Malik No. 200,Medan Tembung,Medan,20222,CAR0095,BK 6038 PB,Avanza,1.5 Veloz,2018,Bensin,FWD,MT,Full-Sintetik,9500,Light Commuter,738.6
+CUST0096,Siti Sitorus,083849931040,Jl. SM Raja No. 66,Medan Helvetia,Medan,20124,CAR0096,BK 5215 EH,Corolla Cross,1.8 HV,2017,Hybrid,FWD,CVT,Full-Sintetik,10000,Heavy Daily,3306.0
+CUST0097,Rendi Batubara,081170433291,"Perumahan J City Blok D11, Jl. Dr. Mansyur",Medan Tuntungan,Medan,20135,CAR0097,BK 6428 XE,Avanza,1.5 G,2016,Bensin,FWD,AT,Semi-Sintetik,7000,Weekend Warrior,1639.9
+CUST0098,Edy Ginting,085220303473,Jl. Glugur No. 216,Medan Maimun,Medan,20151,CAR0098,BK 7590 KU,Corolla Cross,1.8 HV,2020,Hybrid,FWD,CVT,Full-Sintetik,10000,Light Commuter,647.7
+CUST0099,Bayu Hutabarat,085282665801,Jl. Kapten Muslim No. 74,Medan Tuntungan,Medan,20135,CAR0099,BK 5832 RS,Veloz,1.5 Q CVT,2020,Bensin,FWD,CVT,Full-Sintetik,9500,Weekend Warrior,1347.8
+CUST0100,Wahyu Simanjuntak,089687007307,Jl. Jamin Ginting No. 16,Medan Tembung,Medan,20222,CAR0100,BK 7461 KG,Rush,1.5 S TRD,2021,Bensin,RWD,AT,Semi-Sintetik,7000,Heavy Daily,1660.0
+CUST0101,Roni Rahman,082222091927,"Komp. Citra Garden Blok C6, Jl. Iskandar Muda",Medan Amplas,Medan,20148,CAR0101,BK 3524 DD,Avanza,1.5 G,2018,Bensin,FWD,MT,Semi-Sintetik,7000,Weekend Warrior,1644.5
+CUST0102,Siti Rangkuti,082250464783,Jl. Denai No. 240,Medan Tuntungan,Medan,20135,CAR0102,BK 5186 MY,Avanza,1.3 E,2017,Bensin,RWD,AT,Semi-Sintetik,7000,Light Commuter,1033.3
+CUST0103,Reza Batubara,085231156043,"Komp. Citra Garden Blok C16, Jl. Glugur",Medan Labuhan,Medan,20252,CAR0103,BK 8351 YS,Fortuner,2.4 VRZ 4x2,2021,Diesel,RWD,AT,Full-Sintetik,6000,Light Commuter,876.5
+CUST0104,Putri Santoso,082286903172,"Perumahan J City Blok B11, Jl. Krakatau",Medan Perjuangan,Medan,20233,CAR0104,BK 7811 MZ,Innova Zenix,2.0 HV,2016,Hybrid,FWD,CVT,Full-Sintetik,10000,Heavy Daily,2170.4
+CUST0105,Agus Silalahi,081180536713,"Komp. Royal Sumatra Blok G29, Jl. Sekip",Medan Amplas,Medan,20148,CAR0105,BK 1378 MK,Fortuner,2.4 VRZ 4x2,2024,Diesel,RWD,AT,Full-Sintetik,6000,Light Commuter,375.0
+CUST0106,Maya Wirawan,083834028087,"Komp. Royal Sumatra Blok D10, Jl. Brigjen Katamso",Medan Polonia,Medan,20157,CAR0106,BK 4197 CR,Yaris,1.5 S,2025,Bensin,FWD,CVT,Full-Sintetik,9500,Light Commuter,892.8
+CUST0107,Tiur Susanto,089648962256,"Komp. Cemara Asri Blok F3, Jl. Denai",Medan Barat,Medan,20231,CAR0107,BK 6208 ZX,Avanza,1.5 G,2025,Bensin,FWD,MT,Semi-Sintetik,7000,Weekend Warrior,1828.8
+CUST0108,Andi Pulungan,085333745644,Jl. Krakatau No. 12,Medan Baru,Medan,20153,CAR0108,BK 8285 KK,Avanza,1.3 E,2022,Bensin,RWD,AT,Semi-Sintetik,7000,Heavy Daily,1716.4
+CUST0109,Pranata Nasution,083872835043,"Perumahan J City Blok D12, Jl. Menteng",Medan Petisah,Medan,20111,CAR0109,BK 5245 FT,Raize,1.0 Turbo,2024,Bensin,FWD,CVT,Full-Sintetik,9500,Heavy Daily,3972.0
+CUST0110,Wahyu Pasaribu,083824621011,"Komp. Tasbih Blok D1, Jl. SM Raja",Medan Timur,Medan,20231,CAR0110,BK 2616 HU,Avanza,1.3 E,2019,Bensin,RWD,AT,Semi-Sintetik,7000,Light Commuter,908.5
+CUST0111,Fitri Marpaung,085333423060,"Komp. Citra Garden Blok G14, Jl. Jamin Ginting",Medan Perjuangan,Medan,20233,CAR0111,BK 8050 VG,Innova Reborn,2.0 G Bensin,2025,Bensin,RWD,AT,Semi-Sintetik,7000,Light Commuter,1245.0
+CUST0112,Rendi Sitorus,089653431437,"Komp. Royal Sumatra Blok E6, Jl. Cemara",Medan Maimun,Medan,20151,CAR0112,BK 7796 KP,Innova Reborn,2.0 G Bensin,2016,Bensin,RWD,AT,Semi-Sintetik,7000,Weekend Warrior,1717.0
+CUST0113,Budi Batubara,081210839395,"Komp. Tasbih Blok B4, Jl. HM Yamin",Medan Selayang,Medan,20131,CAR0113,BK 5958 HB,Avanza,1.3 E,2024,Bensin,RWD,AT,Semi-Sintetik,7000,Light Commuter,1387.5
+CUST0114,Ferry Sitorus,081171868644,"Komp. Royal Sumatra Blok F16, Jl. Gatot Subroto",Medan Sunggal,Medan,20128,CAR0114,BK 3907 BX,Hilux,2.4 D-Cab 4x4,2022,Diesel,4x4,AT,Full-Sintetik,6000,Light Commuter,1207.3
+CUST0115,Santi Rangkuti,082232883236,Jl. Karya Wisata No. 114,Medan Labuhan,Medan,20252,CAR0115,BK 5600 PV,Avanza,1.3 E,2020,Bensin,RWD,AT,Semi-Sintetik,7000,Light Commuter,907.8
+CUST0116,Ferry Effendi,082276068317,"Komp. Tasbih Blok F4, Jl. Krakatau",Medan Sunggal,Medan,20128,CAR0116,BK 7893 LX,Innova Reborn,2.4 V Diesel,2025,Diesel,RWD,AT,Full-Sintetik,6000,Weekend Warrior,1586.1
+CUST0117,Eko Pohan,083817028756,"Komp. Cemara Asri Blok C1, Jl. Halat",Medan Selayang,Medan,20131,CAR0117,BK 6274 BM,Avanza,1.5 G,2022,Bensin,FWD,AT,Semi-Sintetik,7000,Light Commuter,440.9
+CUST0118,Maya Pratama,085184323854,"Komp. Tasbih Blok E7, Jl. Glugur",Medan Polonia,Medan,20157,CAR0118,BK 7674 TF,Avanza,1.5 Veloz,2024,Bensin,FWD,AT,Full-Sintetik,9500,Heavy Daily,2478.3
+CUST0119,Dewi Hutapea,085155652092,Jl. Ringroad No. 1,Medan Deli,Medan,20241,CAR0119,BK 2063 JL,Corolla Cross,1.8 HV,2021,Hybrid,FWD,CVT,Full-Sintetik,10000,Heavy Daily,2297.3
+CUST0120,Budi Rahman,081144932142,Jl. Bromo No. 23,Medan Perjuangan,Medan,20233,CAR0120,BK 2069 KM,Rush,1.5 S TRD,2024,Bensin,RWD,AT,Semi-Sintetik,7000,Light Commuter,582.2
+CUST0121,Maya Tanjung,082314545024,Jl. Setia Budi No. 74,Medan Timur,Medan,20231,CAR0121,BK 7529 XF,Avanza,1.5 G,2023,Bensin,FWD,MT,Semi-Sintetik,7000,Heavy Daily,2556.3
+CUST0122,Maya Wijaya,081214676360,"Komp. Tasbih Blok G25, Jl. Gajah Mada",Medan Barat,Medan,20231,CAR0122,BK 8577 MY,Avanza,1.5 G,2016,Bensin,FWD,MT,Semi-Sintetik,7000,Heavy Daily,2421.8
+CUST0123,Hadi Wibowo,085170975793,Jl. Sutomo No. 142,Medan Barat,Medan,20231,CAR0123,BK 2808 CU,Innova Reborn,2.4 V Diesel,2021,Diesel,RWD,AT,Full-Sintetik,6000,Heavy Daily,2948.3
+CUST0124,Togar Effendi,085293175630,Jl. Gatot Subroto No. 9,Medan Tuntungan,Medan,20135,CAR0124,BK 2622 LU,Veloz,1.5 Q CVT,2022,Bensin,FWD,CVT,Full-Sintetik,9500,Light Commuter,1012.8
+CUST0125,Gunawan Harahap,085190066916,"Komp. Citra Garden Blok D5, Jl. AH Nasution",Medan Tembung,Medan,20222,CAR0125,BK 1174 PG,Innova Reborn,2.0 G Bensin,2021,Bensin,RWD,AT,Semi-Sintetik,7000,Heavy Daily,3357.7
+CUST0126,Gunawan Batubara,083898509212,"Perumahan J City Blok D26, Jl. Gajah Mada",Medan Selayang,Medan,20131,CAR0126,BK 8874 UD,Fortuner,2.8 GR 4x4,2019,Diesel,4x4,AT,Full-Sintetik,6000,Light Commuter,1422.9
+CUST0127,Rina Gunawan,085256521798,Jl. Kapten Muslim No. 183,Medan Johor,Medan,20144,CAR0127,BK 3312 YU,Innova Reborn,2.4 V Diesel,2022,Diesel,RWD,AT,Full-Sintetik,6000,Light Commuter,992.6
+CUST0128,Pranata Nugroho,083872948789,Jl. HM Yamin No. 126,Medan Baru,Medan,20153,CAR0128,BK 6793 EM,Avanza,1.3 E,2018,Bensin,RWD,MT,Semi-Sintetik,7000,Heavy Daily,4514.3
+CUST0129,Fitri Siregar,082198129891,"Komp. Citra Garden Blok G26, Jl. HM Yamin",Medan Sunggal,Medan,20128,CAR0129,BK 6119 DD,Veloz,1.5 Q CVT,2022,Bensin,FWD,CVT,Full-Sintetik,9500,Light Commuter,789.4
+CUST0130,Taufik Purba,081144614681,"Komp. Cemara Asri Blok G15, Jl. Jamin Ginting",Medan Denai,Medan,20227,CAR0130,BK 1900 JU,Fortuner,2.8 GR 4x4,2018,Diesel,4x4,AT,Full-Sintetik,6000,Weekend Warrior,1023.2
+CUST0131,Reza Situmorang,085121793990,"Komp. Tasbih Blok A10, Jl. Pancing",Medan Kota,Medan,20212,CAR0131,BK 3715 LA,Avanza,1.5 G,2021,Bensin,FWD,MT,Semi-Sintetik,7000,Light Commuter,782.3
+CUST0132,Gunawan Ginting,085162578928,"Komp. Citra Garden Blok B29, Jl. Pancing",Medan Maimun,Medan,20151,CAR0132,BK 5122 SJ,Fortuner,2.8 GR 4x4,2025,Diesel,4x4,AT,Full-Sintetik,6000,Light Commuter,778.8
+CUST0133,Bayu Tanjung,081314061077,"Komp. Royal Sumatra Blok B19, Jl. Iskandar Muda",Medan Helvetia,Medan,20124,CAR0133,BK 6441 SX,Avanza,1.3 E,2021,Bensin,RWD,AT,Semi-Sintetik,7000,Weekend Warrior,1420.1
+CUST0134,Dimas Lubis,082238137882,"Komp. Citra Garden Blok G4, Jl. Glugur",Medan Labuhan,Medan,20252,CAR0134,BK 1404 TV,Avanza,1.5 G,2022,Bensin,FWD,MT,Semi-Sintetik,7000,Heavy Daily,3206.4
+CUST0135,Reza Daulay,081116464690,"Komp. Tasbih Blok B17, Jl. Denai",Medan Area,Medan,20214,CAR0135,BK 8784 DP,Avanza,1.5 Veloz,2022,Bensin,FWD,MT,Full-Sintetik,9500,Weekend Warrior,1261.5
+CUST0136,Surya Wirawan,081146225880,Jl. AH Nasution No. 21,Medan Barat,Medan,20231,CAR0136,BK 3507 AR,Avanza,1.5 G,2017,Bensin,FWD,AT,Semi-Sintetik,7000,Weekend Warrior,1794.5
+CUST0137,Ratna Purba,085376157657,"Perumahan J City Blok F12, Jl. Sekip",Medan Polonia,Medan,20157,CAR0137,BK 6817 WK,Calya,1.2 G,2024,Bensin,FWD,MT,Mineral,4500,Heavy Daily,1791.7
+CUST0138,Togar Susanto,089646752085,"Perumahan J City Blok A12, Jl. Glugur",Medan Barat,Medan,20231,CAR0138,BK 4589 WR,Innova Reborn,2.0 G Bensin,2025,Bensin,RWD,AT,Semi-Sintetik,7000,Light Commuter,1018.7
+CUST0139,Siti Wijaya,082347211553,"Komp. Royal Sumatra Blok G21, Jl. Brigjen Katamso",Medan Polonia,Medan,20157,CAR0139,BK 5723 WW,Avanza,1.5 Veloz,2018,Bensin,FWD,AT,Full-Sintetik,9500,Heavy Daily,1722.6
+CUST0140,Indah Wirawan,082258135777,Jl. Ringroad No. 83,Medan Petisah,Medan,20111,CAR0140,BK 1215 MF,Avanza,1.5 Veloz,2025,Bensin,FWD,MT,Full-Sintetik,9500,Light Commuter,962.6
+CUST0141,Dewi Rangkuti,081279953955,Jl. Pancing No. 123,Medan Denai,Medan,20227,CAR0141,BK 8084 LA,Rush,1.5 S TRD,2024,Bensin,RWD,AT,Semi-Sintetik,7000,Heavy Daily,2420.6
+CUST0142,Hadi Sinaga,081342372130,"Komp. Tasbih Blok D25, Jl. Denai",Medan Labuhan,Medan,20252,CAR0142,BK 3892 UP,Avanza,1.5 G,2017,Bensin,FWD,MT,Semi-Sintetik,7000,Heavy Daily,2846.9
+CUST0143,Gunawan Simanjuntak,081332788868,"Komp. Cemara Asri Blok B27, Jl. Adam Malik",Medan Kota,Medan,20212,CAR0143,BK 6814 KW,Avanza,1.3 E,2018,Bensin,RWD,MT,Semi-Sintetik,7000,Light Commuter,858.8
+CUST0144,Indra Saputra,085257575786,Jl. Brigjen Katamso No. 210,Medan Labuhan,Medan,20252,CAR0144,BK 7959 YW,Avanza,1.3 E,2018,Bensin,RWD,AT,Semi-Sintetik,7000,Light Commuter,1189.1
+CUST0145,Nurul Wirawan,085252188552,"Komp. Tasbih Blok E10, Jl. Sekip",Medan Amplas,Medan,20148,CAR0145,BK 3109 ZN,Innova Reborn,2.4 V Diesel,2024,Diesel,RWD,AT,Full-Sintetik,6000,Heavy Daily,2802.4
+CUST0146,Dewi Damanik,081114867756,Jl. HM Yamin No. 207,Medan Petisah,Medan,20111,CAR0146,BK 2029 CA,Calya,1.2 G,2021,Bensin,FWD,AT,Mineral,4500,Heavy Daily,2926.8
+CUST0147,Hadi Rahman,082267507784,"Komp. Cemara Asri Blok B9, Jl. Karya Wisata",Medan Perjuangan,Medan,20233,CAR0147,BK 9905 SM,Avanza,1.3 E,2022,Bensin,RWD,MT,Semi-Sintetik,7000,Light Commuter,659.4
+CUST0148,Andi Pasaribu,081380876689,"Komp. Royal Sumatra Blok G19, Jl. Adam Malik",Medan Timur,Medan,20231,CAR0148,BK 7530 LG,Corolla Cross,1.8 HV,2017,Hybrid,FWD,CVT,Full-Sintetik,10000,Light Commuter,630.6
+CUST0149,Indra Setiawan,082363961655,"Komp. Royal Sumatra Blok D10, Jl. Jamin Ginting",Medan Amplas,Medan,20148,CAR0149,BK 2388 UW,Avanza,1.3 E,2019,Bensin,RWD,MT,Semi-Sintetik,7000,Heavy Daily,1893.5
+CUST0150,Maya Susanto,081298905046,"Perumahan J City Blok F9, Jl. Glugur",Medan Labuhan,Medan,20252,CAR0150,BK 9976 FA,Yaris,1.5 S,2023,Bensin,FWD,CVT,Full-Sintetik,9500,Weekend Warrior,1269.7
+CUST0151,Maya Pohan,082295267429,"Komp. Citra Garden Blok C12, Jl. Halat",Medan Perjuangan,Medan,20233,CAR0151,BK 1334 RN,Calya,1.2 G,2018,Bensin,FWD,MT,Mineral,4500,Heavy Daily,3291.7
+CUST0152,Iwan Setiawan,083839734773,"Komp. Tasbih Blok C21, Jl. Kapten Muslim",Medan Area,Medan,20214,CAR0152,BK 4277 LW,Fortuner,2.4 VRZ 4x2,2023,Diesel,RWD,AT,Full-Sintetik,6000,Light Commuter,974.5
+CUST0153,Boy Harahap,082270062181,Jl. Halat No. 166,Medan Timur,Medan,20231,CAR0153,BK 7122 SS,Avanza,1.3 E,2021,Bensin,RWD,MT,Semi-Sintetik,7000,Heavy Daily,2390.0
+CUST0154,Budi Hutapea,085194568744,Jl. Ringroad No. 228,Medan Helvetia,Medan,20124,CAR0154,BK 1642 MK,Vios,1.5 G,2023,Bensin,FWD,CVT,Full-Sintetik,9500,Heavy Daily,2837.6
+CUST0155,Togar Lubis,082235513529,Jl. Bromo No. 227,Medan Selayang,Medan,20131,CAR0155,BK 7567 AE,Avanza,1.5 G,2025,Bensin,FWD,AT,Semi-Sintetik,7000,Heavy Daily,2507.9
+CUST0156,Lestari Panjaitan,089662406489,Jl. Ringroad No. 77,Medan Sunggal,Medan,20128,CAR0156,BK 3982 AK,Rush,1.5 S TRD,2025,Bensin,RWD,AT,Semi-Sintetik,7000,Light Commuter,556.7
+CUST0157,Nurul Situmorang,085271685899,"Komp. Cemara Asri Blok E26, Jl. William Iskandar",Medan Labuhan,Medan,20252,CAR0157,BK 7298 UH,Corolla Cross,1.8 HV,2019,Hybrid,FWD,CVT,Full-Sintetik,10000,Heavy Daily,3351.4
+CUST0158,Indah Marpaung,083839523899,Jl. William Iskandar No. 176,Medan Denai,Medan,20227,CAR0158,BK 4876 GB,Avanza,1.3 E,2017,Bensin,RWD,AT,Semi-Sintetik,7000,Weekend Warrior,1133.2
+CUST0159,Boy Wijaya,085292139589,Jl. Krakatau No. 210,Medan Deli,Medan,20241,CAR0159,BK 5943 NL,Avanza,1.5 Veloz,2022,Bensin,FWD,MT,Full-Sintetik,9500,Light Commuter,922.8
+CUST0160,Santi Wijaya,085119475324,Jl. Cemara No. 175,Medan Petisah,Medan,20111,CAR0160,BK 5557 CR,Hilux,2.4 D-Cab 4x4,2025,Diesel,4x4,AT,Full-Sintetik,6000,Heavy Daily,3171.2
+CUST0161,Indra Pratama,085362734262,"Komp. Royal Sumatra Blok E24, Jl. Pancing",Medan Barat,Medan,20231,CAR0161,BK 3456 DL,Avanza,1.5 G,2022,Bensin,FWD,MT,Semi-Sintetik,7000,Light Commuter,603.2
+CUST0162,Edy Nasution,082250898176,"Komp. Tasbih Blok A21, Jl. Sekip",Medan Tuntungan,Medan,20135,CAR0162,BK 1594 SD,Calya,1.2 G,2024,Bensin,FWD,MT,Mineral,4500,Light Commuter,1348.6
+CUST0163,Bayu Pulungan,082227339512,"Komp. Tasbih Blok C18, Jl. Gatot Subroto",Medan Perjuangan,Medan,20233,CAR0163,BK 1350 JG,Avanza,1.3 E,2017,Bensin,RWD,MT,Semi-Sintetik,7000,Heavy Daily,2036.1
+CUST0164,Frans Hasibuan,081294452241,Jl. Sutomo No. 63,Medan Barat,Medan,20231,CAR0164,BK 2807 WN,Avanza,1.5 G,2024,Bensin,FWD,MT,Semi-Sintetik,7000,Light Commuter,905.3
+CUST0165,Taufik Wirawan,085220067397,Jl. Karya Wisata No. 44,Medan Maimun,Medan,20151,CAR0165,BK 1997 CZ,Fortuner,2.4 VRZ 4x2,2024,Diesel,RWD,AT,Full-Sintetik,6000,Weekend Warrior,1229.0
+CUST0166,Wahyu Pratama,082381676873,"Komp. Cemara Asri Blok G1, Jl. Menteng",Medan Johor,Medan,20144,CAR0166,BK 2469 BL,Fortuner,2.8 GR 4x4,2021,Diesel,4x4,AT,Full-Sintetik,6000,Heavy Daily,2977.4
+CUST0167,Rina Pulungan,082238643672,"Komp. Royal Sumatra Blok B2, Jl. Brigjen Katamso",Medan Tembung,Medan,20222,CAR0167,BK 3463 SD,Avanza,1.5 Veloz,2021,Bensin,FWD,AT,Full-Sintetik,9500,Weekend Warrior,1206.4
+CUST0168,Mega Manurung,083891548390,Jl. Dr. Mansyur No. 99,Medan Timur,Medan,20231,CAR0168,BK 1344 CK,Avanza,1.5 Veloz,2022,Bensin,FWD,MT,Full-Sintetik,9500,Heavy Daily,3085.3
+CUST0169,Maya Wibowo,082190363406,"Komp. Tasbih Blok G3, Jl. Karya Wisata",Medan Timur,Medan,20231,CAR0169,BK 7967 ZH,Innova Reborn,2.4 V Diesel,2017,Diesel,RWD,AT,Full-Sintetik,6000,Heavy Daily,2886.8
+CUST0170,Surya Sembiring,081230401004,"Komp. Cemara Asri Blok F3, Jl. Dr. Mansyur",Medan Kota,Medan,20212,CAR0170,BK 1046 LT,Fortuner,2.4 VRZ 4x2,2019,Diesel,RWD,AT,Full-Sintetik,6000,Heavy Daily,2413.7
+CUST0171,Wati Wijaya,081223211586,Jl. Ringroad No. 205,Medan Amplas,Medan,20148,CAR0171,BK 4775 KD,Veloz,1.5 Q CVT,2018,Bensin,FWD,CVT,Full-Sintetik,9500,Heavy Daily,2522.9
+CUST0172,Robby Tanaka,081348104549,Jl. Halat No. 147,Medan Barat,Medan,20231,CAR0172,BK 7870 HX,Corolla Cross,1.8 HV,2020,Hybrid,FWD,CVT,Full-Sintetik,10000,Light Commuter,855.0
+CUST0173,Iwan Nugroho,082351813782,"Komp. Citra Garden Blok E7, Jl. Adam Malik",Medan Sunggal,Medan,20128,CAR0173,BK 2506 BH,Avanza,1.3 E,2019,Bensin,RWD,MT,Semi-Sintetik,7000,Light Commuter,990.9
+CUST0174,Togar Sinaga,081324602577,"Komp. Cemara Asri Blok C21, Jl. HM Yamin",Medan Labuhan,Medan,20252,CAR0174,BK 1575 EW,Calya,1.2 G,2020,Bensin,FWD,AT,Mineral,4500,Weekend Warrior,1797.0
+CUST0175,Maya Ginting,089645352652,Jl. Denai No. 243,Medan Labuhan,Medan,20252,CAR0175,BK 5887 UG,Avanza,1.5 G,2019,Bensin,FWD,MT,Semi-Sintetik,7000,Light Commuter,635.5
+CUST0176,Robby Ginting,082395183601,"Perumahan J City Blok D22, Jl. Halat",Medan Amplas,Medan,20148,CAR0176,BK 1535 PU,Avanza,1.5 Veloz,2018,Bensin,FWD,MT,Full-Sintetik,9500,Weekend Warrior,1233.6
+CUST0177,Ferry Wirawan,085312395774,"Komp. Cemara Asri Blok C15, Jl. Bromo",Medan Sunggal,Medan,20128,CAR0177,BK 9182 JU,Avanza,1.5 Veloz,2020,Bensin,FWD,AT,Full-Sintetik,9500,Light Commuter,1047.7
+CUST0178,Sari Harahap,083841366050,"Komp. Tasbih Blok B4, Jl. Adam Malik",Medan Johor,Medan,20144,CAR0178,BK 1159 FL,Avanza,1.5 G,2021,Bensin,FWD,MT,Semi-Sintetik,7000,Heavy Daily,2376.1
+CUST0179,Eko Manurung,083815944260,"Komp. Cemara Asri Blok E26, Jl. Gatot Subroto",Medan Tuntungan,Medan,20135,CAR0179,BK 6553 KW,Avanza,1.3 E,2023,Bensin,RWD,AT,Semi-Sintetik,7000,Light Commuter,675.9
+CUST0180,Indah Harahap,085384695284,Jl. Denai No. 119,Medan Baru,Medan,20153,CAR0180,BK 5342 VY,Raize,1.0 Turbo,2017,Bensin,FWD,CVT,Full-Sintetik,9500,Light Commuter,782.0
+CUST0181,Bayu Simanjuntak,082271151242,"Perumahan J City Blok C7, Jl. Glugur",Medan Polonia,Medan,20157,CAR0181,BK 9388 HM,Corolla Cross,1.8 HV,2025,Hybrid,FWD,CVT,Full-Sintetik,10000,Light Commuter,889.4
+CUST0182,Wahyu Damanik,083826223883,"Komp. Citra Garden Blok A16, Jl. Pemuda",Medan Tembung,Medan,20222,CAR0182,BK 3452 NS,Raize,1.0 Turbo,2022,Bensin,FWD,CVT,Full-Sintetik,9500,Light Commuter,663.8
+CUST0183,Wahyu Simanjuntak,085189941290,Jl. Pasar Merah No. 25,Medan Tuntungan,Medan,20135,CAR0183,BK 4575 RA,Yaris,1.5 S,2018,Bensin,FWD,CVT,Full-Sintetik,9500,Heavy Daily,2179.4
+CUST0184,Hendra Situmorang,081327928670,Jl. Halat No. 26,Medan Marelan,Medan,20255,CAR0184,BK 7781 GU,Avanza,1.3 E,2020,Bensin,RWD,MT,Semi-Sintetik,7000,Light Commuter,726.3
+CUST0185,Yuni Nasution,082146101560,"Komp. Citra Garden Blok A17, Jl. Cemara",Medan Deli,Medan,20241,CAR0185,BK 4579 ZY,Fortuner,2.8 GR 4x4,2022,Diesel,4x4,AT,Full-Sintetik,6000,Heavy Daily,2227.8
+CUST0186,Rosma Pohan,085357775442,"Perumahan J City Blok C24, Jl. Menteng",Medan Tembung,Medan,20222,CAR0186,BK 8337 AU,Vios,1.5 G,2024,Bensin,FWD,CVT,Full-Sintetik,9500,Heavy Daily,3492.5
+CUST0187,Eko Pratama,082127389835,"Komp. Tasbih Blok A18, Jl. HM Yamin",Medan Amplas,Medan,20148,CAR0187,BK 5312 SW,Avanza,1.5 G,2018,Bensin,FWD,MT,Semi-Sintetik,7000,Light Commuter,925.2
+CUST0188,Reza Silalahi,081144119339,Jl. Denai No. 182,Medan Tembung,Medan,20222,CAR0188,BK 5253 VZ,Avanza,1.5 G,2019,Bensin,FWD,MT,Semi-Sintetik,7000,Light Commuter,851.2
+CUST0189,Hermanto Purba,085251553620,Jl. Pemuda No. 139,Medan Tembung,Medan,20222,CAR0189,BK 2608 ME,Rush,1.5 S TRD,2023,Bensin,RWD,AT,Semi-Sintetik,7000,Heavy Daily,2627.4
+CUST0190,Indra Tarigan,081337502494,Jl. Pasar Merah No. 242,Medan Tembung,Medan,20222,CAR0190,BK 2993 FT,Rush,1.5 S TRD,2022,Bensin,RWD,AT,Semi-Sintetik,7000,Light Commuter,1098.2
+CUST0191,Togar Panjaitan,085333165735,Jl. Menteng No. 231,Medan Maimun,Medan,20151,CAR0191,BK 5258 SJ,Innova Reborn,2.4 V Diesel,2021,Diesel,RWD,AT,Full-Sintetik,6000,Light Commuter,1005.5
+CUST0192,Joko Setiawan,089686234531,"Komp. Tasbih Blok E29, Jl. Bromo",Medan Kota,Medan,20212,CAR0192,BK 8080 VX,Avanza,1.5 G,2023,Bensin,FWD,AT,Semi-Sintetik,7000,Light Commuter,1177.4
+CUST0193,Erlina Purba,081212384019,Jl. AH Nasution No. 213,Medan Petisah,Medan,20111,CAR0193,BK 3989 SW,Vios,1.5 G,2017,Bensin,FWD,CVT,Full-Sintetik,9500,Heavy Daily,2872.4
+CUST0194,Dimas Purba,085194253976,Jl. Glugur No. 247,Medan Tembung,Medan,20222,CAR0194,BK 4948 KR,Avanza,1.3 E,2016,Bensin,RWD,AT,Semi-Sintetik,7000,Light Commuter,1182.4
+CUST0195,Rendi Wijaya,085279732347,"Komp. Royal Sumatra Blok B28, Jl. Gajah Mada",Medan Baru,Medan,20153,CAR0195,BK 6902 KD,Avanza,1.5 Veloz,2018,Bensin,FWD,MT,Full-Sintetik,9500,Light Commuter,827.1
+CUST0196,Erlina Hartono,082193786347,Jl. Glugur No. 145,Medan Tembung,Medan,20222,CAR0196,BK 2127 WB,Innova Reborn,2.4 V Diesel,2019,Diesel,RWD,AT,Full-Sintetik,6000,Weekend Warrior,1859.9
+CUST0197,Nurul Sembiring,082160786742,Jl. Halat No. 152,Medan Deli,Medan,20241,CAR0197,BK 8268 MC,Calya,1.2 G,2021,Bensin,FWD,MT,Mineral,4500,Light Commuter,853.0
+CUST0198,Wahyu Lubis,081389298151,"Perumahan J City Blok B21, Jl. Sekip",Medan Timur,Medan,20231,CAR0198,BK 6399 GK,Vios,1.5 G,2024,Bensin,FWD,CVT,Full-Sintetik,9500,Light Commuter,1116.6
+CUST0199,Hendra Tanaka,089656835557,"Komp. Royal Sumatra Blok E5, Jl. Dr. Mansyur",Medan Sunggal,Medan,20128,CAR0199,BK 5690 TF,Rush,1.5 S TRD,2018,Bensin,RWD,AT,Semi-Sintetik,7000,Light Commuter,942.1
+CUST0200,Rendi Lubis,081262305155,Jl. William Iskandar No. 232,Medan Petisah,Medan,20111,CAR0200,BK 4487 XJ,Avanza,1.5 G,2021,Bensin,FWD,MT,Semi-Sintetik,7000,Heavy Daily,2880.7
+CUST0201,Dimas Sinaga,082118715607,Jl. Brigjen Katamso No. 101,Medan Petisah,Medan,20111,CAR0201,BK 2148 WW,Calya,1.2 G,2023,Bensin,FWD,AT,Mineral,4500,Light Commuter,1300.2
+CUST0202,Boy Maulana,081262426864,Jl. Glugur No. 221,Medan Sunggal,Medan,20128,CAR0202,BK 9923 GL,Camry,2.5 HV,2017,Hybrid,FWD,CVT,Full-Sintetik,10000,Light Commuter,840.7
+CUST0203,Reza Siregar,082158104323,Jl. Cemara No. 239,Medan Helvetia,Medan,20124,CAR0203,BK 9883 MR,Rush,1.5 S TRD,2020,Bensin,RWD,AT,Semi-Sintetik,7000,Light Commuter,812.9
+CUST0204,Andi Susanto,083844971405,"Komp. Citra Garden Blok F27, Jl. Denai",Medan Polonia,Medan,20157,CAR0204,BK 8904 DT,Avanza,1.5 Veloz,2024,Bensin,FWD,AT,Full-Sintetik,9500,Light Commuter,570.2
+CUST0205,Erlina Hutapea,082358131622,Jl. Glugur No. 142,Medan Selayang,Medan,20131,CAR0205,BK 8190 CF,Avanza,1.3 E,2020,Bensin,RWD,MT,Semi-Sintetik,7000,Heavy Daily,2642.3
+CUST0206,Taufik Hutapea,089635983795,Jl. Brigjen Katamso No. 128,Medan Barat,Medan,20231,CAR0206,BK 7738 CS,Avanza,1.5 Veloz,2020,Bensin,FWD,MT,Full-Sintetik,9500,Weekend Warrior,1321.0
+CUST0207,Dedi Effendi,082388042147,Jl. William Iskandar No. 207,Medan Polonia,Medan,20157,CAR0207,BK 3481 PX,Veloz,1.5 Q CVT,2023,Bensin,FWD,CVT,Full-Sintetik,9500,Light Commuter,1143.5
+CUST0208,Erlina Halim,089666362142,Jl. HM Yamin No. 75,Medan Johor,Medan,20144,CAR0208,BK 4258 GN,Avanza,1.5 G,2019,Bensin,FWD,AT,Semi-Sintetik,7000,Heavy Daily,2740.3
+CUST0209,Lestari Pulungan,085273427877,"Komp. Royal Sumatra Blok G12, Jl. Cemara",Medan Barat,Medan,20231,CAR0209,BK 2383 UJ,Avanza,1.5 G,2023,Bensin,FWD,AT,Semi-Sintetik,7000,Heavy Daily,3828.5
+CUST0210,Reza Hutabarat,081261138018,Jl. Dr. Mansyur No. 49,Medan Deli,Medan,20241,CAR0210,BK 3205 PR,Avanza,1.5 G,2019,Bensin,FWD,MT,Semi-Sintetik,7000,Weekend Warrior,1265.7
+CUST0211,Indra Wijaya,083828523543,Jl. HM Yamin No. 55,Medan Tembung,Medan,20222,CAR0211,BK 6899 SS,Agya,1.2 G,2025,Bensin,FWD,AT,Mineral,4500,Heavy Daily,1566.1
+CUST0212,Hadi Daulay,089613653127,Jl. Sisingamangaraja No. 89,Medan Maimun,Medan,20151,CAR0212,BK 9443 FK,Avanza,1.5 G,2022,Bensin,FWD,MT,Semi-Sintetik,7000,Weekend Warrior,700.0
+CUST0213,Surya Purba,085292113347,Jl. Marelan Raya No. 156,Medan Tuntungan,Medan,20135,CAR0213,BK 7312 DB,Innova Reborn,2.4 V Diesel,2024,Diesel,RWD,AT,Full-Sintetik,6000,Light Commuter,516.0
+CUST0214,Reza Hartono,081168668776,Jl. Denai No. 32,Medan Timur,Medan,20231,CAR0214,BK 3863 PA,Avanza,1.3 E,2020,Bensin,RWD,MT,Semi-Sintetik,7000,Light Commuter,715.6
+CUST0215,Wahyu Pasaribu,081195108643,"Komp. Citra Garden Blok A16, Jl. Krakatau",Medan Area,Medan,20214,CAR0215,BK 9267 PK,Avanza,1.3 E,2022,Bensin,RWD,AT,Semi-Sintetik,7000,Light Commuter,1202.9
+CUST0216,Maya Hutapea,082324584912,Jl. Gajah Mada No. 192,Medan Selayang,Medan,20131,CAR0216,BK 1963 XU,Innova Zenix,2.0 HV,2020,Hybrid,FWD,CVT,Full-Sintetik,10000,Weekend Warrior,1738.1
+CUST0217,Tiur Simanjuntak,083819656299,"Komp. Royal Sumatra Blok A15, Jl. William Iskandar",Medan Deli,Medan,20241,CAR0217,BK 6697 NE,Avanza,1.5 Veloz,2018,Bensin,FWD,AT,Full-Sintetik,9500,Light Commuter,816.9
+CUST0218,Bayu Effendi,085356125301,Jl. Dr. Mansyur No. 243,Medan Baru,Medan,20153,CAR0218,BK 5407 JS,Avanza,1.3 E,2018,Bensin,RWD,AT,Semi-Sintetik,7000,Weekend Warrior,1083.6
+CUST0219,Maruli Setiawan,081114576380,Jl. Gatot Subroto No. 117,Medan Denai,Medan,20227,CAR0219,BK 6088 RH,Rush,1.5 S TRD,2021,Bensin,RWD,AT,Semi-Sintetik,7000,Light Commuter,764.7
+CUST0220,Robby Silalahi,083874766833,Jl. Sutomo No. 225,Medan Area,Medan,20214,CAR0220,BK 4955 SU,Avanza,1.5 G,2018,Bensin,FWD,AT,Semi-Sintetik,7000,Light Commuter,956.5
+CUST0221,Tiur Setiawan,082241284914,Jl. Sutomo No. 168,Medan Deli,Medan,20241,CAR0221,BK 5785 BE,Veloz,1.5 Q CVT,2022,Bensin,FWD,CVT,Full-Sintetik,9500,Light Commuter,624.5
+CUST0222,Gunawan Saragih,085143235551,"Komp. Cemara Asri Blok D16, Jl. Halat",Medan Petisah,Medan,20111,CAR0222,BK 5411 PZ,Avanza,1.5 Veloz,2023,Bensin,FWD,MT,Full-Sintetik,9500,Heavy Daily,2432.6
+CUST0223,Taufik Wijaya,085266402020,Jl. Gajah Mada No. 223,Medan Selayang,Medan,20131,CAR0223,BK 3909 RH,Fortuner,2.4 VRZ 4x2,2020,Diesel,RWD,AT,Full-Sintetik,6000,Heavy Daily,3444.4
+CUST0224,Sari Silalahi,081335432778,"Komp. Citra Garden Blok D6, Jl. Pancing",Medan Perjuangan,Medan,20233,CAR0224,BK 1067 WW,Agya,1.2 G,2022,Bensin,FWD,MT,Mineral,4500,Light Commuter,1025.1
+CUST0225,Rosma Wijaya,085142188087,"Komp. Royal Sumatra Blok C8, Jl. HM Yamin",Medan Petisah,Medan,20111,CAR0225,BK 7903 EN,Calya,1.2 G,2019,Bensin,FWD,AT,Mineral,4500,Light Commuter,970.3
+CUST0226,Indra Marpaung,082323411629,"Komp. Royal Sumatra Blok F17, Jl. Cemara",Medan Selayang,Medan,20131,CAR0226,BK 4581 KF,Avanza,1.5 G,2024,Bensin,FWD,AT,Semi-Sintetik,7000,Light Commuter,546.2
+CUST0227,Reza Gunawan,085283843491,"Perumahan J City Blok B6, Jl. Krakatau",Medan Petisah,Medan,20111,CAR0227,BK 9821 VF,Innova Zenix,2.0 HV,2022,Hybrid,FWD,CVT,Full-Sintetik,10000,Light Commuter,1070.9
+CUST0228,Dimas Batubara,085125723824,"Komp. Tasbih Blok A1, Jl. Ringroad",Medan Area,Medan,20214,CAR0228,BK 1506 NT,Avanza,1.3 E,2021,Bensin,RWD,MT,Semi-Sintetik,7000,Weekend Warrior,831.6
+CUST0229,Frans Sitorus,085378671531,Jl. Pemuda No. 124,Medan Sunggal,Medan,20128,CAR0229,BK 3718 KD,Avanza,1.5 G,2021,Bensin,FWD,AT,Semi-Sintetik,7000,Light Commuter,710.8
+CUST0230,Rina Suryadi,089652436521,"Komp. Royal Sumatra Blok G15, Jl. Glugur",Medan Tuntungan,Medan,20135,CAR0230,BK 3170 MJ,Calya,1.2 G,2019,Bensin,FWD,MT,Mineral,4500,Light Commuter,1182.5
+CUST0231,Maruli Siregar,081152945217,"Komp. Royal Sumatra Blok D17, Jl. SM Raja",Medan Tuntungan,Medan,20135,CAR0231,BK 6521 FK,Raize,1.0 Turbo,2018,Bensin,FWD,CVT,Full-Sintetik,9500,Weekend Warrior,1532.0
+CUST0232,Frans Salim,081374153026,"Komp. Tasbih Blok F23, Jl. Sutomo",Medan Labuhan,Medan,20252,CAR0232,BK 4728 PK,Innova Reborn,2.4 V Diesel,2020,Diesel,RWD,AT,Full-Sintetik,6000,Light Commuter,963.6
+CUST0233,Dedi Salim,081338282153,"Komp. Royal Sumatra Blok F18, Jl. Halat",Medan Sunggal,Medan,20128,CAR0233,BK 9879 KU,Veloz,1.5 Q CVT,2020,Bensin,FWD,CVT,Full-Sintetik,9500,Heavy Daily,2500.5
+CUST0234,Gunawan Saragih,082229382528,"Perumahan J City Blok A19, Jl. Brigjen Katamso",Medan Deli,Medan,20241,CAR0234,BK 5057 JC,Innova Reborn,2.4 V Diesel,2025,Diesel,RWD,AT,Full-Sintetik,6000,Light Commuter,788.4
+CUST0235,Siti Manurung,082327277658,"Komp. Tasbih Blok G8, Jl. Gajah Mada",Medan Deli,Medan,20241,CAR0235,BK 8755 FN,Calya,1.2 G,2025,Bensin,FWD,AT,Mineral,4500,Weekend Warrior,1734.6
+CUST0236,Erlina Pulungan,085147813117,Jl. Pancing No. 86,Medan Labuhan,Medan,20252,CAR0236,BK 8726 DV,Calya,1.2 G,2018,Bensin,FWD,MT,Mineral,4500,Weekend Warrior,1610.3
+CUST0237,Hermanto Pasaribu,082332777979,Jl. Jamin Ginting No. 193,Medan Amplas,Medan,20148,CAR0237,BK 7779 HY,Avanza,1.5 G,2018,Bensin,FWD,AT,Semi-Sintetik,7000,Heavy Daily,2293.6
+CUST0238,Ferry Hartono,082170881038,Jl. Karya Wisata No. 91,Medan Labuhan,Medan,20252,CAR0238,BK 4663 MT,Calya,1.2 G,2025,Bensin,FWD,MT,Mineral,4500,Heavy Daily,2545.2
+CUST0239,Robby Tarigan,085182887907,"Komp. Cemara Asri Blok C22, Jl. AH Nasution",Medan Maimun,Medan,20151,CAR0239,BK 1376 RL,Agya,1.2 G,2022,Bensin,FWD,AT,Mineral,4500,Heavy Daily,1709.1
+CUST0240,Taufik Purba,085249175314,Jl. Sekip No. 132,Medan Sunggal,Medan,20128,CAR0240,BK 2576 SF,Corolla Cross,1.8 HV,2025,Hybrid,FWD,CVT,Full-Sintetik,10000,Light Commuter,547.1
+CUST0241,Maya Wibowo,082346293187,Jl. Iskandar Muda No. 62,Medan Labuhan,Medan,20252,CAR0241,BK 4065 WT,Avanza,1.3 E,2024,Bensin,RWD,MT,Semi-Sintetik,7000,Light Commuter,1120.9
+CUST0242,Maruli Wibowo,085321782804,"Komp. Tasbih Blok D7, Jl. Brigjen Katamso",Medan Barat,Medan,20231,CAR0242,BK 8513 BX,Hilux,2.4 D-Cab 4x4,2022,Diesel,4x4,MT,Full-Sintetik,6000,Light Commuter,300.0
+CUST0243,Reza Salim,085382236726,"Perumahan J City Blok A8, Jl. Jamin Ginting",Medan Barat,Medan,20231,CAR0243,BK 9839 LR,Avanza,1.5 Veloz,2017,Bensin,FWD,MT,Full-Sintetik,9500,Heavy Daily,3451.2
+CUST0244,Surya Rahman,085293683021,"Komp. Royal Sumatra Blok C8, Jl. Sekip",Medan Kota,Medan,20212,CAR0244,BK 5096 BG,Avanza,1.5 Veloz,2018,Bensin,FWD,MT,Full-Sintetik,9500,Heavy Daily,1709.2
+CUST0245,Yuni Silalahi,081328984534,Jl. Jamin Ginting No. 212,Medan Petisah,Medan,20111,CAR0245,BK 3772 TM,Avanza,1.5 G,2022,Bensin,FWD,AT,Semi-Sintetik,7000,Light Commuter,1243.1
+CUST0246,Edy Rangkuti,083858723751,"Komp. Cemara Asri Blok F18, Jl. Jamin Ginting",Medan Polonia,Medan,20157,CAR0246,BK 7370 WY,Innova Reborn,2.4 V Diesel,2019,Diesel,RWD,AT,Full-Sintetik,6000,Heavy Daily,2788.9
+CUST0247,Agus Salim,081375549776,"Komp. Royal Sumatra Blok B16, Jl. Sisingamangaraja",Medan Labuhan,Medan,20252,CAR0247,BK 5537 ZN,Avanza,1.5 G,2016,Bensin,FWD,MT,Semi-Sintetik,7000,Light Commuter,802.5
+CUST0248,Ratna Wijaya,085165873590,"Komp. Royal Sumatra Blok B9, Jl. Setia Budi",Medan Johor,Medan,20144,CAR0248,BK 2119 WH,Avanza,1.3 E,2019,Bensin,RWD,MT,Semi-Sintetik,7000,Heavy Daily,2522.8
+CUST0249,Edy Situmorang,083880819648,Jl. HM Yamin No. 62,Medan Tuntungan,Medan,20135,CAR0249,BK 7133 UC,Agya,1.2 G,2016,Bensin,FWD,MT,Mineral,4500,Heavy Daily,2413.1
+CUST0250,Togar Nugroho,082140328156,"Komp. Royal Sumatra Blok F24, Jl. Denai",Medan Deli,Medan,20241,CAR0250,BK 4100 UU,Corolla Cross,1.8 HV,2018,Hybrid,FWD,CVT,Full-Sintetik,10000,Light Commuter,1003.9
+CUST0251,Taufik Maulana,082267436932,"Komp. Royal Sumatra Blok B3, Jl. Iskandar Muda",Medan Amplas,Medan,20148,CAR0251,BK 4335 DR,Avanza,1.5 G,2018,Bensin,FWD,MT,Semi-Sintetik,7000,Light Commuter,844.8
+CUST0252,Rendi Tanaka,082256488089,Jl. Adam Malik No. 152,Medan Labuhan,Medan,20252,CAR0252,BK 5060 WF,Avanza,1.3 E,2016,Bensin,RWD,AT,Semi-Sintetik,7000,Light Commuter,1407.6
+CUST0253,Yuni Halim,082179302867,"Komp. Citra Garden Blok C20, Jl. Gajah Mada",Medan Deli,Medan,20241,CAR0253,BK 4375 RA,Veloz,1.5 Q CVT,2018,Bensin,FWD,CVT,Full-Sintetik,9500,Light Commuter,836.8
+CUST0254,Boy Batubara,082338816071,Jl. SM Raja No. 119,Medan Baru,Medan,20153,CAR0254,BK 4911 CK,Avanza,1.3 E,2024,Bensin,RWD,MT,Semi-Sintetik,7000,Heavy Daily,3325.4
+CUST0255,Tiur Siregar,083845674746,Jl. Glugur No. 13,Medan Tembung,Medan,20222,CAR0255,BK 3122 ZV,Avanza,1.3 E,2020,Bensin,RWD,MT,Semi-Sintetik,7000,Light Commuter,835.0
+CUST0256,Putri Sitorus,085176128970,"Perumahan J City Blok D12, Jl. Gajah Mada",Medan Tuntungan,Medan,20135,CAR0256,BK 6641 TE,Veloz,1.5 Q CVT,2021,Bensin,FWD,CVT,Full-Sintetik,9500,Heavy Daily,3687.9
+CUST0257,Wahyu Siregar,082296254982,Jl. Setia Budi No. 159,Medan Tembung,Medan,20222,CAR0257,BK 1985 HX,Agya,1.2 G,2025,Bensin,FWD,MT,Mineral,4500,Light Commuter,544.3
+CUST0258,Togar Lubis,085215506763,"Komp. Citra Garden Blok G25, Jl. Brigjen Katamso",Medan Marelan,Medan,20255,CAR0258,BK 5949 CT,Raize,1.0 Turbo,2018,Bensin,FWD,CVT,Full-Sintetik,9500,Light Commuter,1243.3
+CUST0259,Hendra Lubis,082197502526,Jl. Marelan Raya No. 230,Medan Marelan,Medan,20255,CAR0259,BK 7764 PX,Avanza,1.5 G,2024,Bensin,FWD,MT,Semi-Sintetik,7000,Weekend Warrior,953.2
+CUST0260,Indra Lubis,081226862080,"Komp. Citra Garden Blok G3, Jl. Iskandar Muda",Medan Baru,Medan,20153,CAR0260,BK 6856 HP,Rush,1.5 S TRD,2025,Bensin,RWD,AT,Semi-Sintetik,7000,Light Commuter,1017.2
+CUST0261,Putri Purba,081279681335,Jl. Adam Malik No. 220,Medan Timur,Medan,20231,CAR0261,BK 3950 XX,Veloz,1.5 Q CVT,2023,Bensin,FWD,CVT,Full-Sintetik,9500,Light Commuter,928.2
+CUST0262,Indah Pasaribu,085273404114,"Komp. Tasbih Blok B13, Jl. Cemara",Medan Tuntungan,Medan,20135,CAR0262,BK 8426 WW,Yaris Cross,1.5 HV,2021,Hybrid,FWD,CVT,Full-Sintetik,10000,Weekend Warrior,1466.7
+CUST0263,Togar Sitorus,085185777201,"Komp. Citra Garden Blok E25, Jl. Denai",Medan Perjuangan,Medan,20233,CAR0263,BK 6101 TU,Agya,1.2 G,2023,Bensin,FWD,MT,Mineral,4500,Heavy Daily,2325.5
+CUST0264,Rizky Nugroho,082150717199,Jl. Bromo No. 28,Medan Barat,Medan,20231,CAR0264,BK 8047 CE,Veloz,1.5 Q CVT,2025,Bensin,FWD,CVT,Full-Sintetik,9500,Light Commuter,673.7
+CUST0265,Reza Susanto,082265965006,Jl. AH Nasution No. 156,Medan Deli,Medan,20241,CAR0265,BK 5034 NW,Calya,1.2 G,2023,Bensin,FWD,AT,Mineral,4500,Light Commuter,1081.6
+CUST0266,Rina Susanto,082364831666,Jl. Dr. Mansyur No. 13,Medan Area,Medan,20214,CAR0266,BK 3854 GW,Agya,1.2 G,2022,Bensin,FWD,MT,Mineral,4500,Weekend Warrior,2057.4
+CUST0267,Indra Pasaribu,083876857937,"Perumahan J City Blok D16, Jl. Sekip",Medan Kota,Medan,20212,CAR0267,BK 2474 AJ,Innova Reborn,2.4 V Diesel,2016,Diesel,RWD,AT,Full-Sintetik,6000,Light Commuter,1649.1
+CUST0268,Togar Harahap,081174929350,Jl. SM Raja No. 239,Medan Johor,Medan,20144,CAR0268,BK 3257 ZH,Avanza,1.5 Veloz,2022,Bensin,FWD,AT,Full-Sintetik,9500,Light Commuter,927.5
+CUST0269,Rina Santoso,085256407016,"Komp. Royal Sumatra Blok C15, Jl. SM Raja",Medan Amplas,Medan,20148,CAR0269,BK 9260 AK,Veloz,1.5 Q CVT,2016,Bensin,FWD,CVT,Full-Sintetik,9500,Light Commuter,1253.2
+CUST0270,Dimas Rahman,085263002627,"Komp. Royal Sumatra Blok A18, Jl. Gajah Mada",Medan Kota,Medan,20212,CAR0270,BK 4116 DN,Calya,1.2 G,2019,Bensin,FWD,MT,Mineral,4500,Weekend Warrior,1308.7
+CUST0271,Nurul Hutabarat,082312892939,Jl. Menteng No. 39,Medan Polonia,Medan,20157,CAR0271,BK 6255 UG,Rush,1.5 S TRD,2017,Bensin,RWD,AT,Semi-Sintetik,7000,Light Commuter,649.9
+CUST0272,Erlina Simanjuntak,082245576773,"Komp. Citra Garden Blok F5, Jl. Adam Malik",Medan Petisah,Medan,20111,CAR0272,BK 3985 ST,Veloz,1.5 Q CVT,2023,Bensin,FWD,CVT,Full-Sintetik,9500,Heavy Daily,2437.8
+CUST0273,Gunawan Rahman,081378045428,Jl. Pemuda No. 249,Medan Marelan,Medan,20255,CAR0273,BK 8817 TP,Avanza,1.5 Veloz,2022,Bensin,FWD,AT,Full-Sintetik,9500,Light Commuter,1050.4
+CUST0274,Roni Manurung,082167486241,Jl. Menteng No. 3,Medan Labuhan,Medan,20252,CAR0274,BK 6994 UE,Innova Reborn,2.4 V Diesel,2017,Diesel,RWD,AT,Full-Sintetik,6000,Heavy Daily,2932.3
+CUST0275,Putri Rangkuti,085293953901,"Perumahan J City Blok E25, Jl. Pemuda",Medan Petisah,Medan,20111,CAR0275,BK 3660 YR,Calya,1.2 G,2023,Bensin,FWD,AT,Mineral,4500,Heavy Daily,2375.1
+CUST0276,Wati Ginting,089692729154,Jl. HM Yamin No. 240,Medan Barat,Medan,20231,CAR0276,BK 1280 BW,Innova Zenix,2.0 HV,2021,Hybrid,FWD,CVT,Full-Sintetik,10000,Heavy Daily,2258.2
+CUST0277,Rizky Purba,081355496180,Jl. Adam Malik No. 102,Medan Helvetia,Medan,20124,CAR0277,BK 4499 VB,Yaris Cross,1.5 HV,2017,Hybrid,FWD,CVT,Full-Sintetik,10000,Light Commuter,1163.7
+CUST0278,Togar Tarigan,081348702698,Jl. Sekip No. 246,Medan Area,Medan,20214,CAR0278,BK 6325 PB,Camry,2.5 HV,2024,Hybrid,FWD,CVT,Full-Sintetik,10000,Light Commuter,681.0
+CUST0279,Santi Tarigan,081311909783,"Komp. Citra Garden Blok B20, Jl. Setia Budi",Medan Perjuangan,Medan,20233,CAR0279,BK 6276 WE,Innova Reborn,2.4 V Diesel,2022,Diesel,RWD,AT,Full-Sintetik,6000,Light Commuter,586.1
+CUST0280,Fahmi Batubara,081182451195,"Komp. Cemara Asri Blok B16, Jl. Sekip",Medan Sunggal,Medan,20128,CAR0280,BK 8011 SB,Avanza,1.5 G,2018,Bensin,FWD,MT,Semi-Sintetik,7000,Light Commuter,1125.8
+CUST0281,Taufik Nasution,085282236640,Jl. Setia Budi No. 3,Medan Johor,Medan,20144,CAR0281,BK 8431 ZA,Hilux,2.4 D-Cab 4x4,2020,Diesel,4x4,MT,Full-Sintetik,6000,Heavy Daily,3144.4
+CUST0282,Dedi Maulana,081171342350,Jl. Brigjen Katamso No. 202,Medan Helvetia,Medan,20124,CAR0282,BK 7189 CA,Avanza,1.5 Veloz,2020,Bensin,FWD,MT,Full-Sintetik,9500,Light Commuter,734.7
+CUST0283,Gunawan Saputra,083854466035,"Komp. Citra Garden Blok F11, Jl. Bromo",Medan Selayang,Medan,20131,CAR0283,BK 5974 KT,Veloz,1.5 Q CVT,2017,Bensin,FWD,CVT,Full-Sintetik,9500,Light Commuter,518.5
+CUST0284,Roni Sembiring,082342311165,"Komp. Citra Garden Blok E8, Jl. Dr. Mansyur",Medan Sunggal,Medan,20128,CAR0284,BK 1986 US,Avanza,1.5 G,2024,Bensin,FWD,MT,Semi-Sintetik,7000,Weekend Warrior,1193.8
+CUST0285,Lestari Setiawan,081219258781,"Komp. Royal Sumatra Blok E8, Jl. Kapten Muslim",Medan Maimun,Medan,20151,CAR0285,BK 2145 ZL,Rush,1.5 S TRD,2019,Bensin,RWD,AT,Semi-Sintetik,7000,Light Commuter,1506.9
+CUST0286,Andi Hutapea,085217482589,"Komp. Tasbih Blok G13, Jl. HM Yamin",Medan Petisah,Medan,20111,CAR0286,BK 1253 AY,Rush,1.5 S TRD,2017,Bensin,RWD,AT,Semi-Sintetik,7000,Heavy Daily,2938.4
+CUST0287,Hadi Effendi,082293235664,Jl. SM Raja No. 4,Medan Perjuangan,Medan,20233,CAR0287,BK 2320 PA,Innova Zenix,2.0 HV,2025,Hybrid,FWD,CVT,Full-Sintetik,10000,Weekend Warrior,2221.6
+CUST0288,Togar Effendi,083830939735,"Komp. Tasbih Blok A2, Jl. William Iskandar",Medan Marelan,Medan,20255,CAR0288,BK 3395 CM,Rush,1.5 S TRD,2019,Bensin,RWD,AT,Semi-Sintetik,7000,Heavy Daily,2079.8
+CUST0289,Fitri Wibowo,082361465515,"Komp. Tasbih Blok E3, Jl. Marelan Raya",Medan Selayang,Medan,20131,CAR0289,BK 8306 DV,Avanza,1.5 G,2024,Bensin,FWD,MT,Semi-Sintetik,7000,Light Commuter,1232.5
+CUST0290,Wati Suryadi,085375035587,Jl. Krakatau No. 232,Medan Labuhan,Medan,20252,CAR0290,BK 7620 NS,Avanza,1.5 Veloz,2020,Bensin,FWD,MT,Full-Sintetik,9500,Weekend Warrior,1508.7
+CUST0291,Hermanto Wijaya,085229757553,"Komp. Royal Sumatra Blok D22, Jl. Jamin Ginting",Medan Baru,Medan,20153,CAR0291,BK 9614 YR,Innova Reborn,2.4 V Diesel,2020,Diesel,RWD,AT,Full-Sintetik,6000,Light Commuter,996.9
+CUST0292,Reza Wirawan,085227988664,Jl. Ringroad No. 147,Medan Sunggal,Medan,20128,CAR0292,BK 7167 RC,Avanza,1.5 G,2021,Bensin,FWD,AT,Semi-Sintetik,7000,Light Commuter,1098.9
+CUST0293,Hendra Maulana,081372356795,Jl. William Iskandar No. 38,Medan Denai,Medan,20227,CAR0293,BK 5169 DY,Avanza,1.3 E,2017,Bensin,RWD,AT,Semi-Sintetik,7000,Weekend Warrior,700.0
+CUST0294,Rizky Pratama,081247355277,Jl. Halat No. 35,Medan Barat,Medan,20231,CAR0294,BK 2869 XS,Avanza,1.3 E,2021,Bensin,RWD,AT,Semi-Sintetik,7000,Weekend Warrior,1488.1
+CUST0295,Putri Tarigan,082285831317,"Komp. Royal Sumatra Blok B19, Jl. HM Yamin",Medan Maimun,Medan,20151,CAR0295,BK 9988 UA,Rush,1.5 S TRD,2022,Bensin,RWD,AT,Semi-Sintetik,7000,Heavy Daily,2697.1
+CUST0296,Dedi Wirawan,085335452274,"Perumahan J City Blok E4, Jl. AH Nasution",Medan Kota,Medan,20212,CAR0296,BK 9212 UX,Veloz,1.5 Q CVT,2018,Bensin,FWD,CVT,Full-Sintetik,9500,Weekend Warrior,1299.3
+CUST0297,Roni Pasaribu,082347285874,Jl. Ringroad No. 70,Medan Area,Medan,20214,CAR0297,BK 6968 XF,Innova Reborn,2.4 V Diesel,2025,Diesel,RWD,AT,Full-Sintetik,6000,Light Commuter,762.5
+CUST0298,Budi Pratama,082378361977,"Komp. Royal Sumatra Blok B10, Jl. Gatot Subroto",Medan Denai,Medan,20227,CAR0298,BK 3048 AN,Avanza,1.5 G,2019,Bensin,FWD,MT,Semi-Sintetik,7000,Weekend Warrior,1250.4
+CUST0299,Siti Situmorang,083857732847,Jl. AH Nasution No. 6,Medan Sunggal,Medan,20128,CAR0299,BK 8873 NJ,Avanza,1.3 E,2018,Bensin,RWD,MT,Semi-Sintetik,7000,Heavy Daily,2510.0
+CUST0300,Hadi Hutabarat,081318748044,Jl. Denai No. 81,Medan Kota,Medan,20212,CAR0300,BK 1910 SN,Innova Reborn,2.0 G Bensin,2020,Bensin,RWD,AT,Semi-Sintetik,7000,Heavy Daily,2927.6
+CUST0301,Erlina Pratama,085180875514,Jl. Ringroad No. 232,Medan Labuhan,Medan,20252,CAR0301,BK 5344 EL,Avanza,1.3 E,2022,Bensin,RWD,MT,Semi-Sintetik,7000,Weekend Warrior,2141.8
+CUST0302,Hermanto Dalimunthe,081158242320,Jl. Krakatau No. 23,Medan Labuhan,Medan,20252,CAR0302,BK 7061 BG,Avanza,1.5 G,2017,Bensin,FWD,MT,Semi-Sintetik,7000,Light Commuter,1055.2
+CUST0303,Hendra Marpaung,085339141028,"Komp. Royal Sumatra Blok C14, Jl. AH Nasution",Medan Kota,Medan,20212,CAR0303,BK 7567 HL,Avanza,1.5 G,2024,Bensin,FWD,AT,Semi-Sintetik,7000,Weekend Warrior,1375.2
+CUST0304,Rina Pulungan,082180975536,"Komp. Cemara Asri Blok C1, Jl. Iskandar Muda",Medan Deli,Medan,20241,CAR0304,BK 5079 GF,Innova Zenix,2.0 HV,2024,Hybrid,FWD,CVT,Full-Sintetik,10000,Heavy Daily,1748.8
+CUST0305,Santi Sitorus,083855407533,Jl. AH Nasution No. 112,Medan Polonia,Medan,20157,CAR0305,BK 1132 PL,Yaris Cross,1.5 HV,2022,Hybrid,FWD,CVT,Full-Sintetik,10000,Heavy Daily,2379.0
+CUST0306,Bayu Hartono,085239625775,Jl. Menteng No. 57,Medan Maimun,Medan,20151,CAR0306,BK 7903 SD,Yaris Cross,1.5 HV,2021,Hybrid,FWD,CVT,Full-Sintetik,10000,Heavy Daily,2544.8
+CUST0307,Wahyu Situmorang,081128017428,Jl. Cemara No. 46,Medan Johor,Medan,20144,CAR0307,BK 6958 GX,Avanza,1.5 Veloz,2020,Bensin,FWD,MT,Full-Sintetik,9500,Light Commuter,1078.9
+CUST0308,Rendi Situmorang,082237307450,"Komp. Royal Sumatra Blok C3, Jl. Cemara",Medan Perjuangan,Medan,20233,CAR0308,BK 9364 FJ,Vios,1.5 G,2018,Bensin,FWD,CVT,Full-Sintetik,9500,Light Commuter,523.1
+CUST0309,Andi Saputra,085240837670,"Komp. Cemara Asri Blok D4, Jl. Karya Wisata",Medan Labuhan,Medan,20252,CAR0309,BK 8823 DT,Hilux,2.4 D-Cab 4x4,2022,Diesel,4x4,AT,Full-Sintetik,6000,Light Commuter,881.0
+CUST0310,Agus Pratama,085191579431,"Perumahan J City Blok E13, Jl. Jamin Ginting",Medan Selayang,Medan,20131,CAR0310,BK 8763 WH,Avanza,1.3 E,2017,Bensin,RWD,MT,Semi-Sintetik,7000,Heavy Daily,2668.2
+CUST0311,Dimas Maulana,085324652005,Jl. HM Yamin No. 133,Medan Tuntungan,Medan,20135,CAR0311,BK 7768 LT,Vios,1.5 G,2023,Bensin,FWD,CVT,Full-Sintetik,9500,Weekend Warrior,1564.4
+CUST0312,Dedi Santoso,089664453380,"Perumahan J City Blok A23, Jl. Sisingamangaraja",Medan Petisah,Medan,20111,CAR0312,BK 9554 EP,Innova Reborn,2.4 V Diesel,2020,Diesel,RWD,AT,Full-Sintetik,6000,Heavy Daily,3042.0
+CUST0313,Reza Tanjung,082227369211,"Komp. Citra Garden Blok G10, Jl. Dr. Mansyur",Medan Timur,Medan,20231,CAR0313,BK 3488 PP,Calya,1.2 G,2022,Bensin,FWD,AT,Mineral,4500,Light Commuter,634.2
+CUST0314,Indra Sitorus,082136237809,Jl. Menteng No. 88,Medan Deli,Medan,20241,CAR0314,BK 2621 PM,Fortuner,2.8 GR 4x4,2016,Diesel,4x4,AT,Full-Sintetik,6000,Light Commuter,992.9
+CUST0315,Frans Pohan,081279641611,Jl. Halat No. 211,Medan Denai,Medan,20227,CAR0315,BK 5793 NK,Fortuner,2.8 GR 4x4,2020,Diesel,4x4,AT,Full-Sintetik,6000,Weekend Warrior,1607.7
+CUST0316,Juliana Hutabarat,085178783775,"Komp. Cemara Asri Blok A27, Jl. Bromo",Medan Labuhan,Medan,20252,CAR0316,BK 6441 BL,Rush,1.5 S TRD,2021,Bensin,RWD,AT,Semi-Sintetik,7000,Heavy Daily,3102.4
+CUST0317,Fahmi Setiawan,081313077018,Jl. Halat No. 200,Medan Marelan,Medan,20255,CAR0317,BK 4963 BW,Calya,1.2 G,2023,Bensin,FWD,MT,Mineral,4500,Light Commuter,1377.2
+CUST0318,Siti Halim,081377663483,Jl. Dr. Mansyur No. 213,Medan Kota,Medan,20212,CAR0318,BK 6774 DR,Rush,1.5 S TRD,2021,Bensin,RWD,AT,Semi-Sintetik,7000,Light Commuter,848.1
+CUST0319,Hermanto Situmorang,083848251434,Jl. Brigjen Katamso No. 68,Medan Perjuangan,Medan,20233,CAR0319,BK 1530 RG,Innova Reborn,2.4 V Diesel,2016,Diesel,RWD,AT,Full-Sintetik,6000,Heavy Daily,3134.0
+CUST0320,Robby Hutabarat,085314674759,"Komp. Royal Sumatra Blok D2, Jl. Ringroad",Medan Maimun,Medan,20151,CAR0320,BK 2018 KS,Rush,1.5 S TRD,2024,Bensin,RWD,AT,Semi-Sintetik,7000,Light Commuter,918.5
+CUST0321,Iwan Pasaribu,085384149684,"Perumahan J City Blok A23, Jl. Marelan Raya",Medan Denai,Medan,20227,CAR0321,BK 2120 VR,Avanza,1.3 E,2017,Bensin,RWD,MT,Semi-Sintetik,7000,Heavy Daily,2707.4
+CUST0322,Erlina Wijaya,081393385737,Jl. AH Nasution No. 57,Medan Marelan,Medan,20255,CAR0322,BK 2644 ZX,Avanza,1.3 E,2023,Bensin,RWD,MT,Semi-Sintetik,7000,Light Commuter,1256.4
+CUST0323,Surya Saputra,089620364178,Jl. Adam Malik No. 180,Medan Barat,Medan,20231,CAR0323,BK 2826 TX,Veloz,1.5 Q CVT,2025,Bensin,FWD,CVT,Full-Sintetik,9500,Light Commuter,1112.2
+CUST0324,Dewi Santoso,081255795609,"Perumahan J City Blok E11, Jl. Ringroad",Medan Polonia,Medan,20157,CAR0324,BK 1138 GN,Innova Reborn,2.4 V Diesel,2021,Diesel,RWD,AT,Full-Sintetik,6000,Light Commuter,890.6
+CUST0325,Agus Daulay,082126733345,"Komp. Citra Garden Blok C21, Jl. Setia Budi",Medan Denai,Medan,20227,CAR0325,BK 9026 JS,Yaris,1.5 S,2021,Bensin,FWD,CVT,Full-Sintetik,9500,Light Commuter,611.4
+CUST0326,Bayu Hutabarat,089678755097,"Komp. Citra Garden Blok D23, Jl. Glugur",Medan Deli,Medan,20241,CAR0326,BK 5941 FM,Fortuner,2.4 VRZ 4x2,2022,Diesel,RWD,AT,Full-Sintetik,6000,Light Commuter,992.7
+CUST0327,Joko Dalimunthe,082395264098,"Komp. Citra Garden Blok E14, Jl. Krakatau",Medan Selayang,Medan,20131,CAR0327,BK 8554 WN,Agya,1.2 G,2019,Bensin,FWD,MT,Mineral,4500,Heavy Daily,2902.5
+CUST0328,Yuni Rangkuti,082152987346,Jl. Sisingamangaraja No. 148,Medan Kota,Medan,20212,CAR0328,BK 7823 BR,Rush,1.5 S TRD,2019,Bensin,RWD,AT,Semi-Sintetik,7000,Light Commuter,856.8
+CUST0329,Joko Setiawan,085218468191,Jl. Glugur No. 187,Medan Area,Medan,20214,CAR0329,BK 5809 NW,Agya,1.2 G,2017,Bensin,FWD,MT,Mineral,4500,Light Commuter,1306.2
+CUST0330,Robby Dalimunthe,085288235834,"Komp. Royal Sumatra Blok A14, Jl. Pancing",Medan Tembung,Medan,20222,CAR0330,BK 1483 HV,Fortuner,2.8 GR 4x4,2021,Diesel,4x4,AT,Full-Sintetik,6000,Weekend Warrior,2036.4
+CUST0331,Dedi Simanjuntak,082333563764,Jl. Krakatau No. 97,Medan Petisah,Medan,20111,CAR0331,BK 4730 VX,Innova Reborn,2.4 V Diesel,2016,Diesel,RWD,AT,Full-Sintetik,6000,Heavy Daily,1761.7
+CUST0332,Wati Siregar,085236086287,"Perumahan J City Blok D4, Jl. Menteng",Medan Deli,Medan,20241,CAR0332,BK 3883 ZZ,Calya,1.2 G,2024,Bensin,FWD,AT,Mineral,4500,Heavy Daily,3315.9
+CUST0333,Joko Tanaka,082348619912,Jl. William Iskandar No. 246,Medan Marelan,Medan,20255,CAR0333,BK 2165 CZ,Innova Zenix,2.0 HV,2022,Hybrid,FWD,CVT,Full-Sintetik,10000,Weekend Warrior,1563.2
+CUST0334,Bayu Siregar,081373377762,"Komp. Cemara Asri Blok F25, Jl. SM Raja",Medan Perjuangan,Medan,20233,CAR0334,BK 8203 UX,Avanza,1.3 E,2017,Bensin,RWD,AT,Semi-Sintetik,7000,Weekend Warrior,1568.1
+CUST0335,Yuni Nugroho,081185815721,Jl. Sisingamangaraja No. 10,Medan Baru,Medan,20153,CAR0335,BK 3479 PX,Fortuner,2.8 GR 4x4,2017,Diesel,4x4,AT,Full-Sintetik,6000,Light Commuter,720.9
+CUST0336,Ayu Panjaitan,082353944781,"Komp. Cemara Asri Blok C21, Jl. Brigjen Katamso",Medan Selayang,Medan,20131,CAR0336,BK 9667 SB,Avanza,1.5 G,2025,Bensin,FWD,AT,Semi-Sintetik,7000,Weekend Warrior,1464.8
+CUST0337,Dimas Rangkuti,082378771749,"Komp. Tasbih Blok B29, Jl. Ringroad",Medan Maimun,Medan,20151,CAR0337,BK 9071 JS,Calya,1.2 G,2025,Bensin,FWD,MT,Mineral,4500,Heavy Daily,3252.8
+CUST0338,Maruli Susanto,082272461355,"Komp. Cemara Asri Blok A27, Jl. Halat",Medan Kota,Medan,20212,CAR0338,BK 9705 FA,Yaris Cross,1.5 HV,2016,Hybrid,FWD,CVT,Full-Sintetik,10000,Weekend Warrior,1457.1
+CUST0339,Wati Nugroho,082152443160,"Komp. Royal Sumatra Blok A10, Jl. Glugur",Medan Tuntungan,Medan,20135,CAR0339,BK 6484 FD,Innova Reborn,2.4 V Diesel,2019,Diesel,RWD,AT,Full-Sintetik,6000,Light Commuter,1065.6
+CUST0340,Hadi Damanik,083865599954,Jl. Iskandar Muda No. 98,Medan Tembung,Medan,20222,CAR0340,BK 4095 UH,Avanza,1.3 E,2018,Bensin,RWD,AT,Semi-Sintetik,7000,Light Commuter,455.8
+CUST0341,Surya Tanjung,082225701910,Jl. HM Yamin No. 124,Medan Sunggal,Medan,20128,CAR0341,BK 6792 JW,Veloz,1.5 Q CVT,2025,Bensin,FWD,CVT,Full-Sintetik,9500,Heavy Daily,3262.8
+CUST0342,Frans Siregar,085277111722,"Perumahan J City Blok G10, Jl. Ringroad",Medan Petisah,Medan,20111,CAR0342,BK 3010 JA,Avanza,1.5 G,2023,Bensin,FWD,MT,Semi-Sintetik,7000,Heavy Daily,3050.9
+CUST0343,Wahyu Sembiring,083862232396,"Komp. Citra Garden Blok C5, Jl. Krakatau",Medan Selayang,Medan,20131,CAR0343,BK 9958 WZ,Innova Reborn,2.4 V Diesel,2019,Diesel,RWD,AT,Full-Sintetik,6000,Light Commuter,403.0
+CUST0344,Yuni Nugroho,085259996109,Jl. Iskandar Muda No. 81,Medan Maimun,Medan,20151,CAR0344,BK 9741 VV,Avanza,1.5 G,2024,Bensin,FWD,AT,Semi-Sintetik,7000,Heavy Daily,3166.3
+CUST0345,Erlina Tanjung,081275121013,"Komp. Cemara Asri Blok E25, Jl. Menteng",Medan Baru,Medan,20153,CAR0345,BK 2533 CX,Yaris,1.5 S,2024,Bensin,FWD,CVT,Full-Sintetik,9500,Light Commuter,901.8
+CUST0346,Rizky Tarigan,083876143112,"Komp. Royal Sumatra Blok C9, Jl. William Iskandar",Medan Tuntungan,Medan,20135,CAR0346,BK 6139 KX,Fortuner,2.8 GR 4x4,2023,Diesel,4x4,AT,Full-Sintetik,6000,Heavy Daily,3301.2
+CUST0347,Robby Pulungan,085223516148,Jl. Denai No. 13,Medan Barat,Medan,20231,CAR0347,BK 7541 XT,Agya,1.2 G,2020,Bensin,FWD,MT,Mineral,4500,Heavy Daily,2366.9
+CUST0348,Pranata Tanaka,082392667166,Jl. Ringroad No. 207,Medan Area,Medan,20214,CAR0348,BK 1672 RS,Innova Reborn,2.4 V Diesel,2023,Diesel,RWD,AT,Full-Sintetik,6000,Heavy Daily,1712.5
+CUST0349,Agus Ginting,085239417265,"Komp. Citra Garden Blok G11, Jl. Sutomo",Medan Kota,Medan,20212,CAR0349,BK 2816 HJ,Innova Reborn,2.0 G Bensin,2020,Bensin,RWD,AT,Semi-Sintetik,7000,Light Commuter,805.1
+CUST0350,Agus Wijaya,081161682203,"Komp. Royal Sumatra Blok F3, Jl. Pasar Merah",Medan Petisah,Medan,20111,CAR0350,BK 2565 LJ,Innova Zenix,2.0 HV,2017,Hybrid,FWD,CVT,Full-Sintetik,10000,Heavy Daily,3060.4
+CUST0351,Hendra Nasution,082278592595,Jl. Ringroad No. 12,Medan Timur,Medan,20231,CAR0351,BK 4512 SX,Avanza,1.5 G,2021,Bensin,FWD,AT,Semi-Sintetik,7000,Heavy Daily,4020.7
+CUST0352,Togar Sinaga,085185984232,Jl. Gatot Subroto No. 77,Medan Amplas,Medan,20148,CAR0352,BK 8865 XM,Agya,1.2 G,2018,Bensin,FWD,AT,Mineral,4500,Light Commuter,1186.1
+CUST0353,Hermanto Maulana,085227055535,"Komp. Tasbih Blok E18, Jl. Adam Malik",Medan Petisah,Medan,20111,CAR0353,BK 3436 RP,Veloz,1.5 Q CVT,2022,Bensin,FWD,CVT,Full-Sintetik,9500,Light Commuter,1007.7
+CUST0354,Tiur Wibowo,085128313225,Jl. Karya Wisata No. 186,Medan Barat,Medan,20231,CAR0354,BK 9644 VS,Hilux,2.4 D-Cab 4x4,2023,Diesel,4x4,MT,Full-Sintetik,6000,Light Commuter,522.9
+CUST0355,Nurul Manurung,083897705494,"Komp. Royal Sumatra Blok G15, Jl. Brigjen Katamso",Medan Timur,Medan,20231,CAR0355,BK 8386 WP,Avanza,1.5 G,2025,Bensin,FWD,AT,Semi-Sintetik,7000,Light Commuter,938.1
+CUST0356,Hendra Lubis,081286559382,Jl. Setia Budi No. 25,Medan Maimun,Medan,20151,CAR0356,BK 3585 RS,Avanza,1.5 G,2021,Bensin,FWD,MT,Semi-Sintetik,7000,Heavy Daily,2373.9
+CUST0357,Surya Saputra,089675301954,"Komp. Cemara Asri Blok F19, Jl. Sisingamangaraja",Medan Barat,Medan,20231,CAR0357,BK 2116 CE,Innova Zenix,2.0 HV,2023,Hybrid,FWD,CVT,Full-Sintetik,10000,Heavy Daily,2725.4
+CUST0358,Ratna Salim,082389126275,"Komp. Royal Sumatra Blok E6, Jl. Krakatau",Medan Labuhan,Medan,20252,CAR0358,BK 2490 CL,Avanza,1.3 E,2017,Bensin,RWD,MT,Semi-Sintetik,7000,Light Commuter,1183.6
+CUST0359,Yuni Wibowo,082378044420,Jl. SM Raja No. 40,Medan Kota,Medan,20212,CAR0359,BK 3803 EF,Yaris,1.5 S,2018,Bensin,FWD,CVT,Full-Sintetik,9500,Light Commuter,1117.1
+CUST0360,Roni Marpaung,081115221441,"Komp. Royal Sumatra Blok E22, Jl. Adam Malik",Medan Amplas,Medan,20148,CAR0360,BK 3344 MD,Raize,1.0 Turbo,2019,Bensin,FWD,CVT,Full-Sintetik,9500,Light Commuter,981.2
+CUST0361,Maya Setiawan,082281118185,Jl. Denai No. 134,Medan Kota,Medan,20212,CAR0361,BK 5659 NW,Yaris Cross,1.5 HV,2019,Hybrid,FWD,CVT,Full-Sintetik,10000,Heavy Daily,2587.1
+CUST0362,Ferry Marpaung,085397868856,Jl. Marelan Raya No. 83,Medan Baru,Medan,20153,CAR0362,BK 9644 BE,Avanza,1.3 E,2020,Bensin,RWD,AT,Semi-Sintetik,7000,Weekend Warrior,1361.0
+CUST0363,Budi Setiawan,083884464419,Jl. Denai No. 148,Medan Barat,Medan,20231,CAR0363,BK 3410 XN,Innova Reborn,2.0 G Bensin,2024,Bensin,RWD,AT,Semi-Sintetik,7000,Heavy Daily,3422.3
+CUST0364,Wati Siregar,082343295677,"Perumahan J City Blok A23, Jl. Pemuda",Medan Polonia,Medan,20157,CAR0364,BK 1943 NN,Avanza,1.5 G,2022,Bensin,FWD,AT,Semi-Sintetik,7000,Weekend Warrior,1546.7
+CUST0365,Frans Dalimunthe,085255459870,"Perumahan J City Blok B10, Jl. Denai",Medan Kota,Medan,20212,CAR0365,BK 8162 WF,Agya,1.2 G,2024,Bensin,FWD,AT,Mineral,4500,Heavy Daily,2389.3
+CUST0366,Rosma Silalahi,085161601997,Jl. Jamin Ginting No. 225,Medan Labuhan,Medan,20252,CAR0366,BK 3798 NL,Innova Reborn,2.4 V Diesel,2018,Diesel,RWD,AT,Full-Sintetik,6000,Light Commuter,1243.7
+CUST0367,Gunawan Batubara,089689526838,Jl. Menteng No. 138,Medan Sunggal,Medan,20128,CAR0367,BK 2026 ZR,Fortuner,2.4 VRZ 4x2,2017,Diesel,RWD,AT,Full-Sintetik,6000,Light Commuter,998.0
+CUST0368,Reza Wirawan,085327801304,Jl. Marelan Raya No. 193,Medan Labuhan,Medan,20252,CAR0368,BK 4543 RS,Agya,1.2 G,2018,Bensin,FWD,AT,Mineral,4500,Light Commuter,551.5
+CUST0369,Sari Halim,083814796389,Jl. Marelan Raya No. 234,Medan Baru,Medan,20153,CAR0369,BK 9028 AL,Agya,1.2 G,2019,Bensin,FWD,AT,Mineral,4500,Light Commuter,759.4
+CUST0370,Hadi Setiawan,085288482074,"Perumahan J City Blok B10, Jl. Iskandar Muda",Medan Marelan,Medan,20255,CAR0370,BK 9174 HF,Veloz,1.5 Q CVT,2018,Bensin,FWD,CVT,Full-Sintetik,9500,Heavy Daily,3162.6
+CUST0371,Frans Tarigan,089629354162,"Komp. Tasbih Blok F11, Jl. Adam Malik",Medan Tuntungan,Medan,20135,CAR0371,BK 8211 NB,Rush,1.5 S TRD,2020,Bensin,RWD,AT,Semi-Sintetik,7000,Heavy Daily,2470.4
+CUST0372,Ferry Rahman,081396639219,"Komp. Cemara Asri Blok F8, Jl. Bromo",Medan Sunggal,Medan,20128,CAR0372,BK 5477 DH,Avanza,1.3 E,2016,Bensin,RWD,AT,Semi-Sintetik,7000,Light Commuter,1141.3
+CUST0373,Nurul Setiawan,085311481317,Jl. Bromo No. 146,Medan Maimun,Medan,20151,CAR0373,BK 6587 PV,Innova Reborn,2.4 V Diesel,2019,Diesel,RWD,AT,Full-Sintetik,6000,Light Commuter,950.6
+CUST0374,Pranata Silalahi,085338455564,"Komp. Cemara Asri Blok C25, Jl. Dr. Mansyur",Medan Petisah,Medan,20111,CAR0374,BK 9719 SF,Raize,1.0 Turbo,2017,Bensin,FWD,CVT,Full-Sintetik,9500,Weekend Warrior,1486.1
+CUST0375,Andi Pulungan,085225566539,"Komp. Citra Garden Blok D16, Jl. Denai",Medan Petisah,Medan,20111,CAR0375,BK 2214 NF,Avanza,1.5 G,2025,Bensin,FWD,AT,Semi-Sintetik,7000,Heavy Daily,3139.6
+CUST0376,Fitri Pratama,082259387234,Jl. Gatot Subroto No. 60,Medan Barat,Medan,20231,CAR0376,BK 4631 JN,Veloz,1.5 Q CVT,2024,Bensin,FWD,CVT,Full-Sintetik,9500,Light Commuter,1168.3
+CUST0377,Boy Saragih,081171042038,Jl. Ringroad No. 129,Medan Helvetia,Medan,20124,CAR0377,BK 5195 XZ,Yaris,1.5 S,2025,Bensin,FWD,CVT,Full-Sintetik,9500,Weekend Warrior,1491.5
+CUST0378,Ferry Hutabarat,081351266894,"Komp. Cemara Asri Blok A20, Jl. Menteng",Medan Amplas,Medan,20148,CAR0378,BK 4215 VM,Innova Zenix,2.0 HV,2021,Hybrid,FWD,CVT,Full-Sintetik,10000,Weekend Warrior,1693.1
+CUST0379,Ratna Susanto,081365783354,Jl. HM Yamin No. 214,Medan Deli,Medan,20241,CAR0379,BK 9836 WJ,Raize,1.0 Turbo,2020,Bensin,FWD,CVT,Full-Sintetik,9500,Heavy Daily,3910.7
+CUST0380,Hendra Maulana,081235828524,"Komp. Citra Garden Blok B11, Jl. Iskandar Muda",Medan Kota,Medan,20212,CAR0380,BK 2534 RN,Yaris,1.5 S,2023,Bensin,FWD,CVT,Full-Sintetik,9500,Light Commuter,1177.6
+CUST0381,Roni Hutapea,082150591784,"Komp. Royal Sumatra Blok E26, Jl. Sekip",Medan Tuntungan,Medan,20135,CAR0381,BK 7332 YL,Innova Zenix,2.0 HV,2017,Hybrid,FWD,CVT,Full-Sintetik,10000,Heavy Daily,2482.7
+CUST0382,Eko Hutabarat,089654631798,"Komp. Citra Garden Blok G17, Jl. Adam Malik",Medan Labuhan,Medan,20252,CAR0382,BK 1948 XV,Fortuner,2.4 VRZ 4x2,2025,Diesel,RWD,AT,Full-Sintetik,6000,Weekend Warrior,2290.0
+CUST0383,Nurul Ginting,082377805414,"Komp. Cemara Asri Blok D18, Jl. Iskandar Muda",Medan Marelan,Medan,20255,CAR0383,BK 5103 FC,Avanza,1.5 G,2017,Bensin,FWD,MT,Semi-Sintetik,7000,Light Commuter,837.2
+CUST0384,Roni Pratama,083892898372,Jl. SM Raja No. 78,Medan Tuntungan,Medan,20135,CAR0384,BK 3560 UF,Fortuner,2.4 VRZ 4x2,2017,Diesel,RWD,AT,Full-Sintetik,6000,Weekend Warrior,1673.5
+CUST0385,Fahmi Simanjuntak,085287476021,Jl. Bromo No. 225,Medan Tembung,Medan,20222,CAR0385,BK 8039 NL,Avanza,1.3 E,2024,Bensin,RWD,AT,Semi-Sintetik,7000,Heavy Daily,2781.3
+CUST0386,Robby Maulana,082162579385,Jl. Karya Wisata No. 38,Medan Area,Medan,20214,CAR0386,BK 4886 DN,Avanza,1.5 G,2019,Bensin,FWD,AT,Semi-Sintetik,7000,Heavy Daily,3520.0
+CUST0387,Andi Pratama,082331719939,"Komp. Cemara Asri Blok F26, Jl. Jamin Ginting",Medan Johor,Medan,20144,CAR0387,BK 6933 PF,Avanza,1.3 E,2025,Bensin,RWD,MT,Semi-Sintetik,7000,Light Commuter,914.6
+CUST0388,Ferry Sitorus,085365352883,"Perumahan J City Blok B21, Jl. HM Yamin",Medan Selayang,Medan,20131,CAR0388,BK 9318 KW,Veloz,1.5 Q CVT,2024,Bensin,FWD,CVT,Full-Sintetik,9500,Light Commuter,1577.6
+CUST0389,Fahmi Nugroho,082136198455,Jl. Krakatau No. 182,Medan Deli,Medan,20241,CAR0389,BK 2228 HY,Avanza,1.5 G,2019,Bensin,FWD,AT,Semi-Sintetik,7000,Light Commuter,1047.8
+CUST0390,Tiur Santoso,089625954781,"Perumahan J City Blok F2, Jl. HM Yamin",Medan Denai,Medan,20227,CAR0390,BK 7346 RS,Avanza,1.5 G,2017,Bensin,FWD,AT,Semi-Sintetik,7000,Weekend Warrior,1035.5
+CUST0391,Roni Maulana,085260885835,"Komp. Tasbih Blok C25, Jl. Sutomo",Medan Helvetia,Medan,20124,CAR0391,BK 6153 SB,Avanza,1.5 G,2019,Bensin,FWD,MT,Semi-Sintetik,7000,Light Commuter,529.1
+CUST0392,Taufik Hutapea,085360668251,"Komp. Citra Garden Blok A22, Jl. Glugur",Medan Amplas,Medan,20148,CAR0392,BK 4137 AT,Raize,1.0 Turbo,2024,Bensin,FWD,CVT,Full-Sintetik,9500,Light Commuter,677.9
+CUST0393,Joko Ginting,082245875480,"Komp. Royal Sumatra Blok B15, Jl. Pancing",Medan Polonia,Medan,20157,CAR0393,BK 7532 JK,Calya,1.2 G,2017,Bensin,FWD,AT,Mineral,4500,Heavy Daily,2956.1
+CUST0394,Pranata Wirawan,085115934072,Jl. HM Yamin No. 146,Medan Perjuangan,Medan,20233,CAR0394,BK 2779 NW,Avanza,1.5 G,2016,Bensin,FWD,AT,Semi-Sintetik,7000,Heavy Daily,3445.0
+CUST0395,Eko Tanjung,085176514240,"Perumahan J City Blok B8, Jl. Halat",Medan Denai,Medan,20227,CAR0395,BK 2163 AJ,Yaris Cross,1.5 HV,2016,Hybrid,FWD,CVT,Full-Sintetik,10000,Weekend Warrior,1988.5
+CUST0396,Hadi Maulana,085215448880,"Perumahan J City Blok G6, Jl. Menteng",Medan Maimun,Medan,20151,CAR0396,BK 9567 NK,Veloz,1.5 Q CVT,2018,Bensin,FWD,CVT,Full-Sintetik,9500,Light Commuter,944.1
+CUST0397,Frans Tanaka,089645399422,Jl. Sekip No. 172,Medan Helvetia,Medan,20124,CAR0397,BK 3069 BM,Avanza,1.5 G,2020,Bensin,FWD,MT,Semi-Sintetik,7000,Weekend Warrior,1278.5
+CUST0398,Nurul Purba,082311955215,Jl. Glugur No. 78,Medan Petisah,Medan,20111,CAR0398,BK 3204 ZA,Avanza,1.3 E,2019,Bensin,RWD,AT,Semi-Sintetik,7000,Light Commuter,1076.1
+CUST0399,Rosma Pulungan,081232253706,"Perumahan J City Blok A25, Jl. HM Yamin",Medan Labuhan,Medan,20252,CAR0399,BK 3643 GG,Avanza,1.5 Veloz,2019,Bensin,FWD,AT,Full-Sintetik,9500,Heavy Daily,1425.7
+CUST0400,Lestari Situmorang,081248046007,Jl. SM Raja No. 230,Medan Marelan,Medan,20255,CAR0400,BK 5004 SE,Avanza,1.5 G,2019,Bensin,FWD,MT,Semi-Sintetik,7000,Light Commuter,956.0
+CUST0401,Wahyu Hutapea,082176668585,Jl. Pancing No. 35,Medan Maimun,Medan,20151,CAR0401,BK 4571 UT,Calya,1.2 G,2022,Bensin,FWD,AT,Mineral,4500,Heavy Daily,3064.0
+CUST0402,Eko Salim,081273673688,"Komp. Tasbih Blok C17, Jl. Karya Wisata",Medan Barat,Medan,20231,CAR0402,BK 2794 JY,Innova Zenix,2.0 HV,2019,Hybrid,FWD,CVT,Full-Sintetik,10000,Heavy Daily,2946.6
+CUST0403,Andi Tarigan,082173591839,Jl. Menteng No. 24,Medan Timur,Medan,20231,CAR0403,BK 3412 AG,Rush,1.5 S TRD,2018,Bensin,RWD,AT,Semi-Sintetik,7000,Light Commuter,655.2
+CUST0404,Rosma Rangkuti,082252648044,"Komp. Tasbih Blok B23, Jl. Brigjen Katamso",Medan Denai,Medan,20227,CAR0404,BK 9023 WS,Avanza,1.5 Veloz,2025,Bensin,FWD,MT,Full-Sintetik,9500,Heavy Daily,1675.1
+CUST0405,Andi Hutabarat,085385351975,"Komp. Cemara Asri Blok C24, Jl. Karya Wisata",Medan Deli,Medan,20241,CAR0405,BK 4822 NK,Yaris,1.5 S,2019,Bensin,FWD,CVT,Full-Sintetik,9500,Weekend Warrior,1242.5
+CUST0406,Juliana Susanto,085349306874,Jl. Bromo No. 153,Medan Polonia,Medan,20157,CAR0406,BK 4232 ZJ,Corolla Cross,1.8 HV,2021,Hybrid,FWD,CVT,Full-Sintetik,10000,Heavy Daily,2933.9
+CUST0407,Joko Dalimunthe,085350061797,Jl. Sisingamangaraja No. 210,Medan Marelan,Medan,20255,CAR0407,BK 6944 SE,Raize,1.0 Turbo,2022,Bensin,FWD,CVT,Full-Sintetik,9500,Weekend Warrior,1803.0
+CUST0408,Santi Simanjuntak,083823871439,"Perumahan J City Blok C20, Jl. Halat",Medan Sunggal,Medan,20128,CAR0408,BK 1430 WE,Avanza,1.5 G,2023,Bensin,FWD,AT,Semi-Sintetik,7000,Heavy Daily,3226.1
+CUST0409,Hadi Lubis,085320528084,"Komp. Tasbih Blok B11, Jl. Iskandar Muda",Medan Timur,Medan,20231,CAR0409,BK 8093 PD,Avanza,1.3 E,2017,Bensin,RWD,MT,Semi-Sintetik,7000,Light Commuter,600.7
+CUST0410,Lestari Setiawan,085362049413,"Komp. Royal Sumatra Blok F21, Jl. Adam Malik",Medan Baru,Medan,20153,CAR0410,BK 6028 ME,Raize,1.0 Turbo,2019,Bensin,FWD,CVT,Full-Sintetik,9500,Heavy Daily,2377.9
+CUST0411,Rosma Nugroho,081262165749,Jl. Sekip No. 88,Medan Johor,Medan,20144,CAR0411,BK 1282 DW,Veloz,1.5 Q CVT,2025,Bensin,FWD,CVT,Full-Sintetik,9500,Light Commuter,938.9
+CUST0412,Mega Santoso,085364781551,"Komp. Royal Sumatra Blok A9, Jl. Jamin Ginting",Medan Petisah,Medan,20111,CAR0412,BK 4122 SJ,Avanza,1.5 G,2022,Bensin,FWD,AT,Semi-Sintetik,7000,Light Commuter,659.2
+CUST0413,Tiur Hutapea,083824911196,"Komp. Cemara Asri Blok B21, Jl. Brigjen Katamso",Medan Area,Medan,20214,CAR0413,BK 2313 PM,Avanza,1.5 G,2017,Bensin,FWD,MT,Semi-Sintetik,7000,Heavy Daily,1200.0
+CUST0414,Andi Tarigan,082278986369,"Perumahan J City Blok G22, Jl. Dr. Mansyur",Medan Barat,Medan,20231,CAR0414,BK 5148 XZ,Avanza,1.5 Veloz,2020,Bensin,FWD,MT,Full-Sintetik,9500,Heavy Daily,2917.3
+CUST0415,Robby Saputra,089698259358,Jl. Sisingamangaraja No. 116,Medan Petisah,Medan,20111,CAR0415,BK 4786 VS,Avanza,1.5 Veloz,2020,Bensin,FWD,AT,Full-Sintetik,9500,Light Commuter,1353.0
+CUST0416,Reza Suryadi,085121642997,Jl. Cemara No. 137,Medan Denai,Medan,20227,CAR0416,BK 2507 VD,Calya,1.2 G,2020,Bensin,FWD,MT,Mineral,4500,Light Commuter,1154.3
+CUST0417,Ratna Wirawan,082267879578,Jl. SM Raja No. 68,Medan Johor,Medan,20144,CAR0417,BK 3146 JE,Yaris Cross,1.5 HV,2017,Hybrid,FWD,CVT,Full-Sintetik,10000,Heavy Daily,2274.9
+CUST0418,Ratna Situmorang,085258944943,Jl. Ringroad No. 189,Medan Petisah,Medan,20111,CAR0418,BK 9277 ZR,Avanza,1.5 Veloz,2024,Bensin,FWD,AT,Full-Sintetik,9500,Weekend Warrior,2478.4
+CUST0419,Joko Santoso,081279067469,"Komp. Citra Garden Blok B13, Jl. Kapten Muslim",Medan Timur,Medan,20231,CAR0419,BK 6925 BL,Avanza,1.5 G,2020,Bensin,FWD,MT,Semi-Sintetik,7000,Weekend Warrior,1675.5
+CUST0420,Rosma Tanjung,089651716947,Jl. Dr. Mansyur No. 50,Medan Selayang,Medan,20131,CAR0420,BK 1335 DA,Avanza,1.3 E,2023,Bensin,RWD,MT,Semi-Sintetik,7000,Weekend Warrior,2299.4
+CUST0421,Rendi Tarigan,082138595711,"Komp. Tasbih Blok F4, Jl. Dr. Mansyur",Medan Marelan,Medan,20255,CAR0421,BK 4546 TS,Agya,1.2 G,2016,Bensin,FWD,MT,Mineral,4500,Light Commuter,1022.8
+CUST0422,Yuni Wijaya,081277506592,Jl. Cemara No. 5,Medan Kota,Medan,20212,CAR0422,BK 7811 JL,Innova Reborn,2.4 V Diesel,2018,Diesel,RWD,AT,Full-Sintetik,6000,Light Commuter,532.4
+CUST0423,Robby Simanjuntak,081334702297,"Komp. Royal Sumatra Blok D1, Jl. Krakatau",Medan Polonia,Medan,20157,CAR0423,BK 3419 HJ,Raize,1.0 Turbo,2016,Bensin,FWD,CVT,Full-Sintetik,9500,Weekend Warrior,2079.1
+CUST0424,Surya Pohan,082252255935,"Komp. Citra Garden Blok A15, Jl. Gajah Mada",Medan Deli,Medan,20241,CAR0424,BK 6787 DC,Fortuner,2.8 GR 4x4,2024,Diesel,4x4,AT,Full-Sintetik,6000,Weekend Warrior,1319.5
+CUST0425,Dedi Lubis,083898306126,Jl. Kapten Muslim No. 152,Medan Johor,Medan,20144,CAR0425,BK 2839 YM,Avanza,1.5 Veloz,2023,Bensin,FWD,AT,Full-Sintetik,9500,Weekend Warrior,1380.4
+CUST0426,Santi Situmorang,082188156607,Jl. Dr. Mansyur No. 31,Medan Tembung,Medan,20222,CAR0426,BK 7237 LW,Innova Reborn,2.4 V Diesel,2016,Diesel,RWD,AT,Full-Sintetik,6000,Light Commuter,1423.4
+CUST0427,Indra Effendi,085299725339,"Komp. Citra Garden Blok C29, Jl. Marelan Raya",Medan Amplas,Medan,20148,CAR0427,BK 8982 DD,Avanza,1.5 G,2016,Bensin,FWD,AT,Semi-Sintetik,7000,Weekend Warrior,1529.0
+CUST0428,Andi Maulana,081165137338,Jl. AH Nasution No. 129,Medan Johor,Medan,20144,CAR0428,BK 6775 PZ,Yaris,1.5 S,2022,Bensin,FWD,CVT,Full-Sintetik,9500,Heavy Daily,2659.9
+CUST0429,Indra Wijaya,083831963296,Jl. Glugur No. 9,Medan Barat,Medan,20231,CAR0429,BK 2658 WW,Avanza,1.3 E,2018,Bensin,RWD,MT,Semi-Sintetik,7000,Heavy Daily,3726.7
+CUST0430,Maruli Rahman,081288612449,"Komp. Tasbih Blok A5, Jl. Marelan Raya",Medan Amplas,Medan,20148,CAR0430,BK 3413 ML,Avanza,1.5 G,2016,Bensin,FWD,AT,Semi-Sintetik,7000,Light Commuter,628.8
+CUST0431,Dimas Pratama,082272745628,Jl. Karya Wisata No. 52,Medan Deli,Medan,20241,CAR0431,BK 5140 DP,Rush,1.5 S TRD,2020,Bensin,RWD,AT,Semi-Sintetik,7000,Light Commuter,537.1
+CUST0432,Gunawan Salim,082380835245,Jl. Krakatau No. 178,Medan Baru,Medan,20153,CAR0432,BK 4707 GX,Fortuner,2.4 VRZ 4x2,2023,Diesel,RWD,AT,Full-Sintetik,6000,Heavy Daily,3213.0
+CUST0433,Surya Pulungan,083830022177,Jl. Menteng No. 42,Medan Helvetia,Medan,20124,CAR0433,BK 9204 UR,Raize,1.0 Turbo,2022,Bensin,FWD,CVT,Full-Sintetik,9500,Heavy Daily,2616.7
+CUST0434,Fahmi Tarigan,085111899618,Jl. Glugur No. 232,Medan Maimun,Medan,20151,CAR0434,BK 3953 KY,Avanza,1.5 Veloz,2025,Bensin,FWD,MT,Full-Sintetik,9500,Heavy Daily,2782.0
+CUST0435,Dimas Saputra,085156602767,"Komp. Citra Garden Blok D1, Jl. Marelan Raya",Medan Timur,Medan,20231,CAR0435,BK 4887 CY,Avanza,1.5 Veloz,2025,Bensin,FWD,AT,Full-Sintetik,9500,Heavy Daily,3546.5
+CUST0436,Agus Effendi,085169029727,Jl. Iskandar Muda No. 186,Medan Amplas,Medan,20148,CAR0436,BK 7317 LX,Avanza,1.5 G,2024,Bensin,FWD,MT,Semi-Sintetik,7000,Heavy Daily,2324.7
+CUST0437,Reza Pohan,083835502429,Jl. Menteng No. 46,Medan Barat,Medan,20231,CAR0437,BK 2840 JG,Yaris,1.5 S,2022,Bensin,FWD,CVT,Full-Sintetik,9500,Light Commuter,897.9
+CUST0438,Dimas Pratama,089694135551,"Komp. Royal Sumatra Blok E20, Jl. HM Yamin",Medan Selayang,Medan,20131,CAR0438,BK 8847 JS,Rush,1.5 S TRD,2017,Bensin,RWD,AT,Semi-Sintetik,7000,Heavy Daily,2712.3
+CUST0439,Maya Susanto,083835037693,"Komp. Cemara Asri Blok B2, Jl. Pasar Merah",Medan Selayang,Medan,20131,CAR0439,BK 2155 YZ,Fortuner,2.4 VRZ 4x2,2017,Diesel,RWD,AT,Full-Sintetik,6000,Light Commuter,734.3
+CUST0440,Agus Dalimunthe,081328516493,Jl. Sutomo No. 232,Medan Marelan,Medan,20255,CAR0440,BK 4394 PB,Calya,1.2 G,2017,Bensin,FWD,MT,Mineral,4500,Light Commuter,840.6
+CUST0441,Robby Purba,081252558421,Jl. Setia Budi No. 53,Medan Perjuangan,Medan,20233,CAR0441,BK 2449 HE,Agya,1.2 G,2023,Bensin,FWD,AT,Mineral,4500,Weekend Warrior,1486.7
+CUST0442,Santi Damanik,081152053203,"Perumahan J City Blok A12, Jl. Halat",Medan Tuntungan,Medan,20135,CAR0442,BK 2003 EL,Avanza,1.5 G,2022,Bensin,FWD,AT,Semi-Sintetik,7000,Heavy Daily,3788.2
+CUST0443,Indra Santoso,085177563322,"Perumahan J City Blok D23, Jl. Krakatau",Medan Area,Medan,20214,CAR0443,BK 5390 YM,Innova Reborn,2.4 V Diesel,2022,Diesel,RWD,AT,Full-Sintetik,6000,Light Commuter,954.9
+CUST0444,Mega Panjaitan,089632381823,Jl. Krakatau No. 109,Medan Petisah,Medan,20111,CAR0444,BK 7217 CH,Avanza,1.5 G,2021,Bensin,FWD,AT,Semi-Sintetik,7000,Weekend Warrior,1274.8
+CUST0445,Ayu Ginting,081361362575,"Komp. Citra Garden Blok C8, Jl. Dr. Mansyur",Medan Marelan,Medan,20255,CAR0445,BK 1202 GC,Innova Reborn,2.0 G Bensin,2025,Bensin,RWD,AT,Semi-Sintetik,7000,Light Commuter,1007.2
+CUST0446,Edy Wibowo,085144011580,"Komp. Citra Garden Blok B5, Jl. Ringroad",Medan Labuhan,Medan,20252,CAR0446,BK 3849 CP,Avanza,1.5 G,2021,Bensin,FWD,MT,Semi-Sintetik,7000,Light Commuter,1675.5
+CUST0447,Erlina Santoso,082226586191,Jl. Bromo No. 95,Medan Petisah,Medan,20111,CAR0447,BK 8842 WF,Raize,1.0 Turbo,2025,Bensin,FWD,CVT,Full-Sintetik,9500,Light Commuter,361.1
+CUST0448,Frans Wibowo,085128959777,"Komp. Tasbih Blok E20, Jl. Cemara",Medan Deli,Medan,20241,CAR0448,BK 8670 FA,Innova Zenix,2.0 HV,2021,Hybrid,FWD,CVT,Full-Sintetik,10000,Weekend Warrior,987.7
+CUST0449,Fitri Harahap,083868351230,Jl. Jamin Ginting No. 154,Medan Perjuangan,Medan,20233,CAR0449,BK 2014 GB,Vios,1.5 G,2017,Bensin,FWD,CVT,Full-Sintetik,9500,Heavy Daily,3591.7
+CUST0450,Dimas Nugroho,082155383428,"Perumahan J City Blok D5, Jl. Jamin Ginting",Medan Petisah,Medan,20111,CAR0450,BK 7632 LC,Vios,1.5 G,2018,Bensin,FWD,CVT,Full-Sintetik,9500,Heavy Daily,2767.2
+CUST0451,Hadi Halim,081250139224,"Komp. Royal Sumatra Blok B22, Jl. Kapten Muslim",Medan Baru,Medan,20153,CAR0451,BK 7435 TG,Avanza,1.5 G,2023,Bensin,FWD,MT,Semi-Sintetik,7000,Heavy Daily,2052.3
+CUST0452,Yuni Nasution,085158527511,"Komp. Cemara Asri Blok G20, Jl. Glugur",Medan Timur,Medan,20231,CAR0452,BK 8046 WV,Avanza,1.5 G,2022,Bensin,FWD,AT,Semi-Sintetik,7000,Heavy Daily,3458.9
+CUST0453,Tiur Pratama,082129973023,"Komp. Tasbih Blok C23, Jl. Ringroad",Medan Marelan,Medan,20255,CAR0453,BK 1408 XV,Agya,1.2 G,2020,Bensin,FWD,MT,Mineral,4500,Light Commuter,1037.6
+CUST0454,Togar Ginting,085277095920,Jl. Bromo No. 98,Medan Perjuangan,Medan,20233,CAR0454,BK 9920 WV,Avanza,1.5 Veloz,2016,Bensin,FWD,MT,Full-Sintetik,9500,Heavy Daily,1876.9
+CUST0455,Dedi Daulay,085296802162,"Komp. Royal Sumatra Blok B3, Jl. Bromo",Medan Timur,Medan,20231,CAR0455,BK 1184 GZ,Avanza,1.5 G,2023,Bensin,FWD,MT,Semi-Sintetik,7000,Heavy Daily,2627.0
+CUST0456,Taufik Dalimunthe,089629922758,"Komp. Cemara Asri Blok F9, Jl. Denai",Medan Sunggal,Medan,20128,CAR0456,BK 8630 CA,Fortuner,2.4 VRZ 4x2,2019,Diesel,RWD,AT,Full-Sintetik,6000,Light Commuter,837.9
+CUST0457,Maruli Setiawan,085226801212,Jl. Pancing No. 76,Medan Helvetia,Medan,20124,CAR0457,BK 9232 BH,Veloz,1.5 Q CVT,2022,Bensin,FWD,CVT,Full-Sintetik,9500,Heavy Daily,3453.3
+CUST0458,Sari Santoso,085252766691,"Komp. Tasbih Blok E24, Jl. AH Nasution",Medan Barat,Medan,20231,CAR0458,BK 9484 FB,Innova Reborn,2.4 V Diesel,2024,Diesel,RWD,AT,Full-Sintetik,6000,Light Commuter,653.7
+CUST0459,Frans Pohan,085139808116,"Komp. Royal Sumatra Blok E6, Jl. Sisingamangaraja",Medan Barat,Medan,20231,CAR0459,BK 2614 EU,Innova Reborn,2.0 G Bensin,2023,Bensin,RWD,AT,Semi-Sintetik,7000,Light Commuter,995.8
+CUST0460,Nurul Hutabarat,089621204840,"Perumahan J City Blok A21, Jl. Bromo",Medan Kota,Medan,20212,CAR0460,BK 2895 HG,Innova Reborn,2.4 V Diesel,2023,Diesel,RWD,AT,Full-Sintetik,6000,Heavy Daily,3184.3
+CUST0461,Ayu Nugroho,081115111641,Jl. Sisingamangaraja No. 94,Medan Kota,Medan,20212,CAR0461,BK 2293 ZE,Avanza,1.3 E,2017,Bensin,RWD,MT,Semi-Sintetik,7000,Light Commuter,835.3
+CUST0462,Wati Nasution,081234408442,"Komp. Royal Sumatra Blok F2, Jl. Kapten Muslim",Medan Selayang,Medan,20131,CAR0462,BK 9930 HT,Avanza,1.3 E,2019,Bensin,RWD,MT,Semi-Sintetik,7000,Light Commuter,664.5
+CUST0463,Dimas Wijaya,082210072485,Jl. Pancing No. 89,Medan Marelan,Medan,20255,CAR0463,BK 1310 MY,Avanza,1.5 G,2025,Bensin,FWD,AT,Semi-Sintetik,7000,Light Commuter,935.8
+CUST0464,Hendra Nasution,081286701512,Jl. Bromo No. 116,Medan Timur,Medan,20231,CAR0464,BK 3329 BW,Hilux,2.4 D-Cab 4x4,2023,Diesel,4x4,AT,Full-Sintetik,6000,Heavy Daily,2163.1
+CUST0465,Hendra Daulay,089622821492,Jl. Iskandar Muda No. 150,Medan Baru,Medan,20153,CAR0465,BK 8770 JF,Innova Reborn,2.4 V Diesel,2018,Diesel,RWD,AT,Full-Sintetik,6000,Light Commuter,523.7
+CUST0466,Rendi Tarigan,081282196436,"Perumahan J City Blok E6, Jl. Menteng",Medan Selayang,Medan,20131,CAR0466,BK 7297 DP,Avanza,1.5 G,2020,Bensin,FWD,AT,Semi-Sintetik,7000,Light Commuter,1378.6
+CUST0467,Dimas Hasibuan,082213612151,Jl. Halat No. 91,Medan Helvetia,Medan,20124,CAR0467,BK 9497 PL,Avanza,1.5 Veloz,2024,Bensin,FWD,AT,Full-Sintetik,9500,Light Commuter,1170.9
+CUST0468,Siti Panjaitan,082183355423,Jl. Brigjen Katamso No. 7,Medan Baru,Medan,20153,CAR0468,BK 9084 GT,Raize,1.0 Turbo,2023,Bensin,FWD,CVT,Full-Sintetik,9500,Heavy Daily,2439.0
+CUST0469,Rina Rangkuti,081322896179,"Perumahan J City Blok E1, Jl. Pancing",Medan Petisah,Medan,20111,CAR0469,BK 2784 LY,Calya,1.2 G,2018,Bensin,FWD,AT,Mineral,4500,Light Commuter,649.4
+CUST0470,Ayu Nugroho,085233115994,Jl. Iskandar Muda No. 141,Medan Maimun,Medan,20151,CAR0470,BK 6493 UF,Innova Zenix,2.0 HV,2023,Hybrid,FWD,CVT,Full-Sintetik,10000,Heavy Daily,3834.4
+CUST0471,Iwan Hasibuan,082293038314,Jl. Halat No. 162,Medan Johor,Medan,20144,CAR0471,BK 8773 HM,Avanza,1.3 E,2017,Bensin,RWD,AT,Semi-Sintetik,7000,Weekend Warrior,1480.4
+CUST0472,Frans Sitorus,081229031985,Jl. Iskandar Muda No. 157,Medan Tembung,Medan,20222,CAR0472,BK 9994 UJ,Rush,1.5 S TRD,2025,Bensin,RWD,AT,Semi-Sintetik,7000,Weekend Warrior,1996.9
+CUST0473,Santi Susanto,082323178670,Jl. Ringroad No. 89,Medan Sunggal,Medan,20128,CAR0473,BK 8614 CZ,Avanza,1.3 E,2021,Bensin,RWD,MT,Semi-Sintetik,7000,Light Commuter,951.4
+CUST0474,Budi Marpaung,082258528306,"Komp. Cemara Asri Blok E6, Jl. Sutomo",Medan Polonia,Medan,20157,CAR0474,BK 2989 NC,Avanza,1.3 E,2018,Bensin,RWD,MT,Semi-Sintetik,7000,Weekend Warrior,1567.1
+CUST0475,Santi Wirawan,085327533656,Jl. Pemuda No. 121,Medan Maimun,Medan,20151,CAR0475,BK 2636 ZT,Avanza,1.5 G,2017,Bensin,FWD,MT,Semi-Sintetik,7000,Heavy Daily,2427.9
+CUST0476,Bayu Sinaga,081356282478,"Komp. Cemara Asri Blok G8, Jl. Setia Budi",Medan Barat,Medan,20231,CAR0476,BK 8275 HG,Avanza,1.5 G,2017,Bensin,FWD,AT,Semi-Sintetik,7000,Light Commuter,894.6
+CUST0477,Eko Batubara,089660667418,Jl. Sutomo No. 75,Medan Polonia,Medan,20157,CAR0477,BK 5694 PJ,Avanza,1.3 E,2025,Bensin,RWD,AT,Semi-Sintetik,7000,Weekend Warrior,1888.0
+CUST0478,Hendra Pratama,085165118913,"Komp. Citra Garden Blok G15, Jl. Cemara",Medan Amplas,Medan,20148,CAR0478,BK 6214 FV,Avanza,1.3 E,2018,Bensin,RWD,AT,Semi-Sintetik,7000,Weekend Warrior,1558.5
+CUST0479,Rendi Nasution,082282351790,"Komp. Tasbih Blok B17, Jl. HM Yamin",Medan Maimun,Medan,20151,CAR0479,BK 4473 RA,Yaris,1.5 S,2016,Bensin,FWD,CVT,Full-Sintetik,9500,Heavy Daily,2097.8
+CUST0480,Siti Pohan,081211295293,Jl. Krakatau No. 16,Medan Petisah,Medan,20111,CAR0480,BK 1136 BG,Avanza,1.5 Veloz,2016,Bensin,FWD,MT,Full-Sintetik,9500,Heavy Daily,2570.7
+CUST0481,Wati Dalimunthe,082222619443,Jl. Krakatau No. 149,Medan Maimun,Medan,20151,CAR0481,BK 7024 MN,Calya,1.2 G,2016,Bensin,FWD,AT,Mineral,4500,Weekend Warrior,1472.7
+CUST0482,Indah Susanto,083826165350,"Komp. Royal Sumatra Blok C28, Jl. William Iskandar",Medan Polonia,Medan,20157,CAR0482,BK 3253 KK,Calya,1.2 G,2021,Bensin,FWD,AT,Mineral,4500,Weekend Warrior,1482.7
+CUST0483,Andi Pratama,081318472440,"Komp. Tasbih Blok A19, Jl. Sekip",Medan Polonia,Medan,20157,CAR0483,BK 7470 TV,Fortuner,2.4 VRZ 4x2,2019,Diesel,RWD,AT,Full-Sintetik,6000,Light Commuter,1457.4
+CUST0484,Wahyu Ginting,082265807483,Jl. Karya Wisata No. 136,Medan Denai,Medan,20227,CAR0484,BK 3206 HR,Innova Zenix,2.0 HV,2024,Hybrid,FWD,CVT,Full-Sintetik,10000,Light Commuter,1143.4
+CUST0485,Ratna Panjaitan,089654728755,"Komp. Royal Sumatra Blok A28, Jl. Setia Budi",Medan Denai,Medan,20227,CAR0485,BK 9024 RA,Avanza,1.5 G,2021,Bensin,FWD,AT,Semi-Sintetik,7000,Light Commuter,728.3
+CUST0486,Wati Harahap,082340201426,Jl. Sisingamangaraja No. 52,Medan Kota,Medan,20212,CAR0486,BK 8419 NF,Fortuner,2.4 VRZ 4x2,2016,Diesel,RWD,AT,Full-Sintetik,6000,Heavy Daily,2170.2
+CUST0487,Hendra Saputra,085194315776,Jl. Sutomo No. 154,Medan Area,Medan,20214,CAR0487,BK 5278 PL,Fortuner,2.4 VRZ 4x2,2020,Diesel,RWD,AT,Full-Sintetik,6000,Heavy Daily,3065.0
+CUST0488,Sari Rangkuti,081318721769,Jl. Krakatau No. 82,Medan Kota,Medan,20212,CAR0488,BK 3514 TH,Innova Zenix,2.0 HV,2016,Hybrid,FWD,CVT,Full-Sintetik,10000,Heavy Daily,1292.5
+CUST0489,Rina Silalahi,081164382802,Jl. Denai No. 102,Medan Baru,Medan,20153,CAR0489,BK 5321 ZB,Agya,1.2 G,2018,Bensin,FWD,AT,Mineral,4500,Light Commuter,607.1
+CUST0490,Edy Nasution,089653463474,Jl. Gatot Subroto No. 20,Medan Petisah,Medan,20111,CAR0490,BK 6453 KD,Avanza,1.5 G,2017,Bensin,FWD,AT,Semi-Sintetik,7000,Heavy Daily,3107.6
+CUST0491,Reza Tarigan,081189478260,"Perumahan J City Blok B10, Jl. Bromo",Medan Selayang,Medan,20131,CAR0491,BK 4447 WR,Avanza,1.5 Veloz,2016,Bensin,FWD,AT,Full-Sintetik,9500,Heavy Daily,2125.8
+CUST0492,Boy Manurung,085350607046,Jl. HM Yamin No. 35,Medan Amplas,Medan,20148,CAR0492,BK 1192 JK,Rush,1.5 S TRD,2023,Bensin,RWD,AT,Semi-Sintetik,7000,Light Commuter,916.1
+CUST0493,Robby Santoso,085320449050,"Komp. Cemara Asri Blok B15, Jl. Gatot Subroto",Medan Barat,Medan,20231,CAR0493,BK 3253 GD,Veloz,1.5 Q CVT,2020,Bensin,FWD,CVT,Full-Sintetik,9500,Light Commuter,464.9
+CUST0494,Reza Susanto,082325677001,Jl. Krakatau No. 45,Medan Timur,Medan,20231,CAR0494,BK 2898 VL,Raize,1.0 Turbo,2023,Bensin,FWD,CVT,Full-Sintetik,9500,Weekend Warrior,1095.6
+CUST0495,Hendra Pratama,082339726276,Jl. Krakatau No. 162,Medan Tembung,Medan,20222,CAR0495,BK 3986 GP,Agya,1.2 G,2016,Bensin,FWD,MT,Mineral,4500,Heavy Daily,2011.1
+CUST0496,Rina Tarigan,081288118695,"Komp. Cemara Asri Blok D22, Jl. AH Nasution",Medan Area,Medan,20214,CAR0496,BK 4301 RC,Avanza,1.3 E,2019,Bensin,RWD,MT,Semi-Sintetik,7000,Light Commuter,412.7
+CUST0497,Nurul Ginting,082295871298,"Perumahan J City Blok D27, Jl. AH Nasution",Medan Helvetia,Medan,20124,CAR0497,BK 7995 PX,Avanza,1.3 E,2021,Bensin,RWD,MT,Semi-Sintetik,7000,Light Commuter,1111.1
+CUST0498,Ayu Pulungan,081194489499,Jl. Dr. Mansyur No. 36,Medan Barat,Medan,20231,CAR0498,BK 4722 XF,Innova Reborn,2.0 G Bensin,2018,Bensin,RWD,AT,Semi-Sintetik,7000,Weekend Warrior,1814.5
+CUST0499,Lestari Pulungan,082312553224,Jl. Glugur No. 231,Medan Perjuangan,Medan,20233,CAR0499,BK 3854 VR,Fortuner,2.8 GR 4x4,2022,Diesel,4x4,AT,Full-Sintetik,6000,Heavy Daily,2095.2
+CUST0500,Dewi Ginting,082386621619,Jl. Sekip No. 110,Medan Johor,Medan,20144,CAR0500,BK 4136 CP,Innova Zenix,2.0 HV,2016,Hybrid,FWD,CVT,Full-Sintetik,10000,Light Commuter,1080.0
+CUST0501,Andi Daulay,085183114710,Jl. Pemuda No. 63,Medan Perjuangan,Medan,20233,CAR0501,BK 4554 BN,Raize,1.0 Turbo,2024,Bensin,FWD,CVT,Full-Sintetik,9500,Light Commuter,300.0
+CUST0502,Nurul Pulungan,081358595600,Jl. Sisingamangaraja No. 118,Medan Barat,Medan,20231,CAR0502,BK 6552 GB,Veloz,1.5 Q CVT,2021,Bensin,FWD,CVT,Full-Sintetik,9500,Light Commuter,920.4
+CUST0503,Dewi Silalahi,082315151582,Jl. Pancing No. 215,Medan Denai,Medan,20227,CAR0503,BK 7823 FW,Rush,1.5 S TRD,2023,Bensin,RWD,AT,Semi-Sintetik,7000,Heavy Daily,3551.3
+CUST0504,Reza Pratama,081341755757,Jl. Iskandar Muda No. 218,Medan Perjuangan,Medan,20233,CAR0504,BK 5570 UZ,Agya,1.2 G,2017,Bensin,FWD,AT,Mineral,4500,Heavy Daily,2307.4
+CUST0505,Wahyu Daulay,082360622615,Jl. Bromo No. 246,Medan Area,Medan,20214,CAR0505,BK 3659 MW,Veloz,1.5 Q CVT,2017,Bensin,FWD,CVT,Full-Sintetik,9500,Heavy Daily,2591.3
+CUST0506,Agus Pulungan,082249893900,"Komp. Royal Sumatra Blok E10, Jl. Gatot Subroto",Medan Barat,Medan,20231,CAR0506,BK 7127 KW,Raize,1.0 Turbo,2019,Bensin,FWD,CVT,Full-Sintetik,9500,Weekend Warrior,1403.7
+CUST0507,Robby Sinaga,081389092337,"Komp. Citra Garden Blok E22, Jl. Gatot Subroto",Medan Barat,Medan,20231,CAR0507,BK 5515 KE,Avanza,1.5 Veloz,2023,Bensin,FWD,AT,Full-Sintetik,9500,Light Commuter,924.0
+CUST0508,Iwan Tanaka,082383136032,Jl. Gatot Subroto No. 8,Medan Kota,Medan,20212,CAR0508,BK 9839 YH,Avanza,1.3 E,2019,Bensin,RWD,AT,Semi-Sintetik,7000,Weekend Warrior,1669.2
+CUST0509,Eko Hasibuan,082294372790,Jl. Gatot Subroto No. 6,Medan Baru,Medan,20153,CAR0509,BK 8750 TR,Agya,1.2 G,2020,Bensin,FWD,AT,Mineral,4500,Light Commuter,1391.7
+CUST0510,Tiur Sinaga,081244773593,Jl. Halat No. 23,Medan Tuntungan,Medan,20135,CAR0510,BK 3430 KY,Calya,1.2 G,2023,Bensin,FWD,AT,Mineral,4500,Light Commuter,1102.9
+CUST0511,Dimas Pratama,085196998341,"Komp. Royal Sumatra Blok F17, Jl. SM Raja",Medan Denai,Medan,20227,CAR0511,BK 7536 TM,Corolla Cross,1.8 HV,2017,Hybrid,FWD,CVT,Full-Sintetik,10000,Weekend Warrior,841.5
+CUST0512,Wahyu Nugroho,083848619180,"Komp. Tasbih Blok D9, Jl. Denai",Medan Area,Medan,20214,CAR0512,BK 2994 BK,Calya,1.2 G,2025,Bensin,FWD,AT,Mineral,4500,Light Commuter,1037.0
+CUST0513,Erlina Susanto,081172992791,Jl. Gajah Mada No. 169,Medan Timur,Medan,20231,CAR0513,BK 7382 LK,Camry,2.5 HV,2021,Hybrid,FWD,CVT,Full-Sintetik,10000,Light Commuter,832.9
+CUST0514,Togar Tanjung,081199321022,Jl. Sekip No. 132,Medan Sunggal,Medan,20128,CAR0514,BK 2983 CH,Avanza,1.5 G,2021,Bensin,FWD,MT,Semi-Sintetik,7000,Light Commuter,1009.7
+CUST0515,Lestari Hutabarat,085178234059,"Komp. Citra Garden Blok G13, Jl. Dr. Mansyur",Medan Labuhan,Medan,20252,CAR0515,BK 4190 GM,Avanza,1.5 Veloz,2018,Bensin,FWD,MT,Full-Sintetik,9500,Heavy Daily,2420.6
+CUST0516,Ayu Pulungan,082312676103,Jl. SM Raja No. 107,Medan Marelan,Medan,20255,CAR0516,BK 3874 LC,Agya,1.2 G,2019,Bensin,FWD,AT,Mineral,4500,Heavy Daily,2090.1
+CUST0517,Hadi Saputra,081173642117,Jl. Ringroad No. 242,Medan Area,Medan,20214,CAR0517,BK 7100 ZC,Avanza,1.3 E,2019,Bensin,RWD,AT,Semi-Sintetik,7000,Light Commuter,1197.6
+CUST0518,Erlina Nugroho,081316325889,Jl. Sutomo No. 132,Medan Johor,Medan,20144,CAR0518,BK 9434 TZ,Veloz,1.5 Q CVT,2023,Bensin,FWD,CVT,Full-Sintetik,9500,Weekend Warrior,1325.0
+CUST0519,Indah Tanaka,081144288193,Jl. Menteng No. 108,Medan Helvetia,Medan,20124,CAR0519,BK 5272 HZ,Calya,1.2 G,2018,Bensin,FWD,AT,Mineral,4500,Heavy Daily,1861.9
+CUST0520,Rina Pulungan,085353621438,Jl. Gatot Subroto No. 7,Medan Denai,Medan,20227,CAR0520,BK 1124 WP,Avanza,1.3 E,2016,Bensin,RWD,AT,Semi-Sintetik,7000,Weekend Warrior,809.2
+CUST0521,Sari Silalahi,081130547411,Jl. HM Yamin No. 39,Medan Petisah,Medan,20111,CAR0521,BK 3854 BL,Raize,1.0 Turbo,2024,Bensin,FWD,CVT,Full-Sintetik,9500,Heavy Daily,3105.7
+CUST0522,Hadi Wirawan,085358638972,"Komp. Royal Sumatra Blok C19, Jl. Gajah Mada",Medan Denai,Medan,20227,CAR0522,BK 4332 LU,Innova Zenix,2.0 HV,2022,Hybrid,FWD,CVT,Full-Sintetik,10000,Weekend Warrior,2089.3
+CUST0523,Maya Lubis,082186665135,Jl. Kapten Muslim No. 138,Medan Barat,Medan,20231,CAR0523,BK 8970 YJ,Innova Reborn,2.4 V Diesel,2024,Diesel,RWD,AT,Full-Sintetik,6000,Heavy Daily,2897.9
+CUST0524,Reza Nasution,085194525484,Jl. Bromo No. 128,Medan Sunggal,Medan,20128,CAR0524,BK 6278 KL,Agya,1.2 G,2017,Bensin,FWD,AT,Mineral,4500,Heavy Daily,2221.0
+CUST0525,Indah Sembiring,081291398993,"Komp. Tasbih Blok C24, Jl. Pancing",Medan Tuntungan,Medan,20135,CAR0525,BK 3780 BZ,Avanza,1.5 G,2021,Bensin,FWD,MT,Semi-Sintetik,7000,Weekend Warrior,2194.0
+CUST0526,Juliana Sitorus,082226187856,Jl. AH Nasution No. 59,Medan Timur,Medan,20231,CAR0526,BK 1413 TA,Agya,1.2 G,2022,Bensin,FWD,AT,Mineral,4500,Heavy Daily,2320.5
+CUST0527,Joko Situmorang,081383804799,"Perumahan J City Blok B3, Jl. Halat",Medan Kota,Medan,20212,CAR0527,BK 5446 MN,Avanza,1.5 Veloz,2025,Bensin,FWD,AT,Full-Sintetik,9500,Heavy Daily,3942.6
+CUST0528,Yuni Wirawan,085263057501,"Komp. Citra Garden Blok F29, Jl. Bromo",Medan Tembung,Medan,20222,CAR0528,BK 7427 ZT,Innova Reborn,2.4 V Diesel,2025,Diesel,RWD,AT,Full-Sintetik,6000,Heavy Daily,2643.1
+CUST0529,Ratna Tanjung,085282341545,"Komp. Citra Garden Blok D3, Jl. Gajah Mada",Medan Barat,Medan,20231,CAR0529,BK 6686 KT,Yaris Cross,1.5 HV,2024,Hybrid,FWD,CVT,Full-Sintetik,10000,Light Commuter,1284.0
+CUST0530,Andi Rahman,083876828944,"Komp. Citra Garden Blok D20, Jl. Denai",Medan Barat,Medan,20231,CAR0530,BK 3621 JH,Agya,1.2 G,2018,Bensin,FWD,AT,Mineral,4500,Light Commuter,1086.1
+CUST0531,Hermanto Simanjuntak,085294197950,"Komp. Cemara Asri Blok B8, Jl. SM Raja",Medan Sunggal,Medan,20128,CAR0531,BK 5840 WD,Avanza,1.3 E,2017,Bensin,RWD,MT,Semi-Sintetik,7000,Heavy Daily,3852.5
+CUST0532,Maya Situmorang,082256576534,"Komp. Cemara Asri Blok E17, Jl. Glugur",Medan Helvetia,Medan,20124,CAR0532,BK 3238 WY,Innova Reborn,2.4 V Diesel,2023,Diesel,RWD,AT,Full-Sintetik,6000,Light Commuter,1162.6
+CUST0533,Edy Pohan,082296775559,Jl. Ringroad No. 70,Medan Selayang,Medan,20131,CAR0533,BK 8073 AT,Innova Zenix,2.0 HV,2023,Hybrid,FWD,CVT,Full-Sintetik,10000,Light Commuter,710.3
+CUST0305,Santi Sitorus,083855407533,Jl. AH Nasution No. 112,Medan Polonia,Medan,20157,CAR0534,BK 9852 RE,Innova Reborn,2.4 V Diesel,2018,Diesel,RWD,AT,Full-Sintetik,6000,Light Commuter,961.9
+CUST0319,Hermanto Situmorang,083848251434,Jl. Brigjen Katamso No. 68,Medan Perjuangan,Medan,20233,CAR0535,BK 7867 XF,Avanza,1.3 E,2016,Bensin,RWD,MT,Semi-Sintetik,7000,Light Commuter,648.6
+CUST0277,Rizky Purba,081355496180,Jl. Adam Malik No. 102,Medan Helvetia,Medan,20124,CAR0536,BK 8773 MU,Innova Reborn,2.4 V Diesel,2024,Diesel,RWD,AT,Full-Sintetik,6000,Light Commuter,300.0
+CUST0275,Putri Rangkuti,085293953901,"Perumahan J City Blok E25, Jl. Pemuda",Medan Petisah,Medan,20111,CAR0537,BK 7739 LW,Raize,1.0 Turbo,2021,Bensin,FWD,CVT,Full-Sintetik,9500,Weekend Warrior,1659.9
+CUST0433,Surya Pulungan,083830022177,Jl. Menteng No. 42,Medan Helvetia,Medan,20124,CAR0538,BK 9787 PA,Raize,1.0 Turbo,2025,Bensin,FWD,CVT,Full-Sintetik,9500,Light Commuter,1343.5
+CUST0439,Maya Susanto,083835037693,"Komp. Cemara Asri Blok B2, Jl. Pasar Merah",Medan Selayang,Medan,20131,CAR0539,BK 5710 AA,Veloz,1.5 Q CVT,2025,Bensin,FWD,CVT,Full-Sintetik,9500,Light Commuter,300.0
+CUST0295,Putri Tarigan,082285831317,"Komp. Royal Sumatra Blok B19, Jl. HM Yamin",Medan Maimun,Medan,20151,CAR0540,BK 2913 NG,Avanza,1.5 Veloz,2021,Bensin,FWD,MT,Full-Sintetik,9500,Heavy Daily,2689.5
+CUST0320,Robby Hutabarat,085314674759,"Komp. Royal Sumatra Blok D2, Jl. Ringroad",Medan Maimun,Medan,20151,CAR0541,BK 3060 GE,Fortuner,2.8 GR 4x4,2022,Diesel,4x4,AT,Full-Sintetik,6000,Light Commuter,1459.9
+CUST0267,Indra Pasaribu,083876857937,"Perumahan J City Blok D16, Jl. Sekip",Medan Kota,Medan,20212,CAR0542,BK 8982 FY,Avanza,1.3 E,2022,Bensin,RWD,MT,Semi-Sintetik,7000,Heavy Daily,2988.7
+CUST0216,Maya Hutapea,082324584912,Jl. Gajah Mada No. 192,Medan Selayang,Medan,20131,CAR0543,BK 9660 DJ,Avanza,1.5 G,2016,Bensin,FWD,AT,Semi-Sintetik,7000,Weekend Warrior,1963.5
+CUST0259,Hendra Lubis,082197502526,Jl. Marelan Raya No. 230,Medan Marelan,Medan,20255,CAR0544,BK 5793 JZ,Corolla Cross,1.8 HV,2018,Hybrid,FWD,CVT,Full-Sintetik,10000,Light Commuter,900.3
+CUST0229,Frans Sitorus,085378671531,Jl. Pemuda No. 124,Medan Sunggal,Medan,20128,CAR0545,BK 6255 HK,Fortuner,2.4 VRZ 4x2,2025,Diesel,RWD,AT,Full-Sintetik,6000,Light Commuter,843.8
+CUST0038,Robby Tanjung,082199507713,Jl. HM Yamin No. 239,Medan Polonia,Medan,20157,CAR0546,BK 8291 XT,Avanza,1.3 E,2018,Bensin,RWD,MT,Semi-Sintetik,7000,Light Commuter,806.4
+CUST0009,Sari Nugroho,081151295549,Jl. Sisingamangaraja No. 35,Medan Petisah,Medan,20111,CAR0547,BK 6507 GK,Vios,1.5 G,2023,Bensin,FWD,CVT,Full-Sintetik,9500,Light Commuter,599.1
+CUST0283,Gunawan Saputra,083854466035,"Komp. Citra Garden Blok F11, Jl. Bromo",Medan Selayang,Medan,20131,CAR0548,BK 3559 YU,Avanza,1.5 G,2019,Bensin,FWD,MT,Semi-Sintetik,7000,Weekend Warrior,1165.5
+CUST0432,Gunawan Salim,082380835245,Jl. Krakatau No. 178,Medan Baru,Medan,20153,CAR0549,BK 2515 UE,Avanza,1.5 G,2023,Bensin,FWD,AT,Semi-Sintetik,7000,Heavy Daily,2344.3
+CUST0145,Nurul Wirawan,085252188552,"Komp. Tasbih Blok E10, Jl. Sekip",Medan Amplas,Medan,20148,CAR0550,BK 8531 MU,Rush,1.5 S TRD,2021,Bensin,RWD,AT,Semi-Sintetik,7000,Heavy Daily,2449.7
+CUST0330,Robby Dalimunthe,085288235834,"Komp. Royal Sumatra Blok A14, Jl. Pancing",Medan Tembung,Medan,20222,CAR0551,BK 1092 WH,Avanza,1.5 Veloz,2020,Bensin,FWD,AT,Full-Sintetik,9500,Light Commuter,892.5
+CUST0454,Togar Ginting,085277095920,Jl. Bromo No. 98,Medan Perjuangan,Medan,20233,CAR0552,BK 6772 ZP,Avanza,1.5 Veloz,2016,Bensin,FWD,AT,Full-Sintetik,9500,Light Commuter,1103.3
+CUST0497,Nurul Ginting,082295871298,"Perumahan J City Blok D27, Jl. AH Nasution",Medan Helvetia,Medan,20124,CAR0553,BK 5781 UV,Agya,1.2 G,2025,Bensin,FWD,MT,Mineral,4500,Heavy Daily,2584.5
+CUST0236,Erlina Pulungan,085147813117,Jl. Pancing No. 86,Medan Labuhan,Medan,20252,CAR0554,BK 4592 RA,Avanza,1.5 G,2022,Bensin,FWD,AT,Semi-Sintetik,7000,Heavy Daily,3419.7
+CUST0117,Eko Pohan,083817028756,"Komp. Cemara Asri Blok C1, Jl. Halat",Medan Selayang,Medan,20131,CAR0555,BK 8212 LW,Camry,2.5 HV,2018,Hybrid,FWD,CVT,Full-Sintetik,10000,Light Commuter,1137.8
+CUST0454,Togar Ginting,085277095920,Jl. Bromo No. 98,Medan Perjuangan,Medan,20233,CAR0556,BK 4800 AH,Vios,1.5 G,2025,Bensin,FWD,CVT,Full-Sintetik,9500,Light Commuter,719.9
+CUST0261,Putri Purba,081279681335,Jl. Adam Malik No. 220,Medan Timur,Medan,20231,CAR0557,BK 6420 KH,Yaris,1.5 S,2018,Bensin,FWD,CVT,Full-Sintetik,9500,Light Commuter,975.1
+CUST0380,Hendra Maulana,081235828524,"Komp. Citra Garden Blok B11, Jl. Iskandar Muda",Medan Kota,Medan,20212,CAR0558,BK 4053 JU,Fortuner,2.4 VRZ 4x2,2017,Diesel,RWD,AT,Full-Sintetik,6000,Heavy Daily,3555.0
+CUST0112,Rendi Sitorus,089653431437,"Komp. Royal Sumatra Blok E6, Jl. Cemara",Medan Maimun,Medan,20151,CAR0559,BK 8549 PX,Innova Reborn,2.4 V Diesel,2021,Diesel,RWD,AT,Full-Sintetik,6000,Weekend Warrior,2287.7
+CUST0432,Gunawan Salim,082380835245,Jl. Krakatau No. 178,Medan Baru,Medan,20153,CAR0560,BK 2488 ZP,Yaris Cross,1.5 HV,2017,Hybrid,FWD,CVT,Full-Sintetik,10000,Light Commuter,628.0
+CUST0227,Reza Gunawan,085283843491,"Perumahan J City Blok B6, Jl. Krakatau",Medan Petisah,Medan,20111,CAR0561,BK 7460 SE,Hilux,2.4 D-Cab 4x4,2023,Diesel,4x4,MT,Full-Sintetik,6000,Light Commuter,984.2
+CUST0095,Mega Nugroho,081287887658,Jl. Adam Malik No. 200,Medan Tembung,Medan,20222,CAR0562,BK 6844 WJ,Agya,1.2 G,2021,Bensin,FWD,MT,Mineral,4500,Heavy Daily,2745.7
+CUST0471,Iwan Hasibuan,082293038314,Jl. Halat No. 162,Medan Johor,Medan,20144,CAR0563,BK 3329 WL,Hilux,2.4 D-Cab 4x4,2025,Diesel,4x4,MT,Full-Sintetik,6000,Light Commuter,1076.8
+CUST0122,Maya Wijaya,081214676360,"Komp. Tasbih Blok G25, Jl. Gajah Mada",Medan Barat,Medan,20231,CAR0564,BK 6768 HG,Veloz,1.5 Q CVT,2016,Bensin,FWD,CVT,Full-Sintetik,9500,Light Commuter,799.7
+CUST0087,Indra Simanjuntak,082112236471,Jl. Pasar Merah No. 112,Medan Area,Medan,20214,CAR0565,BK 4504 VH,Avanza,1.5 Veloz,2016,Bensin,FWD,MT,Full-Sintetik,9500,Heavy Daily,2756.7
+CUST0510,Tiur Sinaga,081244773593,Jl. Halat No. 23,Medan Tuntungan,Medan,20135,CAR0566,BK 4368 JH,Yaris,1.5 S,2016,Bensin,FWD,CVT,Full-Sintetik,9500,Heavy Daily,2725.1
+CUST0467,Dimas Hasibuan,082213612151,Jl. Halat No. 91,Medan Helvetia,Medan,20124,CAR0567,BK 1425 AX,Veloz,1.5 Q CVT,2022,Bensin,FWD,CVT,Full-Sintetik,9500,Heavy Daily,3708.2
+CUST0093,Agus Rahman,081281426847,"Komp. Cemara Asri Blok D24, Jl. Gajah Mada",Medan Barat,Medan,20231,CAR0568,BK 6412 NV,Innova Reborn,2.0 G Bensin,2025,Bensin,RWD,AT,Semi-Sintetik,7000,Heavy Daily,2208.0
+CUST0479,Rendi Nasution,082282351790,"Komp. Tasbih Blok B17, Jl. HM Yamin",Medan Maimun,Medan,20151,CAR0569,BK 2924 LE,Avanza,1.5 Veloz,2023,Bensin,FWD,MT,Full-Sintetik,9500,Light Commuter,793.7
+CUST0273,Gunawan Rahman,081378045428,Jl. Pemuda No. 249,Medan Marelan,Medan,20255,CAR0570,BK 3873 WE,Avanza,1.3 E,2022,Bensin,RWD,MT,Semi-Sintetik,7000,Light Commuter,1340.2
+CUST0052,Agus Susanto,081125092541,"Komp. Tasbih Blok E14, Jl. Karya Wisata",Medan Denai,Medan,20227,CAR0571,BK 6452 PU,Avanza,1.5 G,2018,Bensin,FWD,AT,Semi-Sintetik,7000,Light Commuter,1273.9
+CUST0439,Maya Susanto,083835037693,"Komp. Cemara Asri Blok B2, Jl. Pasar Merah",Medan Selayang,Medan,20131,CAR0572,BK 1931 GL,Innova Zenix,2.0 HV,2020,Hybrid,FWD,CVT,Full-Sintetik,10000,Heavy Daily,2963.2
+CUST0376,Fitri Pratama,082259387234,Jl. Gatot Subroto No. 60,Medan Barat,Medan,20231,CAR0573,BK 2772 WV,Corolla Cross,1.8 HV,2016,Hybrid,FWD,CVT,Full-Sintetik,10000,Weekend Warrior,1884.5
+CUST0273,Gunawan Rahman,081378045428,Jl. Pemuda No. 249,Medan Marelan,Medan,20255,CAR0574,BK 7022 NR,Fortuner,2.4 VRZ 4x2,2021,Diesel,RWD,AT,Full-Sintetik,6000,Heavy Daily,2152.6
+CUST0027,Surya Daulay,081377368609,Jl. Gajah Mada No. 223,Medan Polonia,Medan,20157,CAR0575,BK 8955 MW,Yaris,1.5 S,2023,Bensin,FWD,CVT,Full-Sintetik,9500,Light Commuter,1117.0
+CUST0404,Rosma Rangkuti,082252648044,"Komp. Tasbih Blok B23, Jl. Brigjen Katamso",Medan Denai,Medan,20227,CAR0576,BK 6659 JX,Avanza,1.3 E,2021,Bensin,RWD,MT,Semi-Sintetik,7000,Light Commuter,478.8
+CUST0316,Juliana Hutabarat,085178783775,"Komp. Cemara Asri Blok A27, Jl. Bromo",Medan Labuhan,Medan,20252,CAR0577,BK 7388 FU,Avanza,1.3 E,2025,Bensin,RWD,AT,Semi-Sintetik,7000,Light Commuter,857.3
+CUST0285,Lestari Setiawan,081219258781,"Komp. Royal Sumatra Blok E8, Jl. Kapten Muslim",Medan Maimun,Medan,20151,CAR0578,BK 1450 BT,Innova Reborn,2.4 V Diesel,2022,Diesel,RWD,AT,Full-Sintetik,6000,Heavy Daily,2617.5
+CUST0085,Mega Rangkuti,085255424877,Jl. Pancing No. 147,Medan Polonia,Medan,20157,CAR0579,BK 2050 HP,Fortuner,2.8 GR 4x4,2025,Diesel,4x4,AT,Full-Sintetik,6000,Heavy Daily,3294.2
+CUST0110,Wahyu Pasaribu,083824621011,"Komp. Tasbih Blok D1, Jl. SM Raja",Medan Timur,Medan,20231,CAR0580,BK 5830 RR,Innova Zenix,2.0 HV,2018,Hybrid,FWD,CVT,Full-Sintetik,10000,Light Commuter,810.0
+CUST0525,Indah Sembiring,081291398993,"Komp. Tasbih Blok C24, Jl. Pancing",Medan Tuntungan,Medan,20135,CAR0581,BK 5106 US,Fortuner,2.8 GR 4x4,2018,Diesel,4x4,AT,Full-Sintetik,6000,Heavy Daily,2666.1
+CUST0182,Wahyu Damanik,083826223883,"Komp. Citra Garden Blok A16, Jl. Pemuda",Medan Tembung,Medan,20222,CAR0582,BK 8303 VU,Rush,1.5 S TRD,2021,Bensin,RWD,AT,Semi-Sintetik,7000,Light Commuter,937.0
+CUST0068,Dewi Purba,085358868055,"Perumahan J City Blok E13, Jl. Kapten Muslim",Medan Polonia,Medan,20157,CAR0583,BK 3892 HP,Avanza,1.5 Veloz,2023,Bensin,FWD,AT,Full-Sintetik,9500,Light Commuter,1723.5
+CUST0092,Reza Sembiring,085196685406,Jl. Menteng No. 215,Medan Denai,Medan,20227,CAR0584,BK 1427 TA,Rush,1.5 S TRD,2018,Bensin,RWD,AT,Semi-Sintetik,7000,Light Commuter,847.3
+CUST0436,Agus Effendi,085169029727,Jl. Iskandar Muda No. 186,Medan Amplas,Medan,20148,CAR0585,BK 4858 DG,Avanza,1.5 Veloz,2023,Bensin,FWD,MT,Full-Sintetik,9500,Weekend Warrior,1744.5
+CUST0044,Erlina Silalahi,083831589815,"Komp. Citra Garden Blok F19, Jl. HM Yamin",Medan Sunggal,Medan,20128,CAR0586,BK 6067 JY,Veloz,1.5 Q CVT,2024,Bensin,FWD,CVT,Full-Sintetik,9500,Heavy Daily,2782.3
+CUST0481,Wati Dalimunthe,082222619443,Jl. Krakatau No. 149,Medan Maimun,Medan,20151,CAR0587,BK 5471 GR,Avanza,1.5 G,2017,Bensin,FWD,AT,Semi-Sintetik,7000,Weekend Warrior,1809.5
+CUST0468,Siti Panjaitan,082183355423,Jl. Brigjen Katamso No. 7,Medan Baru,Medan,20153,CAR0588,BK 5290 NG,Raize,1.0 Turbo,2023,Bensin,FWD,CVT,Full-Sintetik,9500,Light Commuter,879.8
+CUST0333,Joko Tanaka,082348619912,Jl. William Iskandar No. 246,Medan Marelan,Medan,20255,CAR0589,BK 2051 MX,Yaris Cross,1.5 HV,2017,Hybrid,FWD,CVT,Full-Sintetik,10000,Heavy Daily,3071.5
+CUST0205,Erlina Hutapea,082358131622,Jl. Glugur No. 142,Medan Selayang,Medan,20131,CAR0590,BK 7505 UT,Avanza,1.5 Veloz,2021,Bensin,FWD,MT,Full-Sintetik,9500,Heavy Daily,3061.8
+CUST0479,Rendi Nasution,082282351790,"Komp. Tasbih Blok B17, Jl. HM Yamin",Medan Maimun,Medan,20151,CAR0591,BK 4952 YX,Avanza,1.3 E,2024,Bensin,RWD,AT,Semi-Sintetik,7000,Light Commuter,1153.9
+CUST0494,Reza Susanto,082325677001,Jl. Krakatau No. 45,Medan Timur,Medan,20231,CAR0592,BK 5934 SD,Raize,1.0 Turbo,2018,Bensin,FWD,CVT,Full-Sintetik,9500,Weekend Warrior,1095.2
+CUST0228,Dimas Batubara,085125723824,"Komp. Tasbih Blok A1, Jl. Ringroad",Medan Area,Medan,20214,CAR0593,BK 4410 RY,Avanza,1.5 Veloz,2020,Bensin,FWD,AT,Full-Sintetik,9500,Light Commuter,696.3
+CUST0124,Togar Effendi,085293175630,Jl. Gatot Subroto No. 9,Medan Tuntungan,Medan,20135,CAR0594,BK 1310 MF,Agya,1.2 G,2023,Bensin,FWD,MT,Mineral,4500,Light Commuter,944.4
+CUST0072,Joko Pohan,085252955266,"Komp. Tasbih Blok E11, Jl. Gajah Mada",Medan Amplas,Medan,20148,CAR0595,BK 9606 XL,Innova Reborn,2.4 V Diesel,2018,Diesel,RWD,AT,Full-Sintetik,6000,Weekend Warrior,1149.9
+CUST0208,Erlina Halim,089666362142,Jl. HM Yamin No. 75,Medan Johor,Medan,20144,CAR0596,BK 2992 NV,Avanza,1.5 G,2023,Bensin,FWD,AT,Semi-Sintetik,7000,Light Commuter,584.3
+CUST0008,Ratna Damanik,081384932798,Jl. Gatot Subroto No. 199,Medan Tuntungan,Medan,20135,CAR0597,BK 3660 TT,Agya,1.2 G,2024,Bensin,FWD,AT,Mineral,4500,Light Commuter,730.6
+CUST0051,Rendi Suryadi,085280429968,Jl. Denai No. 236,Medan Baru,Medan,20153,CAR0598,BK 8897 TL,Innova Zenix,2.0 HV,2017,Hybrid,FWD,CVT,Full-Sintetik,10000,Light Commuter,827.6
+CUST0283,Gunawan Saputra,083854466035,"Komp. Citra Garden Blok F11, Jl. Bromo",Medan Selayang,Medan,20131,CAR0599,BK 7738 ME,Avanza,1.5 Veloz,2017,Bensin,FWD,MT,Full-Sintetik,9500,Heavy Daily,1912.5
+CUST0165,Taufik Wirawan,085220067397,Jl. Karya Wisata No. 44,Medan Maimun,Medan,20151,CAR0600,BK 6830 TT,Hilux,2.4 D-Cab 4x4,2021,Diesel,4x4,AT,Full-Sintetik,6000,Weekend Warrior,1459.5
+CUST0228,Dimas Batubara,085125723824,"Komp. Tasbih Blok A1, Jl. Ringroad",Medan Area,Medan,20214,CAR0601,BK 3013 KY,Avanza,1.3 E,2020,Bensin,RWD,MT,Semi-Sintetik,7000,Light Commuter,918.2
+CUST0456,Taufik Dalimunthe,089629922758,"Komp. Cemara Asri Blok F9, Jl. Denai",Medan Sunggal,Medan,20128,CAR0602,BK 6884 UR,Avanza,1.5 G,2023,Bensin,FWD,AT,Semi-Sintetik,7000,Light Commuter,1054.0
+CUST0341,Surya Tanjung,082225701910,Jl. HM Yamin No. 124,Medan Sunggal,Medan,20128,CAR0603,BK 7599 YG,Veloz,1.5 Q CVT,2019,Bensin,FWD,CVT,Full-Sintetik,9500,Heavy Daily,2089.9
+CUST0288,Togar Effendi,083830939735,"Komp. Tasbih Blok A2, Jl. William Iskandar",Medan Marelan,Medan,20255,CAR0604,BK 2558 PU,Avanza,1.3 E,2021,Bensin,RWD,MT,Semi-Sintetik,7000,Heavy Daily,2431.5
+CUST0021,Wahyu Rahman,085380431584,"Komp. Cemara Asri Blok E15, Jl. Ringroad",Medan Area,Medan,20214,CAR0605,BK 9405 UG,Avanza,1.3 E,2016,Bensin,RWD,MT,Semi-Sintetik,7000,Light Commuter,748.5
+CUST0319,Hermanto Situmorang,083848251434,Jl. Brigjen Katamso No. 68,Medan Perjuangan,Medan,20233,CAR0606,BK 5020 MA,Avanza,1.5 Veloz,2019,Bensin,FWD,MT,Full-Sintetik,9500,Heavy Daily,2862.2
+CUST0256,Putri Sitorus,085176128970,"Perumahan J City Blok D12, Jl. Gajah Mada",Medan Tuntungan,Medan,20135,CAR0607,BK 9246 AN,Fortuner,2.8 GR 4x4,2018,Diesel,4x4,AT,Full-Sintetik,6000,Heavy Daily,2798.3
+CUST0031,Gunawan Siregar,081330663513,"Komp. Tasbih Blok G4, Jl. Gatot Subroto",Medan Barat,Medan,20231,CAR0608,BK 2446 CA,Avanza,1.5 G,2023,Bensin,FWD,MT,Semi-Sintetik,7000,Light Commuter,446.3
+CUST0009,Sari Nugroho,081151295549,Jl. Sisingamangaraja No. 35,Medan Petisah,Medan,20111,CAR0609,BK 7502 MN,Innova Reborn,2.4 V Diesel,2024,Diesel,RWD,AT,Full-Sintetik,6000,Light Commuter,779.2
+CUST0353,Hermanto Maulana,085227055535,"Komp. Tasbih Blok E18, Jl. Adam Malik",Medan Petisah,Medan,20111,CAR0610,BK 4993 ZN,Innova Reborn,2.4 V Diesel,2019,Diesel,RWD,AT,Full-Sintetik,6000,Light Commuter,300.0
+CUST0360,Roni Marpaung,081115221441,"Komp. Royal Sumatra Blok E22, Jl. Adam Malik",Medan Amplas,Medan,20148,CAR0611,BK 6428 TN,Calya,1.2 G,2024,Bensin,FWD,MT,Mineral,4500,Heavy Daily,2428.3
+CUST0255,Tiur Siregar,083845674746,Jl. Glugur No. 13,Medan Tembung,Medan,20222,CAR0612,BK 5200 SX,Raize,1.0 Turbo,2023,Bensin,FWD,CVT,Full-Sintetik,9500,Weekend Warrior,1437.3
+CUST0194,Dimas Purba,085194253976,Jl. Glugur No. 247,Medan Tembung,Medan,20222,CAR0613,BK 3630 EC,Avanza,1.5 Veloz,2025,Bensin,FWD,MT,Full-Sintetik,9500,Heavy Daily,3100.2
+CUST0123,Hadi Wibowo,085170975793,Jl. Sutomo No. 142,Medan Barat,Medan,20231,CAR0614,BK 1998 UC,Veloz,1.5 Q CVT,2022,Bensin,FWD,CVT,Full-Sintetik,9500,Light Commuter,812.7
+CUST0138,Togar Susanto,089646752085,"Perumahan J City Blok A12, Jl. Glugur",Medan Barat,Medan,20231,CAR0615,BK 4026 VC,Yaris Cross,1.5 HV,2019,Hybrid,FWD,CVT,Full-Sintetik,10000,Heavy Daily,2820.4
+CUST0069,Iwan Maulana,085262015837,Jl. Ringroad No. 162,Medan Area,Medan,20214,CAR0616,BK 9784 LN,Veloz,1.5 Q CVT,2018,Bensin,FWD,CVT,Full-Sintetik,9500,Heavy Daily,2361.8
+CUST0145,Nurul Wirawan,085252188552,"Komp. Tasbih Blok E10, Jl. Sekip",Medan Amplas,Medan,20148,CAR0617,BK 8957 PS,Avanza,1.3 E,2016,Bensin,RWD,MT,Semi-Sintetik,7000,Light Commuter,1015.7
+CUST0339,Wati Nugroho,082152443160,"Komp. Royal Sumatra Blok A10, Jl. Glugur",Medan Tuntungan,Medan,20135,CAR0618,BK 5923 HR,Fortuner,2.8 GR 4x4,2022,Diesel,4x4,AT,Full-Sintetik,6000,Light Commuter,848.8
+CUST0456,Taufik Dalimunthe,089629922758,"Komp. Cemara Asri Blok F9, Jl. Denai",Medan Sunggal,Medan,20128,CAR0619,BK 1784 GZ,Avanza,1.5 Veloz,2016,Bensin,FWD,MT,Full-Sintetik,9500,Light Commuter,701.7
+CUST0472,Frans Sitorus,081229031985,Jl. Iskandar Muda No. 157,Medan Tembung,Medan,20222,CAR0620,BK 6850 DY,Fortuner,2.8 GR 4x4,2017,Diesel,4x4,AT,Full-Sintetik,6000,Weekend Warrior,1581.3

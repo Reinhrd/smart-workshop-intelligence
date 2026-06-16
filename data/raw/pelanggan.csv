@@ -1,0 +1,534 @@
+customer_id,nama_pemilik,no_telepon,alamat,kecamatan,kode_pos,kota
+CUST0001,Wahyu Nugroho,081272752813,"Komp. Cemara Asri Blok F23, Jl. William Iskandar",Medan Selayang,20131,Medan
+CUST0002,Pranata Sembiring,085226429339,Jl. Kapten Muslim No. 101,Medan Marelan,20255,Medan
+CUST0003,Rizky Tarigan,083815748723,Jl. Pancing No. 158,Medan Maimun,20151,Medan
+CUST0004,Tiur Ginting,083871008004,Jl. Brigjen Katamso No. 91,Medan Denai,20227,Medan
+CUST0005,Togar Manurung,089677024299,Jl. Adam Malik No. 82,Medan Deli,20241,Medan
+CUST0006,Taufik Ginting,081371775280,"Komp. Citra Garden Blok E28, Jl. Gajah Mada",Medan Area,20214,Medan
+CUST0007,Dewi Wirawan,081338107909,Jl. Dr. Mansyur No. 201,Medan Marelan,20255,Medan
+CUST0008,Ratna Damanik,081384932798,Jl. Gatot Subroto No. 199,Medan Tuntungan,20135,Medan
+CUST0009,Sari Nugroho,081151295549,Jl. Sisingamangaraja No. 35,Medan Petisah,20111,Medan
+CUST0010,Hendra Nugroho,081117127884,Jl. Kapten Muslim No. 141,Medan Amplas,20148,Medan
+CUST0011,Ferry Santoso,082249309843,"Perumahan J City Blok G25, Jl. Pancing",Medan Kota,20212,Medan
+CUST0012,Agus Batubara,082249086956,"Komp. Tasbih Blok F29, Jl. Karya Wisata",Medan Helvetia,20124,Medan
+CUST0013,Wati Hutapea,082212041955,"Komp. Cemara Asri Blok E14, Jl. Sutomo",Medan Selayang,20131,Medan
+CUST0014,Surya Sembiring,082354605014,"Komp. Tasbih Blok C20, Jl. Adam Malik",Medan Sunggal,20128,Medan
+CUST0015,Reza Lubis,082296564296,Jl. SM Raja No. 175,Medan Denai,20227,Medan
+CUST0016,Agus Maulana,085133497451,Jl. Cemara No. 184,Medan Barat,20231,Medan
+CUST0017,Rina Ginting,082328217493,"Komp. Citra Garden Blok D6, Jl. HM Yamin",Medan Denai,20227,Medan
+CUST0018,Juliana Setiawan,085237776645,"Komp. Tasbih Blok E19, Jl. Karya Wisata",Medan Baru,20153,Medan
+CUST0019,Dedi Sembiring,082139686944,"Komp. Tasbih Blok B18, Jl. Marelan Raya",Medan Tuntungan,20135,Medan
+CUST0020,Dedi Daulay,081150224121,Jl. Jamin Ginting No. 74,Medan Kota,20212,Medan
+CUST0021,Wahyu Rahman,085380431584,"Komp. Cemara Asri Blok E15, Jl. Ringroad",Medan Area,20214,Medan
+CUST0022,Gunawan Nugroho,082195833983,Jl. William Iskandar No. 212,Medan Area,20214,Medan
+CUST0023,Siti Batubara,085322623719,Jl. Krakatau No. 28,Medan Helvetia,20124,Medan
+CUST0024,Mega Hutabarat,082394477917,"Komp. Citra Garden Blok G29, Jl. Setia Budi",Medan Petisah,20111,Medan
+CUST0025,Iwan Situmorang,082284675139,Jl. Denai No. 79,Medan Petisah,20111,Medan
+CUST0026,Gunawan Batubara,082199219423,"Komp. Tasbih Blok A9, Jl. AH Nasution",Medan Area,20214,Medan
+CUST0027,Surya Daulay,081377368609,Jl. Gajah Mada No. 223,Medan Polonia,20157,Medan
+CUST0028,Nurul Sinaga,082346914362,Jl. Iskandar Muda No. 184,Medan Selayang,20131,Medan
+CUST0029,Erlina Sitorus,081221041608,Jl. Glugur No. 39,Medan Selayang,20131,Medan
+CUST0030,Maya Santoso,082135243792,Jl. Sutomo No. 80,Medan Labuhan,20252,Medan
+CUST0031,Gunawan Siregar,081330663513,"Komp. Tasbih Blok G4, Jl. Gatot Subroto",Medan Barat,20231,Medan
+CUST0032,Hadi Wibowo,082187778236,"Komp. Cemara Asri Blok F24, Jl. Pasar Merah",Medan Polonia,20157,Medan
+CUST0033,Dewi Situmorang,089637082189,"Komp. Royal Sumatra Blok C28, Jl. SM Raja",Medan Johor,20144,Medan
+CUST0034,Fahmi Rahman,081263715996,"Komp. Tasbih Blok A21, Jl. Kapten Muslim",Medan Polonia,20157,Medan
+CUST0035,Maya Saragih,081393967644,Jl. Dr. Mansyur No. 117,Medan Sunggal,20128,Medan
+CUST0036,Pranata Tanjung,083832548170,"Komp. Royal Sumatra Blok D23, Jl. Gajah Mada",Medan Sunggal,20128,Medan
+CUST0037,Ratna Suryadi,082247122069,"Komp. Citra Garden Blok A19, Jl. Bromo",Medan Labuhan,20252,Medan
+CUST0038,Robby Tanjung,082199507713,Jl. HM Yamin No. 239,Medan Polonia,20157,Medan
+CUST0039,Reza Lubis,082184213868,"Komp. Citra Garden Blok G27, Jl. Bromo",Medan Amplas,20148,Medan
+CUST0040,Surya Ginting,081358621190,Jl. Sisingamangaraja No. 49,Medan Maimun,20151,Medan
+CUST0041,Hadi Manurung,085145428453,"Komp. Citra Garden Blok F26, Jl. Menteng",Medan Tuntungan,20135,Medan
+CUST0042,Edy Batubara,082130523244,Jl. Karya Wisata No. 237,Medan Area,20214,Medan
+CUST0043,Frans Tarigan,083819141839,Jl. Setia Budi No. 13,Medan Area,20214,Medan
+CUST0044,Erlina Silalahi,083831589815,"Komp. Citra Garden Blok F19, Jl. HM Yamin",Medan Sunggal,20128,Medan
+CUST0045,Boy Susanto,082256279701,Jl. Sekip No. 116,Medan Tuntungan,20135,Medan
+CUST0046,Taufik Santoso,081349025300,"Komp. Tasbih Blok B10, Jl. Dr. Mansyur",Medan Tembung,20222,Medan
+CUST0047,Bayu Situmorang,082171713118,"Perumahan J City Blok E27, Jl. Sutomo",Medan Perjuangan,20233,Medan
+CUST0048,Dimas Dalimunthe,083854026872,"Perumahan J City Blok D23, Jl. HM Yamin",Medan Sunggal,20128,Medan
+CUST0049,Siti Simanjuntak,081172525529,Jl. Bromo No. 33,Medan Labuhan,20252,Medan
+CUST0050,Indah Purba,081257089422,Jl. Setia Budi No. 240,Medan Labuhan,20252,Medan
+CUST0051,Rendi Suryadi,085280429968,Jl. Denai No. 236,Medan Baru,20153,Medan
+CUST0052,Agus Susanto,081125092541,"Komp. Tasbih Blok E14, Jl. Karya Wisata",Medan Denai,20227,Medan
+CUST0053,Erlina Silalahi,085354283121,Jl. AH Nasution No. 232,Medan Marelan,20255,Medan
+CUST0054,Hendra Sembiring,082375584767,Jl. Sutomo No. 52,Medan Helvetia,20124,Medan
+CUST0055,Rosma Panjaitan,081134348156,"Komp. Citra Garden Blok C5, Jl. William Iskandar",Medan Labuhan,20252,Medan
+CUST0056,Surya Rahman,085276364449,"Komp. Tasbih Blok D28, Jl. Halat",Medan Deli,20241,Medan
+CUST0057,Siti Gunawan,081343866866,Jl. Gatot Subroto No. 179,Medan Marelan,20255,Medan
+CUST0058,Santi Rangkuti,082321042097,"Komp. Royal Sumatra Blok E16, Jl. Jamin Ginting",Medan Kota,20212,Medan
+CUST0059,Yuni Tanjung,089651263838,"Komp. Royal Sumatra Blok D27, Jl. Gatot Subroto",Medan Selayang,20131,Medan
+CUST0060,Tiur Nasution,083871593554,Jl. Sekip No. 11,Medan Polonia,20157,Medan
+CUST0061,Budi Hasibuan,081368506609,"Komp. Cemara Asri Blok G1, Jl. Marelan Raya",Medan Petisah,20111,Medan
+CUST0062,Lestari Silalahi,082111319194,"Perumahan J City Blok A1, Jl. Marelan Raya",Medan Kota,20212,Medan
+CUST0063,Hermanto Silalahi,089631463589,Jl. Ringroad No. 15,Medan Helvetia,20124,Medan
+CUST0064,Boy Effendi,085186147282,Jl. Sekip No. 112,Medan Kota,20212,Medan
+CUST0065,Rendi Sembiring,085377055933,Jl. Iskandar Muda No. 212,Medan Area,20214,Medan
+CUST0066,Surya Santoso,082118997388,Jl. Menteng No. 187,Medan Sunggal,20128,Medan
+CUST0067,Budi Nasution,082189565129,Jl. Adam Malik No. 44,Medan Tembung,20222,Medan
+CUST0068,Dewi Purba,085358868055,"Perumahan J City Blok E13, Jl. Kapten Muslim",Medan Polonia,20157,Medan
+CUST0069,Iwan Maulana,085262015837,Jl. Ringroad No. 162,Medan Area,20214,Medan
+CUST0070,Gunawan Manurung,085292225267,"Komp. Tasbih Blok A28, Jl. Setia Budi",Medan Barat,20231,Medan
+CUST0071,Pranata Saragih,085267119742,"Komp. Royal Sumatra Blok F7, Jl. AH Nasution",Medan Deli,20241,Medan
+CUST0072,Joko Pohan,085252955266,"Komp. Tasbih Blok E11, Jl. Gajah Mada",Medan Amplas,20148,Medan
+CUST0073,Ayu Setiawan,081138453216,Jl. Krakatau No. 137,Medan Maimun,20151,Medan
+CUST0074,Wahyu Saputra,085382737629,Jl. Glugur No. 32,Medan Deli,20241,Medan
+CUST0075,Fahmi Silalahi,082138295673,Jl. Adam Malik No. 124,Medan Kota,20212,Medan
+CUST0076,Rina Marpaung,081216983525,Jl. Krakatau No. 122,Medan Maimun,20151,Medan
+CUST0077,Erlina Siregar,085284437354,Jl. Dr. Mansyur No. 93,Medan Selayang,20131,Medan
+CUST0078,Surya Susanto,085255159624,"Komp. Cemara Asri Blok F13, Jl. Menteng",Medan Timur,20231,Medan
+CUST0079,Tiur Wibowo,089667674002,"Komp. Cemara Asri Blok F16, Jl. Marelan Raya",Medan Denai,20227,Medan
+CUST0080,Maya Batubara,089696216003,"Perumahan J City Blok G19, Jl. Sekip",Medan Polonia,20157,Medan
+CUST0081,Indra Harahap,083877971371,"Komp. Royal Sumatra Blok G5, Jl. Cemara",Medan Timur,20231,Medan
+CUST0082,Dedi Daulay,081266883095,"Komp. Tasbih Blok D29, Jl. Pancing",Medan Amplas,20148,Medan
+CUST0083,Fahmi Sitorus,083885918686,Jl. Karya Wisata No. 162,Medan Area,20214,Medan
+CUST0084,Rendi Setiawan,085276925855,Jl. Krakatau No. 232,Medan Marelan,20255,Medan
+CUST0085,Mega Rangkuti,085255424877,Jl. Pancing No. 147,Medan Polonia,20157,Medan
+CUST0086,Edy Marpaung,085356521944,"Komp. Cemara Asri Blok G19, Jl. Adam Malik",Medan Sunggal,20128,Medan
+CUST0087,Indra Simanjuntak,082112236471,Jl. Pasar Merah No. 112,Medan Area,20214,Medan
+CUST0088,Indra Wibowo,082225327326,Jl. Kapten Muslim No. 178,Medan Labuhan,20252,Medan
+CUST0089,Hermanto Nugroho,082391295635,Jl. Pancing No. 240,Medan Sunggal,20128,Medan
+CUST0090,Fitri Tanaka,081355637590,Jl. Dr. Mansyur No. 162,Medan Amplas,20148,Medan
+CUST0091,Rina Saputra,081335938392,Jl. Menteng No. 187,Medan Sunggal,20128,Medan
+CUST0092,Reza Sembiring,085196685406,Jl. Menteng No. 215,Medan Denai,20227,Medan
+CUST0093,Agus Rahman,081281426847,"Komp. Cemara Asri Blok D24, Jl. Gajah Mada",Medan Barat,20231,Medan
+CUST0094,Rosma Wijaya,081214954353,Jl. Sisingamangaraja No. 92,Medan Polonia,20157,Medan
+CUST0095,Mega Nugroho,081287887658,Jl. Adam Malik No. 200,Medan Tembung,20222,Medan
+CUST0096,Siti Sitorus,083849931040,Jl. SM Raja No. 66,Medan Helvetia,20124,Medan
+CUST0097,Rendi Batubara,081170433291,"Perumahan J City Blok D11, Jl. Dr. Mansyur",Medan Tuntungan,20135,Medan
+CUST0098,Edy Ginting,085220303473,Jl. Glugur No. 216,Medan Maimun,20151,Medan
+CUST0099,Bayu Hutabarat,085282665801,Jl. Kapten Muslim No. 74,Medan Tuntungan,20135,Medan
+CUST0100,Wahyu Simanjuntak,089687007307,Jl. Jamin Ginting No. 16,Medan Tembung,20222,Medan
+CUST0101,Roni Rahman,082222091927,"Komp. Citra Garden Blok C6, Jl. Iskandar Muda",Medan Amplas,20148,Medan
+CUST0102,Siti Rangkuti,082250464783,Jl. Denai No. 240,Medan Tuntungan,20135,Medan
+CUST0103,Reza Batubara,085231156043,"Komp. Citra Garden Blok C16, Jl. Glugur",Medan Labuhan,20252,Medan
+CUST0104,Putri Santoso,082286903172,"Perumahan J City Blok B11, Jl. Krakatau",Medan Perjuangan,20233,Medan
+CUST0105,Agus Silalahi,081180536713,"Komp. Royal Sumatra Blok G29, Jl. Sekip",Medan Amplas,20148,Medan
+CUST0106,Maya Wirawan,083834028087,"Komp. Royal Sumatra Blok D10, Jl. Brigjen Katamso",Medan Polonia,20157,Medan
+CUST0107,Tiur Susanto,089648962256,"Komp. Cemara Asri Blok F3, Jl. Denai",Medan Barat,20231,Medan
+CUST0108,Andi Pulungan,085333745644,Jl. Krakatau No. 12,Medan Baru,20153,Medan
+CUST0109,Pranata Nasution,083872835043,"Perumahan J City Blok D12, Jl. Menteng",Medan Petisah,20111,Medan
+CUST0110,Wahyu Pasaribu,083824621011,"Komp. Tasbih Blok D1, Jl. SM Raja",Medan Timur,20231,Medan
+CUST0111,Fitri Marpaung,085333423060,"Komp. Citra Garden Blok G14, Jl. Jamin Ginting",Medan Perjuangan,20233,Medan
+CUST0112,Rendi Sitorus,089653431437,"Komp. Royal Sumatra Blok E6, Jl. Cemara",Medan Maimun,20151,Medan
+CUST0113,Budi Batubara,081210839395,"Komp. Tasbih Blok B4, Jl. HM Yamin",Medan Selayang,20131,Medan
+CUST0114,Ferry Sitorus,081171868644,"Komp. Royal Sumatra Blok F16, Jl. Gatot Subroto",Medan Sunggal,20128,Medan
+CUST0115,Santi Rangkuti,082232883236,Jl. Karya Wisata No. 114,Medan Labuhan,20252,Medan
+CUST0116,Ferry Effendi,082276068317,"Komp. Tasbih Blok F4, Jl. Krakatau",Medan Sunggal,20128,Medan
+CUST0117,Eko Pohan,083817028756,"Komp. Cemara Asri Blok C1, Jl. Halat",Medan Selayang,20131,Medan
+CUST0118,Maya Pratama,085184323854,"Komp. Tasbih Blok E7, Jl. Glugur",Medan Polonia,20157,Medan
+CUST0119,Dewi Hutapea,085155652092,Jl. Ringroad No. 1,Medan Deli,20241,Medan
+CUST0120,Budi Rahman,081144932142,Jl. Bromo No. 23,Medan Perjuangan,20233,Medan
+CUST0121,Maya Tanjung,082314545024,Jl. Setia Budi No. 74,Medan Timur,20231,Medan
+CUST0122,Maya Wijaya,081214676360,"Komp. Tasbih Blok G25, Jl. Gajah Mada",Medan Barat,20231,Medan
+CUST0123,Hadi Wibowo,085170975793,Jl. Sutomo No. 142,Medan Barat,20231,Medan
+CUST0124,Togar Effendi,085293175630,Jl. Gatot Subroto No. 9,Medan Tuntungan,20135,Medan
+CUST0125,Gunawan Harahap,085190066916,"Komp. Citra Garden Blok D5, Jl. AH Nasution",Medan Tembung,20222,Medan
+CUST0126,Gunawan Batubara,083898509212,"Perumahan J City Blok D26, Jl. Gajah Mada",Medan Selayang,20131,Medan
+CUST0127,Rina Gunawan,085256521798,Jl. Kapten Muslim No. 183,Medan Johor,20144,Medan
+CUST0128,Pranata Nugroho,083872948789,Jl. HM Yamin No. 126,Medan Baru,20153,Medan
+CUST0129,Fitri Siregar,082198129891,"Komp. Citra Garden Blok G26, Jl. HM Yamin",Medan Sunggal,20128,Medan
+CUST0130,Taufik Purba,081144614681,"Komp. Cemara Asri Blok G15, Jl. Jamin Ginting",Medan Denai,20227,Medan
+CUST0131,Reza Situmorang,085121793990,"Komp. Tasbih Blok A10, Jl. Pancing",Medan Kota,20212,Medan
+CUST0132,Gunawan Ginting,085162578928,"Komp. Citra Garden Blok B29, Jl. Pancing",Medan Maimun,20151,Medan
+CUST0133,Bayu Tanjung,081314061077,"Komp. Royal Sumatra Blok B19, Jl. Iskandar Muda",Medan Helvetia,20124,Medan
+CUST0134,Dimas Lubis,082238137882,"Komp. Citra Garden Blok G4, Jl. Glugur",Medan Labuhan,20252,Medan
+CUST0135,Reza Daulay,081116464690,"Komp. Tasbih Blok B17, Jl. Denai",Medan Area,20214,Medan
+CUST0136,Surya Wirawan,081146225880,Jl. AH Nasution No. 21,Medan Barat,20231,Medan
+CUST0137,Ratna Purba,085376157657,"Perumahan J City Blok F12, Jl. Sekip",Medan Polonia,20157,Medan
+CUST0138,Togar Susanto,089646752085,"Perumahan J City Blok A12, Jl. Glugur",Medan Barat,20231,Medan
+CUST0139,Siti Wijaya,082347211553,"Komp. Royal Sumatra Blok G21, Jl. Brigjen Katamso",Medan Polonia,20157,Medan
+CUST0140,Indah Wirawan,082258135777,Jl. Ringroad No. 83,Medan Petisah,20111,Medan
+CUST0141,Dewi Rangkuti,081279953955,Jl. Pancing No. 123,Medan Denai,20227,Medan
+CUST0142,Hadi Sinaga,081342372130,"Komp. Tasbih Blok D25, Jl. Denai",Medan Labuhan,20252,Medan
+CUST0143,Gunawan Simanjuntak,081332788868,"Komp. Cemara Asri Blok B27, Jl. Adam Malik",Medan Kota,20212,Medan
+CUST0144,Indra Saputra,085257575786,Jl. Brigjen Katamso No. 210,Medan Labuhan,20252,Medan
+CUST0145,Nurul Wirawan,085252188552,"Komp. Tasbih Blok E10, Jl. Sekip",Medan Amplas,20148,Medan
+CUST0146,Dewi Damanik,081114867756,Jl. HM Yamin No. 207,Medan Petisah,20111,Medan
+CUST0147,Hadi Rahman,082267507784,"Komp. Cemara Asri Blok B9, Jl. Karya Wisata",Medan Perjuangan,20233,Medan
+CUST0148,Andi Pasaribu,081380876689,"Komp. Royal Sumatra Blok G19, Jl. Adam Malik",Medan Timur,20231,Medan
+CUST0149,Indra Setiawan,082363961655,"Komp. Royal Sumatra Blok D10, Jl. Jamin Ginting",Medan Amplas,20148,Medan
+CUST0150,Maya Susanto,081298905046,"Perumahan J City Blok F9, Jl. Glugur",Medan Labuhan,20252,Medan
+CUST0151,Maya Pohan,082295267429,"Komp. Citra Garden Blok C12, Jl. Halat",Medan Perjuangan,20233,Medan
+CUST0152,Iwan Setiawan,083839734773,"Komp. Tasbih Blok C21, Jl. Kapten Muslim",Medan Area,20214,Medan
+CUST0153,Boy Harahap,082270062181,Jl. Halat No. 166,Medan Timur,20231,Medan
+CUST0154,Budi Hutapea,085194568744,Jl. Ringroad No. 228,Medan Helvetia,20124,Medan
+CUST0155,Togar Lubis,082235513529,Jl. Bromo No. 227,Medan Selayang,20131,Medan
+CUST0156,Lestari Panjaitan,089662406489,Jl. Ringroad No. 77,Medan Sunggal,20128,Medan
+CUST0157,Nurul Situmorang,085271685899,"Komp. Cemara Asri Blok E26, Jl. William Iskandar",Medan Labuhan,20252,Medan
+CUST0158,Indah Marpaung,083839523899,Jl. William Iskandar No. 176,Medan Denai,20227,Medan
+CUST0159,Boy Wijaya,085292139589,Jl. Krakatau No. 210,Medan Deli,20241,Medan
+CUST0160,Santi Wijaya,085119475324,Jl. Cemara No. 175,Medan Petisah,20111,Medan
+CUST0161,Indra Pratama,085362734262,"Komp. Royal Sumatra Blok E24, Jl. Pancing",Medan Barat,20231,Medan
+CUST0162,Edy Nasution,082250898176,"Komp. Tasbih Blok A21, Jl. Sekip",Medan Tuntungan,20135,Medan
+CUST0163,Bayu Pulungan,082227339512,"Komp. Tasbih Blok C18, Jl. Gatot Subroto",Medan Perjuangan,20233,Medan
+CUST0164,Frans Hasibuan,081294452241,Jl. Sutomo No. 63,Medan Barat,20231,Medan
+CUST0165,Taufik Wirawan,085220067397,Jl. Karya Wisata No. 44,Medan Maimun,20151,Medan
+CUST0166,Wahyu Pratama,082381676873,"Komp. Cemara Asri Blok G1, Jl. Menteng",Medan Johor,20144,Medan
+CUST0167,Rina Pulungan,082238643672,"Komp. Royal Sumatra Blok B2, Jl. Brigjen Katamso",Medan Tembung,20222,Medan
+CUST0168,Mega Manurung,083891548390,Jl. Dr. Mansyur No. 99,Medan Timur,20231,Medan
+CUST0169,Maya Wibowo,082190363406,"Komp. Tasbih Blok G3, Jl. Karya Wisata",Medan Timur,20231,Medan
+CUST0170,Surya Sembiring,081230401004,"Komp. Cemara Asri Blok F3, Jl. Dr. Mansyur",Medan Kota,20212,Medan
+CUST0171,Wati Wijaya,081223211586,Jl. Ringroad No. 205,Medan Amplas,20148,Medan
+CUST0172,Robby Tanaka,081348104549,Jl. Halat No. 147,Medan Barat,20231,Medan
+CUST0173,Iwan Nugroho,082351813782,"Komp. Citra Garden Blok E7, Jl. Adam Malik",Medan Sunggal,20128,Medan
+CUST0174,Togar Sinaga,081324602577,"Komp. Cemara Asri Blok C21, Jl. HM Yamin",Medan Labuhan,20252,Medan
+CUST0175,Maya Ginting,089645352652,Jl. Denai No. 243,Medan Labuhan,20252,Medan
+CUST0176,Robby Ginting,082395183601,"Perumahan J City Blok D22, Jl. Halat",Medan Amplas,20148,Medan
+CUST0177,Ferry Wirawan,085312395774,"Komp. Cemara Asri Blok C15, Jl. Bromo",Medan Sunggal,20128,Medan
+CUST0178,Sari Harahap,083841366050,"Komp. Tasbih Blok B4, Jl. Adam Malik",Medan Johor,20144,Medan
+CUST0179,Eko Manurung,083815944260,"Komp. Cemara Asri Blok E26, Jl. Gatot Subroto",Medan Tuntungan,20135,Medan
+CUST0180,Indah Harahap,085384695284,Jl. Denai No. 119,Medan Baru,20153,Medan
+CUST0181,Bayu Simanjuntak,082271151242,"Perumahan J City Blok C7, Jl. Glugur",Medan Polonia,20157,Medan
+CUST0182,Wahyu Damanik,083826223883,"Komp. Citra Garden Blok A16, Jl. Pemuda",Medan Tembung,20222,Medan
+CUST0183,Wahyu Simanjuntak,085189941290,Jl. Pasar Merah No. 25,Medan Tuntungan,20135,Medan
+CUST0184,Hendra Situmorang,081327928670,Jl. Halat No. 26,Medan Marelan,20255,Medan
+CUST0185,Yuni Nasution,082146101560,"Komp. Citra Garden Blok A17, Jl. Cemara",Medan Deli,20241,Medan
+CUST0186,Rosma Pohan,085357775442,"Perumahan J City Blok C24, Jl. Menteng",Medan Tembung,20222,Medan
+CUST0187,Eko Pratama,082127389835,"Komp. Tasbih Blok A18, Jl. HM Yamin",Medan Amplas,20148,Medan
+CUST0188,Reza Silalahi,081144119339,Jl. Denai No. 182,Medan Tembung,20222,Medan
+CUST0189,Hermanto Purba,085251553620,Jl. Pemuda No. 139,Medan Tembung,20222,Medan
+CUST0190,Indra Tarigan,081337502494,Jl. Pasar Merah No. 242,Medan Tembung,20222,Medan
+CUST0191,Togar Panjaitan,085333165735,Jl. Menteng No. 231,Medan Maimun,20151,Medan
+CUST0192,Joko Setiawan,089686234531,"Komp. Tasbih Blok E29, Jl. Bromo",Medan Kota,20212,Medan
+CUST0193,Erlina Purba,081212384019,Jl. AH Nasution No. 213,Medan Petisah,20111,Medan
+CUST0194,Dimas Purba,085194253976,Jl. Glugur No. 247,Medan Tembung,20222,Medan
+CUST0195,Rendi Wijaya,085279732347,"Komp. Royal Sumatra Blok B28, Jl. Gajah Mada",Medan Baru,20153,Medan
+CUST0196,Erlina Hartono,082193786347,Jl. Glugur No. 145,Medan Tembung,20222,Medan
+CUST0197,Nurul Sembiring,082160786742,Jl. Halat No. 152,Medan Deli,20241,Medan
+CUST0198,Wahyu Lubis,081389298151,"Perumahan J City Blok B21, Jl. Sekip",Medan Timur,20231,Medan
+CUST0199,Hendra Tanaka,089656835557,"Komp. Royal Sumatra Blok E5, Jl. Dr. Mansyur",Medan Sunggal,20128,Medan
+CUST0200,Rendi Lubis,081262305155,Jl. William Iskandar No. 232,Medan Petisah,20111,Medan
+CUST0201,Dimas Sinaga,082118715607,Jl. Brigjen Katamso No. 101,Medan Petisah,20111,Medan
+CUST0202,Boy Maulana,081262426864,Jl. Glugur No. 221,Medan Sunggal,20128,Medan
+CUST0203,Reza Siregar,082158104323,Jl. Cemara No. 239,Medan Helvetia,20124,Medan
+CUST0204,Andi Susanto,083844971405,"Komp. Citra Garden Blok F27, Jl. Denai",Medan Polonia,20157,Medan
+CUST0205,Erlina Hutapea,082358131622,Jl. Glugur No. 142,Medan Selayang,20131,Medan
+CUST0206,Taufik Hutapea,089635983795,Jl. Brigjen Katamso No. 128,Medan Barat,20231,Medan
+CUST0207,Dedi Effendi,082388042147,Jl. William Iskandar No. 207,Medan Polonia,20157,Medan
+CUST0208,Erlina Halim,089666362142,Jl. HM Yamin No. 75,Medan Johor,20144,Medan
+CUST0209,Lestari Pulungan,085273427877,"Komp. Royal Sumatra Blok G12, Jl. Cemara",Medan Barat,20231,Medan
+CUST0210,Reza Hutabarat,081261138018,Jl. Dr. Mansyur No. 49,Medan Deli,20241,Medan
+CUST0211,Indra Wijaya,083828523543,Jl. HM Yamin No. 55,Medan Tembung,20222,Medan
+CUST0212,Hadi Daulay,089613653127,Jl. Sisingamangaraja No. 89,Medan Maimun,20151,Medan
+CUST0213,Surya Purba,085292113347,Jl. Marelan Raya No. 156,Medan Tuntungan,20135,Medan
+CUST0214,Reza Hartono,081168668776,Jl. Denai No. 32,Medan Timur,20231,Medan
+CUST0215,Wahyu Pasaribu,081195108643,"Komp. Citra Garden Blok A16, Jl. Krakatau",Medan Area,20214,Medan
+CUST0216,Maya Hutapea,082324584912,Jl. Gajah Mada No. 192,Medan Selayang,20131,Medan
+CUST0217,Tiur Simanjuntak,083819656299,"Komp. Royal Sumatra Blok A15, Jl. William Iskandar",Medan Deli,20241,Medan
+CUST0218,Bayu Effendi,085356125301,Jl. Dr. Mansyur No. 243,Medan Baru,20153,Medan
+CUST0219,Maruli Setiawan,081114576380,Jl. Gatot Subroto No. 117,Medan Denai,20227,Medan
+CUST0220,Robby Silalahi,083874766833,Jl. Sutomo No. 225,Medan Area,20214,Medan
+CUST0221,Tiur Setiawan,082241284914,Jl. Sutomo No. 168,Medan Deli,20241,Medan
+CUST0222,Gunawan Saragih,085143235551,"Komp. Cemara Asri Blok D16, Jl. Halat",Medan Petisah,20111,Medan
+CUST0223,Taufik Wijaya,085266402020,Jl. Gajah Mada No. 223,Medan Selayang,20131,Medan
+CUST0224,Sari Silalahi,081335432778,"Komp. Citra Garden Blok D6, Jl. Pancing",Medan Perjuangan,20233,Medan
+CUST0225,Rosma Wijaya,085142188087,"Komp. Royal Sumatra Blok C8, Jl. HM Yamin",Medan Petisah,20111,Medan
+CUST0226,Indra Marpaung,082323411629,"Komp. Royal Sumatra Blok F17, Jl. Cemara",Medan Selayang,20131,Medan
+CUST0227,Reza Gunawan,085283843491,"Perumahan J City Blok B6, Jl. Krakatau",Medan Petisah,20111,Medan
+CUST0228,Dimas Batubara,085125723824,"Komp. Tasbih Blok A1, Jl. Ringroad",Medan Area,20214,Medan
+CUST0229,Frans Sitorus,085378671531,Jl. Pemuda No. 124,Medan Sunggal,20128,Medan
+CUST0230,Rina Suryadi,089652436521,"Komp. Royal Sumatra Blok G15, Jl. Glugur",Medan Tuntungan,20135,Medan
+CUST0231,Maruli Siregar,081152945217,"Komp. Royal Sumatra Blok D17, Jl. SM Raja",Medan Tuntungan,20135,Medan
+CUST0232,Frans Salim,081374153026,"Komp. Tasbih Blok F23, Jl. Sutomo",Medan Labuhan,20252,Medan
+CUST0233,Dedi Salim,081338282153,"Komp. Royal Sumatra Blok F18, Jl. Halat",Medan Sunggal,20128,Medan
+CUST0234,Gunawan Saragih,082229382528,"Perumahan J City Blok A19, Jl. Brigjen Katamso",Medan Deli,20241,Medan
+CUST0235,Siti Manurung,082327277658,"Komp. Tasbih Blok G8, Jl. Gajah Mada",Medan Deli,20241,Medan
+CUST0236,Erlina Pulungan,085147813117,Jl. Pancing No. 86,Medan Labuhan,20252,Medan
+CUST0237,Hermanto Pasaribu,082332777979,Jl. Jamin Ginting No. 193,Medan Amplas,20148,Medan
+CUST0238,Ferry Hartono,082170881038,Jl. Karya Wisata No. 91,Medan Labuhan,20252,Medan
+CUST0239,Robby Tarigan,085182887907,"Komp. Cemara Asri Blok C22, Jl. AH Nasution",Medan Maimun,20151,Medan
+CUST0240,Taufik Purba,085249175314,Jl. Sekip No. 132,Medan Sunggal,20128,Medan
+CUST0241,Maya Wibowo,082346293187,Jl. Iskandar Muda No. 62,Medan Labuhan,20252,Medan
+CUST0242,Maruli Wibowo,085321782804,"Komp. Tasbih Blok D7, Jl. Brigjen Katamso",Medan Barat,20231,Medan
+CUST0243,Reza Salim,085382236726,"Perumahan J City Blok A8, Jl. Jamin Ginting",Medan Barat,20231,Medan
+CUST0244,Surya Rahman,085293683021,"Komp. Royal Sumatra Blok C8, Jl. Sekip",Medan Kota,20212,Medan
+CUST0245,Yuni Silalahi,081328984534,Jl. Jamin Ginting No. 212,Medan Petisah,20111,Medan
+CUST0246,Edy Rangkuti,083858723751,"Komp. Cemara Asri Blok F18, Jl. Jamin Ginting",Medan Polonia,20157,Medan
+CUST0247,Agus Salim,081375549776,"Komp. Royal Sumatra Blok B16, Jl. Sisingamangaraja",Medan Labuhan,20252,Medan
+CUST0248,Ratna Wijaya,085165873590,"Komp. Royal Sumatra Blok B9, Jl. Setia Budi",Medan Johor,20144,Medan
+CUST0249,Edy Situmorang,083880819648,Jl. HM Yamin No. 62,Medan Tuntungan,20135,Medan
+CUST0250,Togar Nugroho,082140328156,"Komp. Royal Sumatra Blok F24, Jl. Denai",Medan Deli,20241,Medan
+CUST0251,Taufik Maulana,082267436932,"Komp. Royal Sumatra Blok B3, Jl. Iskandar Muda",Medan Amplas,20148,Medan
+CUST0252,Rendi Tanaka,082256488089,Jl. Adam Malik No. 152,Medan Labuhan,20252,Medan
+CUST0253,Yuni Halim,082179302867,"Komp. Citra Garden Blok C20, Jl. Gajah Mada",Medan Deli,20241,Medan
+CUST0254,Boy Batubara,082338816071,Jl. SM Raja No. 119,Medan Baru,20153,Medan
+CUST0255,Tiur Siregar,083845674746,Jl. Glugur No. 13,Medan Tembung,20222,Medan
+CUST0256,Putri Sitorus,085176128970,"Perumahan J City Blok D12, Jl. Gajah Mada",Medan Tuntungan,20135,Medan
+CUST0257,Wahyu Siregar,082296254982,Jl. Setia Budi No. 159,Medan Tembung,20222,Medan
+CUST0258,Togar Lubis,085215506763,"Komp. Citra Garden Blok G25, Jl. Brigjen Katamso",Medan Marelan,20255,Medan
+CUST0259,Hendra Lubis,082197502526,Jl. Marelan Raya No. 230,Medan Marelan,20255,Medan
+CUST0260,Indra Lubis,081226862080,"Komp. Citra Garden Blok G3, Jl. Iskandar Muda",Medan Baru,20153,Medan
+CUST0261,Putri Purba,081279681335,Jl. Adam Malik No. 220,Medan Timur,20231,Medan
+CUST0262,Indah Pasaribu,085273404114,"Komp. Tasbih Blok B13, Jl. Cemara",Medan Tuntungan,20135,Medan
+CUST0263,Togar Sitorus,085185777201,"Komp. Citra Garden Blok E25, Jl. Denai",Medan Perjuangan,20233,Medan
+CUST0264,Rizky Nugroho,082150717199,Jl. Bromo No. 28,Medan Barat,20231,Medan
+CUST0265,Reza Susanto,082265965006,Jl. AH Nasution No. 156,Medan Deli,20241,Medan
+CUST0266,Rina Susanto,082364831666,Jl. Dr. Mansyur No. 13,Medan Area,20214,Medan
+CUST0267,Indra Pasaribu,083876857937,"Perumahan J City Blok D16, Jl. Sekip",Medan Kota,20212,Medan
+CUST0268,Togar Harahap,081174929350,Jl. SM Raja No. 239,Medan Johor,20144,Medan
+CUST0269,Rina Santoso,085256407016,"Komp. Royal Sumatra Blok C15, Jl. SM Raja",Medan Amplas,20148,Medan
+CUST0270,Dimas Rahman,085263002627,"Komp. Royal Sumatra Blok A18, Jl. Gajah Mada",Medan Kota,20212,Medan
+CUST0271,Nurul Hutabarat,082312892939,Jl. Menteng No. 39,Medan Polonia,20157,Medan
+CUST0272,Erlina Simanjuntak,082245576773,"Komp. Citra Garden Blok F5, Jl. Adam Malik",Medan Petisah,20111,Medan
+CUST0273,Gunawan Rahman,081378045428,Jl. Pemuda No. 249,Medan Marelan,20255,Medan
+CUST0274,Roni Manurung,082167486241,Jl. Menteng No. 3,Medan Labuhan,20252,Medan
+CUST0275,Putri Rangkuti,085293953901,"Perumahan J City Blok E25, Jl. Pemuda",Medan Petisah,20111,Medan
+CUST0276,Wati Ginting,089692729154,Jl. HM Yamin No. 240,Medan Barat,20231,Medan
+CUST0277,Rizky Purba,081355496180,Jl. Adam Malik No. 102,Medan Helvetia,20124,Medan
+CUST0278,Togar Tarigan,081348702698,Jl. Sekip No. 246,Medan Area,20214,Medan
+CUST0279,Santi Tarigan,081311909783,"Komp. Citra Garden Blok B20, Jl. Setia Budi",Medan Perjuangan,20233,Medan
+CUST0280,Fahmi Batubara,081182451195,"Komp. Cemara Asri Blok B16, Jl. Sekip",Medan Sunggal,20128,Medan
+CUST0281,Taufik Nasution,085282236640,Jl. Setia Budi No. 3,Medan Johor,20144,Medan
+CUST0282,Dedi Maulana,081171342350,Jl. Brigjen Katamso No. 202,Medan Helvetia,20124,Medan
+CUST0283,Gunawan Saputra,083854466035,"Komp. Citra Garden Blok F11, Jl. Bromo",Medan Selayang,20131,Medan
+CUST0284,Roni Sembiring,082342311165,"Komp. Citra Garden Blok E8, Jl. Dr. Mansyur",Medan Sunggal,20128,Medan
+CUST0285,Lestari Setiawan,081219258781,"Komp. Royal Sumatra Blok E8, Jl. Kapten Muslim",Medan Maimun,20151,Medan
+CUST0286,Andi Hutapea,085217482589,"Komp. Tasbih Blok G13, Jl. HM Yamin",Medan Petisah,20111,Medan
+CUST0287,Hadi Effendi,082293235664,Jl. SM Raja No. 4,Medan Perjuangan,20233,Medan
+CUST0288,Togar Effendi,083830939735,"Komp. Tasbih Blok A2, Jl. William Iskandar",Medan Marelan,20255,Medan
+CUST0289,Fitri Wibowo,082361465515,"Komp. Tasbih Blok E3, Jl. Marelan Raya",Medan Selayang,20131,Medan
+CUST0290,Wati Suryadi,085375035587,Jl. Krakatau No. 232,Medan Labuhan,20252,Medan
+CUST0291,Hermanto Wijaya,085229757553,"Komp. Royal Sumatra Blok D22, Jl. Jamin Ginting",Medan Baru,20153,Medan
+CUST0292,Reza Wirawan,085227988664,Jl. Ringroad No. 147,Medan Sunggal,20128,Medan
+CUST0293,Hendra Maulana,081372356795,Jl. William Iskandar No. 38,Medan Denai,20227,Medan
+CUST0294,Rizky Pratama,081247355277,Jl. Halat No. 35,Medan Barat,20231,Medan
+CUST0295,Putri Tarigan,082285831317,"Komp. Royal Sumatra Blok B19, Jl. HM Yamin",Medan Maimun,20151,Medan
+CUST0296,Dedi Wirawan,085335452274,"Perumahan J City Blok E4, Jl. AH Nasution",Medan Kota,20212,Medan
+CUST0297,Roni Pasaribu,082347285874,Jl. Ringroad No. 70,Medan Area,20214,Medan
+CUST0298,Budi Pratama,082378361977,"Komp. Royal Sumatra Blok B10, Jl. Gatot Subroto",Medan Denai,20227,Medan
+CUST0299,Siti Situmorang,083857732847,Jl. AH Nasution No. 6,Medan Sunggal,20128,Medan
+CUST0300,Hadi Hutabarat,081318748044,Jl. Denai No. 81,Medan Kota,20212,Medan
+CUST0301,Erlina Pratama,085180875514,Jl. Ringroad No. 232,Medan Labuhan,20252,Medan
+CUST0302,Hermanto Dalimunthe,081158242320,Jl. Krakatau No. 23,Medan Labuhan,20252,Medan
+CUST0303,Hendra Marpaung,085339141028,"Komp. Royal Sumatra Blok C14, Jl. AH Nasution",Medan Kota,20212,Medan
+CUST0304,Rina Pulungan,082180975536,"Komp. Cemara Asri Blok C1, Jl. Iskandar Muda",Medan Deli,20241,Medan
+CUST0305,Santi Sitorus,083855407533,Jl. AH Nasution No. 112,Medan Polonia,20157,Medan
+CUST0306,Bayu Hartono,085239625775,Jl. Menteng No. 57,Medan Maimun,20151,Medan
+CUST0307,Wahyu Situmorang,081128017428,Jl. Cemara No. 46,Medan Johor,20144,Medan
+CUST0308,Rendi Situmorang,082237307450,"Komp. Royal Sumatra Blok C3, Jl. Cemara",Medan Perjuangan,20233,Medan
+CUST0309,Andi Saputra,085240837670,"Komp. Cemara Asri Blok D4, Jl. Karya Wisata",Medan Labuhan,20252,Medan
+CUST0310,Agus Pratama,085191579431,"Perumahan J City Blok E13, Jl. Jamin Ginting",Medan Selayang,20131,Medan
+CUST0311,Dimas Maulana,085324652005,Jl. HM Yamin No. 133,Medan Tuntungan,20135,Medan
+CUST0312,Dedi Santoso,089664453380,"Perumahan J City Blok A23, Jl. Sisingamangaraja",Medan Petisah,20111,Medan
+CUST0313,Reza Tanjung,082227369211,"Komp. Citra Garden Blok G10, Jl. Dr. Mansyur",Medan Timur,20231,Medan
+CUST0314,Indra Sitorus,082136237809,Jl. Menteng No. 88,Medan Deli,20241,Medan
+CUST0315,Frans Pohan,081279641611,Jl. Halat No. 211,Medan Denai,20227,Medan
+CUST0316,Juliana Hutabarat,085178783775,"Komp. Cemara Asri Blok A27, Jl. Bromo",Medan Labuhan,20252,Medan
+CUST0317,Fahmi Setiawan,081313077018,Jl. Halat No. 200,Medan Marelan,20255,Medan
+CUST0318,Siti Halim,081377663483,Jl. Dr. Mansyur No. 213,Medan Kota,20212,Medan
+CUST0319,Hermanto Situmorang,083848251434,Jl. Brigjen Katamso No. 68,Medan Perjuangan,20233,Medan
+CUST0320,Robby Hutabarat,085314674759,"Komp. Royal Sumatra Blok D2, Jl. Ringroad",Medan Maimun,20151,Medan
+CUST0321,Iwan Pasaribu,085384149684,"Perumahan J City Blok A23, Jl. Marelan Raya",Medan Denai,20227,Medan
+CUST0322,Erlina Wijaya,081393385737,Jl. AH Nasution No. 57,Medan Marelan,20255,Medan
+CUST0323,Surya Saputra,089620364178,Jl. Adam Malik No. 180,Medan Barat,20231,Medan
+CUST0324,Dewi Santoso,081255795609,"Perumahan J City Blok E11, Jl. Ringroad",Medan Polonia,20157,Medan
+CUST0325,Agus Daulay,082126733345,"Komp. Citra Garden Blok C21, Jl. Setia Budi",Medan Denai,20227,Medan
+CUST0326,Bayu Hutabarat,089678755097,"Komp. Citra Garden Blok D23, Jl. Glugur",Medan Deli,20241,Medan
+CUST0327,Joko Dalimunthe,082395264098,"Komp. Citra Garden Blok E14, Jl. Krakatau",Medan Selayang,20131,Medan
+CUST0328,Yuni Rangkuti,082152987346,Jl. Sisingamangaraja No. 148,Medan Kota,20212,Medan
+CUST0329,Joko Setiawan,085218468191,Jl. Glugur No. 187,Medan Area,20214,Medan
+CUST0330,Robby Dalimunthe,085288235834,"Komp. Royal Sumatra Blok A14, Jl. Pancing",Medan Tembung,20222,Medan
+CUST0331,Dedi Simanjuntak,082333563764,Jl. Krakatau No. 97,Medan Petisah,20111,Medan
+CUST0332,Wati Siregar,085236086287,"Perumahan J City Blok D4, Jl. Menteng",Medan Deli,20241,Medan
+CUST0333,Joko Tanaka,082348619912,Jl. William Iskandar No. 246,Medan Marelan,20255,Medan
+CUST0334,Bayu Siregar,081373377762,"Komp. Cemara Asri Blok F25, Jl. SM Raja",Medan Perjuangan,20233,Medan
+CUST0335,Yuni Nugroho,081185815721,Jl. Sisingamangaraja No. 10,Medan Baru,20153,Medan
+CUST0336,Ayu Panjaitan,082353944781,"Komp. Cemara Asri Blok C21, Jl. Brigjen Katamso",Medan Selayang,20131,Medan
+CUST0337,Dimas Rangkuti,082378771749,"Komp. Tasbih Blok B29, Jl. Ringroad",Medan Maimun,20151,Medan
+CUST0338,Maruli Susanto,082272461355,"Komp. Cemara Asri Blok A27, Jl. Halat",Medan Kota,20212,Medan
+CUST0339,Wati Nugroho,082152443160,"Komp. Royal Sumatra Blok A10, Jl. Glugur",Medan Tuntungan,20135,Medan
+CUST0340,Hadi Damanik,083865599954,Jl. Iskandar Muda No. 98,Medan Tembung,20222,Medan
+CUST0341,Surya Tanjung,082225701910,Jl. HM Yamin No. 124,Medan Sunggal,20128,Medan
+CUST0342,Frans Siregar,085277111722,"Perumahan J City Blok G10, Jl. Ringroad",Medan Petisah,20111,Medan
+CUST0343,Wahyu Sembiring,083862232396,"Komp. Citra Garden Blok C5, Jl. Krakatau",Medan Selayang,20131,Medan
+CUST0344,Yuni Nugroho,085259996109,Jl. Iskandar Muda No. 81,Medan Maimun,20151,Medan
+CUST0345,Erlina Tanjung,081275121013,"Komp. Cemara Asri Blok E25, Jl. Menteng",Medan Baru,20153,Medan
+CUST0346,Rizky Tarigan,083876143112,"Komp. Royal Sumatra Blok C9, Jl. William Iskandar",Medan Tuntungan,20135,Medan
+CUST0347,Robby Pulungan,085223516148,Jl. Denai No. 13,Medan Barat,20231,Medan
+CUST0348,Pranata Tanaka,082392667166,Jl. Ringroad No. 207,Medan Area,20214,Medan
+CUST0349,Agus Ginting,085239417265,"Komp. Citra Garden Blok G11, Jl. Sutomo",Medan Kota,20212,Medan
+CUST0350,Agus Wijaya,081161682203,"Komp. Royal Sumatra Blok F3, Jl. Pasar Merah",Medan Petisah,20111,Medan
+CUST0351,Hendra Nasution,082278592595,Jl. Ringroad No. 12,Medan Timur,20231,Medan
+CUST0352,Togar Sinaga,085185984232,Jl. Gatot Subroto No. 77,Medan Amplas,20148,Medan
+CUST0353,Hermanto Maulana,085227055535,"Komp. Tasbih Blok E18, Jl. Adam Malik",Medan Petisah,20111,Medan
+CUST0354,Tiur Wibowo,085128313225,Jl. Karya Wisata No. 186,Medan Barat,20231,Medan
+CUST0355,Nurul Manurung,083897705494,"Komp. Royal Sumatra Blok G15, Jl. Brigjen Katamso",Medan Timur,20231,Medan
+CUST0356,Hendra Lubis,081286559382,Jl. Setia Budi No. 25,Medan Maimun,20151,Medan
+CUST0357,Surya Saputra,089675301954,"Komp. Cemara Asri Blok F19, Jl. Sisingamangaraja",Medan Barat,20231,Medan
+CUST0358,Ratna Salim,082389126275,"Komp. Royal Sumatra Blok E6, Jl. Krakatau",Medan Labuhan,20252,Medan
+CUST0359,Yuni Wibowo,082378044420,Jl. SM Raja No. 40,Medan Kota,20212,Medan
+CUST0360,Roni Marpaung,081115221441,"Komp. Royal Sumatra Blok E22, Jl. Adam Malik",Medan Amplas,20148,Medan
+CUST0361,Maya Setiawan,082281118185,Jl. Denai No. 134,Medan Kota,20212,Medan
+CUST0362,Ferry Marpaung,085397868856,Jl. Marelan Raya No. 83,Medan Baru,20153,Medan
+CUST0363,Budi Setiawan,083884464419,Jl. Denai No. 148,Medan Barat,20231,Medan
+CUST0364,Wati Siregar,082343295677,"Perumahan J City Blok A23, Jl. Pemuda",Medan Polonia,20157,Medan
+CUST0365,Frans Dalimunthe,085255459870,"Perumahan J City Blok B10, Jl. Denai",Medan Kota,20212,Medan
+CUST0366,Rosma Silalahi,085161601997,Jl. Jamin Ginting No. 225,Medan Labuhan,20252,Medan
+CUST0367,Gunawan Batubara,089689526838,Jl. Menteng No. 138,Medan Sunggal,20128,Medan
+CUST0368,Reza Wirawan,085327801304,Jl. Marelan Raya No. 193,Medan Labuhan,20252,Medan
+CUST0369,Sari Halim,083814796389,Jl. Marelan Raya No. 234,Medan Baru,20153,Medan
+CUST0370,Hadi Setiawan,085288482074,"Perumahan J City Blok B10, Jl. Iskandar Muda",Medan Marelan,20255,Medan
+CUST0371,Frans Tarigan,089629354162,"Komp. Tasbih Blok F11, Jl. Adam Malik",Medan Tuntungan,20135,Medan
+CUST0372,Ferry Rahman,081396639219,"Komp. Cemara Asri Blok F8, Jl. Bromo",Medan Sunggal,20128,Medan
+CUST0373,Nurul Setiawan,085311481317,Jl. Bromo No. 146,Medan Maimun,20151,Medan
+CUST0374,Pranata Silalahi,085338455564,"Komp. Cemara Asri Blok C25, Jl. Dr. Mansyur",Medan Petisah,20111,Medan
+CUST0375,Andi Pulungan,085225566539,"Komp. Citra Garden Blok D16, Jl. Denai",Medan Petisah,20111,Medan
+CUST0376,Fitri Pratama,082259387234,Jl. Gatot Subroto No. 60,Medan Barat,20231,Medan
+CUST0377,Boy Saragih,081171042038,Jl. Ringroad No. 129,Medan Helvetia,20124,Medan
+CUST0378,Ferry Hutabarat,081351266894,"Komp. Cemara Asri Blok A20, Jl. Menteng",Medan Amplas,20148,Medan
+CUST0379,Ratna Susanto,081365783354,Jl. HM Yamin No. 214,Medan Deli,20241,Medan
+CUST0380,Hendra Maulana,081235828524,"Komp. Citra Garden Blok B11, Jl. Iskandar Muda",Medan Kota,20212,Medan
+CUST0381,Roni Hutapea,082150591784,"Komp. Royal Sumatra Blok E26, Jl. Sekip",Medan Tuntungan,20135,Medan
+CUST0382,Eko Hutabarat,089654631798,"Komp. Citra Garden Blok G17, Jl. Adam Malik",Medan Labuhan,20252,Medan
+CUST0383,Nurul Ginting,082377805414,"Komp. Cemara Asri Blok D18, Jl. Iskandar Muda",Medan Marelan,20255,Medan
+CUST0384,Roni Pratama,083892898372,Jl. SM Raja No. 78,Medan Tuntungan,20135,Medan
+CUST0385,Fahmi Simanjuntak,085287476021,Jl. Bromo No. 225,Medan Tembung,20222,Medan
+CUST0386,Robby Maulana,082162579385,Jl. Karya Wisata No. 38,Medan Area,20214,Medan
+CUST0387,Andi Pratama,082331719939,"Komp. Cemara Asri Blok F26, Jl. Jamin Ginting",Medan Johor,20144,Medan
+CUST0388,Ferry Sitorus,085365352883,"Perumahan J City Blok B21, Jl. HM Yamin",Medan Selayang,20131,Medan
+CUST0389,Fahmi Nugroho,082136198455,Jl. Krakatau No. 182,Medan Deli,20241,Medan
+CUST0390,Tiur Santoso,089625954781,"Perumahan J City Blok F2, Jl. HM Yamin",Medan Denai,20227,Medan
+CUST0391,Roni Maulana,085260885835,"Komp. Tasbih Blok C25, Jl. Sutomo",Medan Helvetia,20124,Medan
+CUST0392,Taufik Hutapea,085360668251,"Komp. Citra Garden Blok A22, Jl. Glugur",Medan Amplas,20148,Medan
+CUST0393,Joko Ginting,082245875480,"Komp. Royal Sumatra Blok B15, Jl. Pancing",Medan Polonia,20157,Medan
+CUST0394,Pranata Wirawan,085115934072,Jl. HM Yamin No. 146,Medan Perjuangan,20233,Medan
+CUST0395,Eko Tanjung,085176514240,"Perumahan J City Blok B8, Jl. Halat",Medan Denai,20227,Medan
+CUST0396,Hadi Maulana,085215448880,"Perumahan J City Blok G6, Jl. Menteng",Medan Maimun,20151,Medan
+CUST0397,Frans Tanaka,089645399422,Jl. Sekip No. 172,Medan Helvetia,20124,Medan
+CUST0398,Nurul Purba,082311955215,Jl. Glugur No. 78,Medan Petisah,20111,Medan
+CUST0399,Rosma Pulungan,081232253706,"Perumahan J City Blok A25, Jl. HM Yamin",Medan Labuhan,20252,Medan
+CUST0400,Lestari Situmorang,081248046007,Jl. SM Raja No. 230,Medan Marelan,20255,Medan
+CUST0401,Wahyu Hutapea,082176668585,Jl. Pancing No. 35,Medan Maimun,20151,Medan
+CUST0402,Eko Salim,081273673688,"Komp. Tasbih Blok C17, Jl. Karya Wisata",Medan Barat,20231,Medan
+CUST0403,Andi Tarigan,082173591839,Jl. Menteng No. 24,Medan Timur,20231,Medan
+CUST0404,Rosma Rangkuti,082252648044,"Komp. Tasbih Blok B23, Jl. Brigjen Katamso",Medan Denai,20227,Medan
+CUST0405,Andi Hutabarat,085385351975,"Komp. Cemara Asri Blok C24, Jl. Karya Wisata",Medan Deli,20241,Medan
+CUST0406,Juliana Susanto,085349306874,Jl. Bromo No. 153,Medan Polonia,20157,Medan
+CUST0407,Joko Dalimunthe,085350061797,Jl. Sisingamangaraja No. 210,Medan Marelan,20255,Medan
+CUST0408,Santi Simanjuntak,083823871439,"Perumahan J City Blok C20, Jl. Halat",Medan Sunggal,20128,Medan
+CUST0409,Hadi Lubis,085320528084,"Komp. Tasbih Blok B11, Jl. Iskandar Muda",Medan Timur,20231,Medan
+CUST0410,Lestari Setiawan,085362049413,"Komp. Royal Sumatra Blok F21, Jl. Adam Malik",Medan Baru,20153,Medan
+CUST0411,Rosma Nugroho,081262165749,Jl. Sekip No. 88,Medan Johor,20144,Medan
+CUST0412,Mega Santoso,085364781551,"Komp. Royal Sumatra Blok A9, Jl. Jamin Ginting",Medan Petisah,20111,Medan
+CUST0413,Tiur Hutapea,083824911196,"Komp. Cemara Asri Blok B21, Jl. Brigjen Katamso",Medan Area,20214,Medan
+CUST0414,Andi Tarigan,082278986369,"Perumahan J City Blok G22, Jl. Dr. Mansyur",Medan Barat,20231,Medan
+CUST0415,Robby Saputra,089698259358,Jl. Sisingamangaraja No. 116,Medan Petisah,20111,Medan
+CUST0416,Reza Suryadi,085121642997,Jl. Cemara No. 137,Medan Denai,20227,Medan
+CUST0417,Ratna Wirawan,082267879578,Jl. SM Raja No. 68,Medan Johor,20144,Medan
+CUST0418,Ratna Situmorang,085258944943,Jl. Ringroad No. 189,Medan Petisah,20111,Medan
+CUST0419,Joko Santoso,081279067469,"Komp. Citra Garden Blok B13, Jl. Kapten Muslim",Medan Timur,20231,Medan
+CUST0420,Rosma Tanjung,089651716947,Jl. Dr. Mansyur No. 50,Medan Selayang,20131,Medan
+CUST0421,Rendi Tarigan,082138595711,"Komp. Tasbih Blok F4, Jl. Dr. Mansyur",Medan Marelan,20255,Medan
+CUST0422,Yuni Wijaya,081277506592,Jl. Cemara No. 5,Medan Kota,20212,Medan
+CUST0423,Robby Simanjuntak,081334702297,"Komp. Royal Sumatra Blok D1, Jl. Krakatau",Medan Polonia,20157,Medan
+CUST0424,Surya Pohan,082252255935,"Komp. Citra Garden Blok A15, Jl. Gajah Mada",Medan Deli,20241,Medan
+CUST0425,Dedi Lubis,083898306126,Jl. Kapten Muslim No. 152,Medan Johor,20144,Medan
+CUST0426,Santi Situmorang,082188156607,Jl. Dr. Mansyur No. 31,Medan Tembung,20222,Medan
+CUST0427,Indra Effendi,085299725339,"Komp. Citra Garden Blok C29, Jl. Marelan Raya",Medan Amplas,20148,Medan
+CUST0428,Andi Maulana,081165137338,Jl. AH Nasution No. 129,Medan Johor,20144,Medan
+CUST0429,Indra Wijaya,083831963296,Jl. Glugur No. 9,Medan Barat,20231,Medan
+CUST0430,Maruli Rahman,081288612449,"Komp. Tasbih Blok A5, Jl. Marelan Raya",Medan Amplas,20148,Medan
+CUST0431,Dimas Pratama,082272745628,Jl. Karya Wisata No. 52,Medan Deli,20241,Medan
+CUST0432,Gunawan Salim,082380835245,Jl. Krakatau No. 178,Medan Baru,20153,Medan
+CUST0433,Surya Pulungan,083830022177,Jl. Menteng No. 42,Medan Helvetia,20124,Medan
+CUST0434,Fahmi Tarigan,085111899618,Jl. Glugur No. 232,Medan Maimun,20151,Medan
+CUST0435,Dimas Saputra,085156602767,"Komp. Citra Garden Blok D1, Jl. Marelan Raya",Medan Timur,20231,Medan
+CUST0436,Agus Effendi,085169029727,Jl. Iskandar Muda No. 186,Medan Amplas,20148,Medan
+CUST0437,Reza Pohan,083835502429,Jl. Menteng No. 46,Medan Barat,20231,Medan
+CUST0438,Dimas Pratama,089694135551,"Komp. Royal Sumatra Blok E20, Jl. HM Yamin",Medan Selayang,20131,Medan
+CUST0439,Maya Susanto,083835037693,"Komp. Cemara Asri Blok B2, Jl. Pasar Merah",Medan Selayang,20131,Medan
+CUST0440,Agus Dalimunthe,081328516493,Jl. Sutomo No. 232,Medan Marelan,20255,Medan
+CUST0441,Robby Purba,081252558421,Jl. Setia Budi No. 53,Medan Perjuangan,20233,Medan
+CUST0442,Santi Damanik,081152053203,"Perumahan J City Blok A12, Jl. Halat",Medan Tuntungan,20135,Medan
+CUST0443,Indra Santoso,085177563322,"Perumahan J City Blok D23, Jl. Krakatau",Medan Area,20214,Medan
+CUST0444,Mega Panjaitan,089632381823,Jl. Krakatau No. 109,Medan Petisah,20111,Medan
+CUST0445,Ayu Ginting,081361362575,"Komp. Citra Garden Blok C8, Jl. Dr. Mansyur",Medan Marelan,20255,Medan
+CUST0446,Edy Wibowo,085144011580,"Komp. Citra Garden Blok B5, Jl. Ringroad",Medan Labuhan,20252,Medan
+CUST0447,Erlina Santoso,082226586191,Jl. Bromo No. 95,Medan Petisah,20111,Medan
+CUST0448,Frans Wibowo,085128959777,"Komp. Tasbih Blok E20, Jl. Cemara",Medan Deli,20241,Medan
+CUST0449,Fitri Harahap,083868351230,Jl. Jamin Ginting No. 154,Medan Perjuangan,20233,Medan
+CUST0450,Dimas Nugroho,082155383428,"Perumahan J City Blok D5, Jl. Jamin Ginting",Medan Petisah,20111,Medan
+CUST0451,Hadi Halim,081250139224,"Komp. Royal Sumatra Blok B22, Jl. Kapten Muslim",Medan Baru,20153,Medan
+CUST0452,Yuni Nasution,085158527511,"Komp. Cemara Asri Blok G20, Jl. Glugur",Medan Timur,20231,Medan
+CUST0453,Tiur Pratama,082129973023,"Komp. Tasbih Blok C23, Jl. Ringroad",Medan Marelan,20255,Medan
+CUST0454,Togar Ginting,085277095920,Jl. Bromo No. 98,Medan Perjuangan,20233,Medan
+CUST0455,Dedi Daulay,085296802162,"Komp. Royal Sumatra Blok B3, Jl. Bromo",Medan Timur,20231,Medan
+CUST0456,Taufik Dalimunthe,089629922758,"Komp. Cemara Asri Blok F9, Jl. Denai",Medan Sunggal,20128,Medan
+CUST0457,Maruli Setiawan,085226801212,Jl. Pancing No. 76,Medan Helvetia,20124,Medan
+CUST0458,Sari Santoso,085252766691,"Komp. Tasbih Blok E24, Jl. AH Nasution",Medan Barat,20231,Medan
+CUST0459,Frans Pohan,085139808116,"Komp. Royal Sumatra Blok E6, Jl. Sisingamangaraja",Medan Barat,20231,Medan
+CUST0460,Nurul Hutabarat,089621204840,"Perumahan J City Blok A21, Jl. Bromo",Medan Kota,20212,Medan
+CUST0461,Ayu Nugroho,081115111641,Jl. Sisingamangaraja No. 94,Medan Kota,20212,Medan
+CUST0462,Wati Nasution,081234408442,"Komp. Royal Sumatra Blok F2, Jl. Kapten Muslim",Medan Selayang,20131,Medan
+CUST0463,Dimas Wijaya,082210072485,Jl. Pancing No. 89,Medan Marelan,20255,Medan
+CUST0464,Hendra Nasution,081286701512,Jl. Bromo No. 116,Medan Timur,20231,Medan
+CUST0465,Hendra Daulay,089622821492,Jl. Iskandar Muda No. 150,Medan Baru,20153,Medan
+CUST0466,Rendi Tarigan,081282196436,"Perumahan J City Blok E6, Jl. Menteng",Medan Selayang,20131,Medan
+CUST0467,Dimas Hasibuan,082213612151,Jl. Halat No. 91,Medan Helvetia,20124,Medan
+CUST0468,Siti Panjaitan,082183355423,Jl. Brigjen Katamso No. 7,Medan Baru,20153,Medan
+CUST0469,Rina Rangkuti,081322896179,"Perumahan J City Blok E1, Jl. Pancing",Medan Petisah,20111,Medan
+CUST0470,Ayu Nugroho,085233115994,Jl. Iskandar Muda No. 141,Medan Maimun,20151,Medan
+CUST0471,Iwan Hasibuan,082293038314,Jl. Halat No. 162,Medan Johor,20144,Medan
+CUST0472,Frans Sitorus,081229031985,Jl. Iskandar Muda No. 157,Medan Tembung,20222,Medan
+CUST0473,Santi Susanto,082323178670,Jl. Ringroad No. 89,Medan Sunggal,20128,Medan
+CUST0474,Budi Marpaung,082258528306,"Komp. Cemara Asri Blok E6, Jl. Sutomo",Medan Polonia,20157,Medan
+CUST0475,Santi Wirawan,085327533656,Jl. Pemuda No. 121,Medan Maimun,20151,Medan
+CUST0476,Bayu Sinaga,081356282478,"Komp. Cemara Asri Blok G8, Jl. Setia Budi",Medan Barat,20231,Medan
+CUST0477,Eko Batubara,089660667418,Jl. Sutomo No. 75,Medan Polonia,20157,Medan
+CUST0478,Hendra Pratama,085165118913,"Komp. Citra Garden Blok G15, Jl. Cemara",Medan Amplas,20148,Medan
+CUST0479,Rendi Nasution,082282351790,"Komp. Tasbih Blok B17, Jl. HM Yamin",Medan Maimun,20151,Medan
+CUST0480,Siti Pohan,081211295293,Jl. Krakatau No. 16,Medan Petisah,20111,Medan
+CUST0481,Wati Dalimunthe,082222619443,Jl. Krakatau No. 149,Medan Maimun,20151,Medan
+CUST0482,Indah Susanto,083826165350,"Komp. Royal Sumatra Blok C28, Jl. William Iskandar",Medan Polonia,20157,Medan
+CUST0483,Andi Pratama,081318472440,"Komp. Tasbih Blok A19, Jl. Sekip",Medan Polonia,20157,Medan
+CUST0484,Wahyu Ginting,082265807483,Jl. Karya Wisata No. 136,Medan Denai,20227,Medan
+CUST0485,Ratna Panjaitan,089654728755,"Komp. Royal Sumatra Blok A28, Jl. Setia Budi",Medan Denai,20227,Medan
+CUST0486,Wati Harahap,082340201426,Jl. Sisingamangaraja No. 52,Medan Kota,20212,Medan
+CUST0487,Hendra Saputra,085194315776,Jl. Sutomo No. 154,Medan Area,20214,Medan
+CUST0488,Sari Rangkuti,081318721769,Jl. Krakatau No. 82,Medan Kota,20212,Medan
+CUST0489,Rina Silalahi,081164382802,Jl. Denai No. 102,Medan Baru,20153,Medan
+CUST0490,Edy Nasution,089653463474,Jl. Gatot Subroto No. 20,Medan Petisah,20111,Medan
+CUST0491,Reza Tarigan,081189478260,"Perumahan J City Blok B10, Jl. Bromo",Medan Selayang,20131,Medan
+CUST0492,Boy Manurung,085350607046,Jl. HM Yamin No. 35,Medan Amplas,20148,Medan
+CUST0493,Robby Santoso,085320449050,"Komp. Cemara Asri Blok B15, Jl. Gatot Subroto",Medan Barat,20231,Medan
+CUST0494,Reza Susanto,082325677001,Jl. Krakatau No. 45,Medan Timur,20231,Medan
+CUST0495,Hendra Pratama,082339726276,Jl. Krakatau No. 162,Medan Tembung,20222,Medan
+CUST0496,Rina Tarigan,081288118695,"Komp. Cemara Asri Blok D22, Jl. AH Nasution",Medan Area,20214,Medan
+CUST0497,Nurul Ginting,082295871298,"Perumahan J City Blok D27, Jl. AH Nasution",Medan Helvetia,20124,Medan
+CUST0498,Ayu Pulungan,081194489499,Jl. Dr. Mansyur No. 36,Medan Barat,20231,Medan
+CUST0499,Lestari Pulungan,082312553224,Jl. Glugur No. 231,Medan Perjuangan,20233,Medan
+CUST0500,Dewi Ginting,082386621619,Jl. Sekip No. 110,Medan Johor,20144,Medan
+CUST0501,Andi Daulay,085183114710,Jl. Pemuda No. 63,Medan Perjuangan,20233,Medan
+CUST0502,Nurul Pulungan,081358595600,Jl. Sisingamangaraja No. 118,Medan Barat,20231,Medan
+CUST0503,Dewi Silalahi,082315151582,Jl. Pancing No. 215,Medan Denai,20227,Medan
+CUST0504,Reza Pratama,081341755757,Jl. Iskandar Muda No. 218,Medan Perjuangan,20233,Medan
+CUST0505,Wahyu Daulay,082360622615,Jl. Bromo No. 246,Medan Area,20214,Medan
+CUST0506,Agus Pulungan,082249893900,"Komp. Royal Sumatra Blok E10, Jl. Gatot Subroto",Medan Barat,20231,Medan
+CUST0507,Robby Sinaga,081389092337,"Komp. Citra Garden Blok E22, Jl. Gatot Subroto",Medan Barat,20231,Medan
+CUST0508,Iwan Tanaka,082383136032,Jl. Gatot Subroto No. 8,Medan Kota,20212,Medan
+CUST0509,Eko Hasibuan,082294372790,Jl. Gatot Subroto No. 6,Medan Baru,20153,Medan
+CUST0510,Tiur Sinaga,081244773593,Jl. Halat No. 23,Medan Tuntungan,20135,Medan
+CUST0511,Dimas Pratama,085196998341,"Komp. Royal Sumatra Blok F17, Jl. SM Raja",Medan Denai,20227,Medan
+CUST0512,Wahyu Nugroho,083848619180,"Komp. Tasbih Blok D9, Jl. Denai",Medan Area,20214,Medan
+CUST0513,Erlina Susanto,081172992791,Jl. Gajah Mada No. 169,Medan Timur,20231,Medan
+CUST0514,Togar Tanjung,081199321022,Jl. Sekip No. 132,Medan Sunggal,20128,Medan
+CUST0515,Lestari Hutabarat,085178234059,"Komp. Citra Garden Blok G13, Jl. Dr. Mansyur",Medan Labuhan,20252,Medan
+CUST0516,Ayu Pulungan,082312676103,Jl. SM Raja No. 107,Medan Marelan,20255,Medan
+CUST0517,Hadi Saputra,081173642117,Jl. Ringroad No. 242,Medan Area,20214,Medan
+CUST0518,Erlina Nugroho,081316325889,Jl. Sutomo No. 132,Medan Johor,20144,Medan
+CUST0519,Indah Tanaka,081144288193,Jl. Menteng No. 108,Medan Helvetia,20124,Medan
+CUST0520,Rina Pulungan,085353621438,Jl. Gatot Subroto No. 7,Medan Denai,20227,Medan
+CUST0521,Sari Silalahi,081130547411,Jl. HM Yamin No. 39,Medan Petisah,20111,Medan
+CUST0522,Hadi Wirawan,085358638972,"Komp. Royal Sumatra Blok C19, Jl. Gajah Mada",Medan Denai,20227,Medan
+CUST0523,Maya Lubis,082186665135,Jl. Kapten Muslim No. 138,Medan Barat,20231,Medan
+CUST0524,Reza Nasution,085194525484,Jl. Bromo No. 128,Medan Sunggal,20128,Medan
+CUST0525,Indah Sembiring,081291398993,"Komp. Tasbih Blok C24, Jl. Pancing",Medan Tuntungan,20135,Medan
+CUST0526,Juliana Sitorus,082226187856,Jl. AH Nasution No. 59,Medan Timur,20231,Medan
+CUST0527,Joko Situmorang,081383804799,"Perumahan J City Blok B3, Jl. Halat",Medan Kota,20212,Medan
+CUST0528,Yuni Wirawan,085263057501,"Komp. Citra Garden Blok F29, Jl. Bromo",Medan Tembung,20222,Medan
+CUST0529,Ratna Tanjung,085282341545,"Komp. Citra Garden Blok D3, Jl. Gajah Mada",Medan Barat,20231,Medan
+CUST0530,Andi Rahman,083876828944,"Komp. Citra Garden Blok D20, Jl. Denai",Medan Barat,20231,Medan
+CUST0531,Hermanto Simanjuntak,085294197950,"Komp. Cemara Asri Blok B8, Jl. SM Raja",Medan Sunggal,20128,Medan
+CUST0532,Maya Situmorang,082256576534,"Komp. Cemara Asri Blok E17, Jl. Glugur",Medan Helvetia,20124,Medan
+CUST0533,Edy Pohan,082296775559,Jl. Ringroad No. 70,Medan Selayang,20131,Medan
