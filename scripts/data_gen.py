@@ -351,9 +351,9 @@ cust_cols = ["customer_id","nama_pemilik","no_telepon","alamat","kecamatan","kot
     "jenis_oli","interval_oli_km","segmen_pemakaian_asli","km_per_bulan"]
 cars_out = cars_out[cust_cols]
 
-cust.to_csv("/home/claude/pelanggan.csv", index=False)
-cars_out.to_csv("/home/claude/pelanggan_mobil.csv", index=False)
-svc.to_csv("/home/claude/riwayat_servis.csv", index=False)
+cust.to_csv("data/raw/pelanggan.csv", index=False)
+cars_out.to_csv("data/raw/pelanggan_mobil.csv", index=False)
+svc.to_csv("data/raw/riwayat_servis.csv", index=False)
 
 print("=== RINGKASAN DATASET ===")
 print(f"Pelanggan unik   : {cust.shape[0]}")
